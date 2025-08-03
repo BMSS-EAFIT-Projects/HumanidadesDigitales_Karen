@@ -1,0 +1,14 @@
+name: Hello GitHub Actions
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Run echo command
+      run: echo "¡Hola desde GitHub Actions!"

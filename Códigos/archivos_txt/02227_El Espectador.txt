@@ -1,0 +1,32 @@
+2227
+El Espectador
+Tecnología en elecciones, un juego infantil
+18 de agosto de 2018
+Carolina Botero Cabrera
+¡Hasta un niño puede hacerlo! Durante el último Defcon , una de las conferencias más antiguas y reconocidas entre los hackers, una academia de buen hacking llamada R00ts Asylum comprobó que las elecciones de EE.UU. ni siquiera son a prueba de niños. El ejercicio cuestiona la ausencia de garantías y participación en la incorporación de tecnología electoral.
+
+Detrás de este reto está el hecho de que muchos creen que la manipulación de unos pocos votos a través de máquinas que son vulnerables jugó un papel importante en el triunfo de Trump . Por eso, aunque suena a un juego de niños y niñas, no hay nada más serio: pone a prueba la base de la democracia, las elecciones.
+
+Las elecciones en ese país se definen con frecuencia por los estados swing (vaivenes) donde un porcentaje clave de votantes no tiene una preferencia política clara. Allí unos pocos votos definen las primarias. Por eso, manipular unas cuantas máquinas en esos estados puede fácilmente inclinar la balanza.
+
+El año pasado en el marco de Defcon ya se hicieron pruebas de seguridad a réplicas de máquinas de votación. La primera máquina --una modelo AVS WinVote-- cayó en tan solo unos minutos usando una vulnerabilidad de 2003. Este año R 00 ts Asylum organizó un nuevo reto en la Villa de votación del que participaron 50 niños y niñas de la academia de entre 6 y 16 años.
+
+Los resultados: en 10 minutos un niño de 10 años había conseguido entrar en la máquina réplica de Florida, lo siguió una chica de 11 años que lo hizo en 15 minutos y así sucesivamente 30 de los 50 consiguieron su meta en menos de 30 minutos con máquinas de diferentes estados.
+
+Por su parte, la Asociación Nacional de Secretarias de Estados minimizó la amenaza al indicar que es extremadamente difícil replicar estos sistemas ya que muchos estados usan redes especializadas y sus propias bases de datos con protocolos de seguridad únicos, nuevos y actualizados. En todo caso, dijeron estar dispuestos a trabajar con la sociedad civil que hace parte de la comunidad Defcon y quiera tener una participación proactiva.
+
+En primer lugar, es importante resaltar que hay muchas formas de incorporar tecnología en las elecciones. El caso extremo es el voto electrónico, que, algunas veces elimina completamente lo manual (como sucede en la Florida, pero también en países como Brasil, India y Venezuela).
+
+Siempre que se incorpore tecnología en cualquier proceso, incluido el electoral, se debe reconocer que no hay seguridad digital perfecta. Por eso, lo más importante es que existan controles y haya una especial preocupación por las garantías del proceso.
+
+Me refiero sobre todo a mantener el secreto del voto, la integridad de la votación (que los resultados correspondan a lo que elegimos) y la transparencia del proceso (que cualquier persona pueda observar el proceso).
+
+Mientras los controles manuales son visibles al ojo humano y requieren menos conocimiento técnico, la tecnología tiene efecto de caja negra (invisibiliza lo que sucede). Requiere de otros conocimientos que algunos niños y niñas, que se forman en una academia de hackers, tienen, pero que no necesariamente desarrollamos usted o yo.
+
+Facilitar la participación de la ciudadanía es clave. No puede ser simple espectadora, debe poder jugar un papel importante en controlar el proceso físico y también el tecnológico. La participación ciudadana debe incrementarse y ajustarse a medida que el proceso tiene más tecnología (cuánto más cerca se está del voto electrónico), porque los controles previstos en los procesos manuales se van perdiendo y requieren de capacidades diversas.
+
+Finalmente, estos retos de Defcon no solo hablan de la vulnerabilidad de las máquinas cuando dejamos todo a la tecnología. También obligan a desconfiar de la oscuridad como garantía de seguridad (el ejercicio lo hacen con réplicas no con las máquinas, porque esas son intocables). La oscuridad no es garantía, tan solo es temor al hackeo que termina siendo inocuo, pues puede ser tan fácil en comunidades técnicas que hasta un niño puede hacerlo. Lo que sí sucede es que menos personas persiguen las vulnerabilidades y, por tanto, son más difíciles de detectar y mitigar. La oscuridad precisamente es enemiga de la proactividad ciudadana; la oscuridad no reemplaza la transparencia.
+
+Ojalá que la Registraduría colombiana tome nota. En Colombia, las elecciones ya no son enteramente manuales. Desde hace más de una década la tecnología se ha incorporado y, como les había contado , hay un designio legal y la frustración con los problemas de fraude en el país ha llevado a que el voto electrónico sea un ideal que políticos de diferentes orígenes apoyan .
+
+Desconfiemos de simplemente pedir más tecnología para solucionar problemas (como el fraude) que con lo que tenemos aún no podemos controlar. Necesitamos análisis sobre los riesgos y mecanismos de garantías que incluyan participación ciudadana. Las elecciones le pertenecen a la ciudadanía y debemos poder participar activamente en cada parte del proceso. Además, como hasta ahora la idea de seguridad de la Registraduría es la oscuridad, necesitamos que repiensen esa apuesta.

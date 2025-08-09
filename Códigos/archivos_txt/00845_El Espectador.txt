@@ -1,0 +1,16 @@
+845
+El Espectador
+Pases, redes y el juego de Millonarios
+4 de marzo de 2018
+Jorge Tovar
+Si en el pasado el fútbol se entendía cualitativamente, actualmente el bombardeo de información cuantitativa es la norma. Ello, sin embargo, no implica que el hincha esté mejor informado. En ocasiones está más confundido. En efecto, uno de los retos contemporáneos es explotar los datos para ofrecer información que añada valor al simple dato descriptivo.
+
+Por ejemplo, en el reciente partido de Millonarios vs. Corinthians por Copa Libertadores, el Caracho Domínguez realizó 99 toques de balón. ¿Es mucho, es poco? Si además anotamos que David Macalister Silva fue el segundo, con 76 toques, quizás comience a llamar la atención el juego de Juan Guillermo Domínguez. Tercero y cuarto fueron los centrales, Matías de los Santos y Andrés Cadavid. ¿Implica lo anterior que el juego de Millonarios giró en torno a ellos?
+
+Con el fin de entender las cifras, con frecuencia analizo correlaciones, la relación directa de una variable con otra. Hace poco, por ejemplo, relacionaba el número de toques por balón con la recepción equivocada que hace cada jugador. Este tipo de ejercicios sirven para discutir y plantear hipótesis, mas no necesariamente para establecer causalidad.
+
+Pero es posible ir más allá. Recientemente, junto a Andrés Clavijo y Julián Cárdenas, de www.golyfutbol.com, publicamos en los Documentos Cede, de la Facultad de Economía de la Universidad de los Andes, un trabajo para estimar la probabilidad de lograr un pase exitoso. Con base en ello es posible construir redes de pases, hoy relativamente habituales. Lo común es ilustrar líneas de conexión entre los jugadores que, según si han hecho más o menos pases, son más o menos gruesas. Sin duda es un ejercicio interesante. Pero es insuficiente e incluso engañoso.
+
+La red de pases que se presenta en la gráfica está basada en el modelo generalizado aditivo mixto desarrollado en el documento referenciado. Explotando la riqueza de los datos de posicionamiento de cada jugador y el tipo de pases (acertados y fallados), hemos implementado un modelo que permite ordenar cada pase según la probabilidad de acierto. En otras palabras, sabemos la dificultad esperada de cada pase.
+
+En una red de pases normal, Santos y Cadavid pueden parecer claves en el juego de Millonarios, pues realizan muchos pases en campo propio, sin la presión del rival. Es natural, siendo defensas. Cuando se controla por la dificultad del pase, el panorama cambia. Con base en el uso de indicadores de centralidad de la red de pases que indican quiénes son los jugadores más relevantes, considerando la dificultad del pase, se concluye que Domínguez fue el más importante ante Corinthians. Nótese las líneas azules que salen del 20 en la gráfica. En su orden destacaron, además, Ayron del Valle, Cadavid y Jhon Duque. En el otro extremo, Eliser Quiñones tuvo poco acierto en el pase difícil. Llama la atención Silva, el encargado de mover el equipo. Quizás ese fue el problema de Millos. Fue Domínguez, no Silva, quien arriesgó con éxito en ataque. Ante Independiente habría que replantear.

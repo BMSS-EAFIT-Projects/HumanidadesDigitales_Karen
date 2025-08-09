@@ -1,0 +1,32 @@
+7664
+El Espectador
+El autocontrol para que internet no colapse requiere de más información
+3 de abril de 2020
+Carolina Botero Cabrera
+Desde hace unas semanas autoridades y empresas nos piden que limitemos nuestro uso de internet, que el entretenimiento hay que dejarlo para la noche, mejor para la madrugada, que prioricemos el uso productivo de internet, es decir, educación y trabajo. Aunque suena razonable, las campañas de autorregulación sólo serán exitosas si se basan en información y educación, y esta no tiene ni lo uno ni lo otro.
+
+A los privilegiados el COVID-19 nos encerró en casa. Nos enseñaron que es mejor no salir a la calle. No solo nos lo repiten, nos dan datos, nos muestran evidencias y nos dicen hasta cómo leer esa información. Esto nos convence de renunciar a nuestra libertad de locomoción. Hasta sabemos cuántas camas de cuidados intensivos hay en nuestra ciudad y estamos atentos a la disponibilidad de ventiladores.
+
+Lea también: Neutralidad de red y otros lujos en el mundo de antes del COVID-19
+
+En cambio, cuando hablamos de internet nos piden que confiemos en los expertos, ¡va a colapsar! Aunque, en estricto sentido, internet no es lo que se va a romper. De hecho, esta red precisamente fue diseñada para aguantar una guerra. La idea era que al ser descentralizada, incluso si se perdía una parte, seguiría funcionando.
+
+El problema, como lo explica la revista MIC , está en las conexiones finales de su infraestructura. El pedazo de infraestructura que nos lleva la conexión a nuestro dispositivo. MIC sugiere que pensemos en las callejuelas de una ciudad hasta llegar al peaje y entrar en la autopista. Cuando hay mucho tráfico es posible que la gran autopista se congestione, pero con seguridad si todos decidimos salir al tiempo de nuestras casas las callejuelas que llevan a la autopista no van a dar abasto, por ahí es donde está el problema.
+
+Sí, esa infraestructura de callejuelas en Colombia la que nos conecta con los cables submarinos del Caribe está atrasada. Ese fue precisamente el argumento que más escuchamos en 2019 durante el trámite de afán de la Ley TIC y que la OCDE ratificó en su evaluación Going Digital para Colombia ese año . Es la infraestructura que ahora puede colapsar cuando, debido al confinamiento preventivo por el COVID-19, la mitad de la población del país quiere estar conectada ya mismo y todo el tiempo y no digo toda la población solo porque la otra mitad sigue desconectada.
+
+Si me empiezo a preocupar por esto y quiero controlarme, no tengo acceso a la información necesaria para hacerlo. No puedo saber cuál es la hora menos transitada, ni cuáles son los datos que más problema generan ¿acaso las videoconferencias que hoy usamos permanentemente, los videos de gatitos o revisar constantemente las redes sociales? . El único Internet Exchange Point del país , el NAP Colombia, ofrece unos pocos datos que posiblemente corresponden a parte del tráfico nacional y que, reconozco, con la emergencia mejoraron un poco. Aun así, sus gráficas, además de ser vagas, no se actualizan con frecuencia (parecen subirlas cada semana).
+
+Dar información, ser transparentes y explicar ayuda a construir confianza y es central en una campaña de autorregulación. En países como Chile publican datos que dejan ver y seguir lo que está pasando con la infraestructura. Esos datos permiten comprender visualmente las alertas que empresas y gobierno hacen y entender el efecto que las medidas tendrían. Sirven para tomar decisiones de autorregulación y, no menos importante, también sirven para controlar las medidas que toman empresas o el Estado sobre el tráfico.
+
+Hay un poco de inocencia en creer que así sin más acataremos la solicitud de no ver tantas películas, dejar de hacer videollamadas a familia y amigos, y un largo etcétera justo ahora, en medio de una transformación digital de urgencia en todo aspecto de la vida, y después de años de invitación a consumir películas, a hacer selfies , a desarrollar retos, a crear nuevos oficios digitales, a estar conectados siempre.
+
+El temor al colapso es tan serio que el decreto que da poderes extraordinarios al Gobierno para la emergencia del COVID-19 permitió también priorizar el acceso a contenidos y servicios en internet cuando se trate de usos importantes como la salud, los usos educativos y de trabajo, o para sitios y servicios públicos.
+
+Es decir, las empresas que operan internet en el país siempre han podido gestionar el tráfico mientras fuera parejo, sin discriminar, pero ante la posibilidad del colapso ahora tienen permiso de discriminar los paquetes de datos que transitan por sus redes en función del uso que las personas le damos a internet. ¿Cómo se va a hacer esto? La Comisión de Regulación de Comunicaciones deja en manos de las empresas hacerlo usando los criterios del decreto. La CRC además ordenó a las empresas entregar la información para controlar con posterioridad lo que hagan.
+
+Es decir, la CRC suspendió la neutralidad de la red mientras dure la emergencia para que la demanda de internet no colapse la infraestructura y creó un nuevo sistema de información para controlar lo que las empresas hagan.
+
+Esperemos que la CRC haga pública esa información y mantenga esa medida de transparencia cuando pase la emergencia. Si tenemos datos para contrastar, informarnos, hacer seguimiento, no solo puede ser más efectivo el llamado a que usemos responsable o productivamente internet (al final cada quien decidirá eso qué significa), también podremos controlar las facultades especiales que permiten priorizar y discriminar afectando la neutralidad de la red.
+
+Si de esta salimos juntos y juntas, necesitamos más información y más didáctica. El reconocido historiador y escritor israelí Yuval Noah Harari dijo: Una población automotivada y bien informada suele ser mucho más poderosa y efectiva que una población policial e ignorante. Esto es especialmente importante en estados de emergencia y además de convencernos de autorregularnos nos permite hacer control a lo que el Ejecutivo hace que por poderes de emergencia se vuelve superpoderoso.

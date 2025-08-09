@@ -1,0 +1,16 @@
+11123
+El Tiempo
+Fallas en procesos críticos
+05 de agosto de 2018
+Guillermo Santos Calderón
+Quiero empezar afirmando que le tengo mucho afecto a Avianca y que es mi preferida y lo seguirá siendo. Sin embargo, lo sucedido en estos últimos días con sus vuelos, sus retrasos y las cancelaciones podría tener explicaciones como la escasez de pilotos u otras, pero la de la falla del software de notificación de los vuelos asignados a pilotos no es muy lógica.
+
+Veamos por qué. Cuando una empresa tiene un proceso crítico para su funcionamiento, como el mencionado caso de Avianca, o, por ejemplo, la asignación de turnos de salas de operación de un hospital a los cirujanos que las van a usar, o la armada de las páginas de un diario, es muy importante hacer prototipos y muchas pruebas hasta que quede claro que el proceso manipulado por el software funciona perfectamente. Si esto no se hiciera y se implementara el software sin haberlo probado extensamente y fallara, pues la aerolínea tendría vuelos sin pilotos, los cirujanos se quedarían sin salas para operar y los diarios no tendrían las páginas armadas para imprimir.
+
+Otro factor que se tiene que considerar es que el software funcione bien, pero, en cambio, que la infraestructura en que se ejecuta falle y deje de operar. Esto tendría el mismo efecto que lo descrito arriba. Ante una eventualidad como esta, es muy importante tener un plan de contingencia que se pueda ejecutar para que todo siga funcionando. Por ejemplo, que se vaya la luz y todo se apague sería una posible eventualidad. Ante esto, sería muy bueno poder tener el centro de datos en el que se ejecuta el software conectado a una planta eléctrica que entre en funcionamiento o a otra planta del operador del servicio de electricidad.
+
+Ahora que todo va por el camino digital, gracias a la transformación tecnológica, es importante entender que hay procesos críticos que se ejecutan en computadores con un software, y que por su importancia se deben considerar planes de contingencia por si la aplicación no funciona bien o, sencillamente, deja de funcionar, para que las operaciones que les sirven a sus clientes se puedan seguir prestando.
+
+* * * *
+
+Maduro, al culpar a Juan Manuel Santos de un posible atentado que ni siquiera se sabe si ocurrió, confirma el porqué de la pésima situación en Venezuela. El país vecino, liderado por un presidente con mente desequilibrada, mentirosa y poco inteligente, no podría ir por un camino diferente.

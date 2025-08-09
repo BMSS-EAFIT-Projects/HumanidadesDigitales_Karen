@@ -1,0 +1,20 @@
+6120
+El Espectador
+El avión asesino
+28 de noviembre de 2019
+Alberto Donadio
+Diez segundos. Si el piloto tarda más de diez segundos en reaccionar ante un dato errado, el resultado podría ser catastrófico. Lo reconoce el fabricante en relación con el avión Boeing 737 Max 8. Lo reconoce ahora que esos errores ya han causado la muerte catastrófica de 346 personas en dos accidentes.
+
+El primer Boeing 737 Max 8 se estrelló el año pasado en Indonesia. Cayó al mar a tal velocidad que algunos pedazos del fuselaje se pulverizaron. El piloto no sabía que la Boeing había instalado un software que obligaba al avión a descender y no lo sabía porque el manual para los pilotos no menciona ese software . Tampoco sabía el piloto que ese descenso lo activaba un sensor. Y no sabía que Boeing vendía un sistema de seguridad para detectar fallas en las lecturas que hacía el sensor, pero ese sistema costaba extra y no estaba instalado en el avión indonesio.
+
+En la grabación de la caja negra se oye al piloto mientras pasa las páginas del manual tratando de entender por qué el avión, que recién había decolado, estaba cayendo. El copiloto, Harvino (en Indonesia algunas personas usan un solo nombre), empezó a rezar: Dios es grande.
+
+El avión era nuevo y solamente estuvo en el aire 12 minutos en una mañana sin tormentas. Hoy se sabe por las investigaciones realizadas que el sensor erradamente indicó que la punta del avión estaba muy elevada, situación que hace que el aparato pueda perder impulso. Esa falsa información de un sensor dañado activó el software para obligar al avión a descender, el software que el piloto desconocía.
+
+En marzo se estrelló otro Boeing 737 Max 8 seis minutos después de decolar de Addis Abeba, también por una errada lectura del sensor que activó un software que el piloto etíope tampoco sabía que estaba instalado. Desde marzo los 350 aviones de ese modelo no pueden volar.
+
+Hoy se sabe que la mala fe de Boeing no tiene límites. Después del segundo accidente el presidente de la compañía dijo que no se habían seguido todos los procedimientos por parte de los pilotos. El año pasado este ejecutivo, Dennis Muilenburg, recibió una bonificación de 13 millones de dólares. El software secreto se instaló porque Boeing utilizó motores más grandes en el 737 Max 8 y colocados más adelante en las alas frente a los modelos anteriores del 737. Eso cambió la aerodinámica del avión lo que hacía posible que el Max 8 se elevara demasiado creando una pérdida de impulso. Para contrarrestar ese peligro se inventaron el software , una especie de copiloto oculto que los pilotos de carne y hueso no sabían que los guiaba al desastre.
+
+Los motores más grandes debían servir para economizar combustible. American Airlines comunicó en 2010 a Boeing que prefería el Airbus 320neo por el ahorro en combustible. Si Boeing empezaba entonces a diseñar un nuevo avión se demorarían un decenio. Por eso se fueron por el atajo y engañaron a pilotos, aerolíneas y pasajeros alegando que no se necesitaba entrenamiento con simulador para el 737 Max 8 y ocultando el software a los pilotos.
+
+La compañía no sabe ahora cómo salir del atolladero. Ralph Nader, el legendario abogado de los consumidores, que hoy tiene 85 años, volvió a la carga. La hija de una sobrina viajaba en el avión etíope. Es Nader quien llama el Boeing 737 Max 8 el avión asesino, the killer plane . Y promete que no va a permitir que Boeing se olvide de la hija de su sobrina.

@@ -1,0 +1,30 @@
+6035
+El Espectador
+Apoyo a Facebook, tenemos que proteger la libertad de expresión y la privacidad
+5 de octubre de 2019
+Carolina Botero Cabrera
+Aunque hay muchas razones para criticar a Facebook, la forma como lo regulen tendrá efectos en el ecosistema. Estamos en un momento histórico de regulación estatal a los contenidos en redes sociales y la tensión es evidente. A veces corresponde estar del lado de las plataformas y acá les cuento dos casos.
+
+En primer lugar, el Tribunal de Justicia de la Unión Europea resolvió una consulta de la Corte Suprema de Austria y el resultado parece preocupante. De acuerdo con la sentencia del Tribunal , los tribunales de cualquiera de los países europeos podrían ordenarle a Facebook bajar de su plataforma contenidos por injuria, calumnia y afectación a la honra. La sentencia va más allá al indicar que el bloqueo deberá hacerse a nivel mundial, y parece que admite que se haga extensivo a mensajes equivalentes.
+
+Hay varias aristas interesantes para este caso. En primer lugar, como dice El Espectador , (l)os alcances y posibilidades que abre el fallo lograron algo que no sucede con facilidad: poner en la misma orilla del río a Facebook y a sus críticos, y eso creo que es interesante de resaltar.
+
+En este caso, una parlamentaria austriaca, Eva Glawischnig-Piesczek, demandó a Facebook para que retirara unos comentarios que consideraba insultantes. En primera instancia, se le concede la razón y, tras declararlos difamatorios, se ordena la eliminación de los comentarios en concreto y de los equivalentes. En apelación, la corte de Austria le pidió al tribunal europeo aclarar el posible alcance mundial y el tema de equivalentes. Es en este contexto que se da el fallo que quiero discutir.
+
+En primer lugar, debemos criticar que el fallo pretende un alcance mundial. Esto desconoce la diversidad de aproximaciones en diferentes países en relación con la forma como se da la defensa de la libertad de expresión. Especialmente en lo relacionado con la imagen y el buen nombre. Aunque mantiene la idea de que es el juez quien tiene que decidir la bajada de contenido, al extenderlo a contenido equivalente abre un hueco preocupante.
+
+Europa está liderando la idea de una activa regulación en temas de moderación de contenido y así pretende moldear las normas de responsabilidad de intermediarios. Decisiones como esta forman parte de esa tendencia.
+
+La idea de imponer como mundial una decisión regional en este tema no es nueva, ya en los 90 se hizo desde EE. UU. con el Digital Millennium Copyright Act (DMCA). Ahora Europa está dando un timonazo. ¿Serán los tribunales europeos los que diseñarán el espacio de expresión más importante con que cuentan las personas en internet hoy en día? Además, las plataformas van a tener que implementar filtros automatizados para evitar que se repitan los materiales declarados ilegales por los jueces en materia de imagen y buen nombre, y es posible que incluso deban definir cómo bloquean los mensajes equivalentes.
+
+La implementación de filtros automatizados es un grave riesgo para la libertad de expresión pues suponen que es la máquina y su algoritmo los que definen lo que va a ver la luz y lo que no. Quienes somos activistas solemos recordar que las expresiones difamatorias dependen fuertemente del contexto, que los filtros automatizados no son buenos para leer el contexto, que frecuentemente bajan contenido que es legítimo, que el margen de error es grande de acuerdo con algunas investigaciones , que ignoran fácilmente discursos protegidos como la parodia o la sátira y así no son confiables.
+
+Adicionalmente, el caso concreto que nos ocupa es más problemático porque se refiere a una persona pública, una parlamentaria, que, con base en estándares internacionales, debe tener una mayor tolerancia a los insultos. Permitir que los filtros automatizados se hagan cargo de modular el discurso político genera un grave riesgo de abuso, especialmente en países donde los valores democráticos son débiles. Esto parece que no es algo que vea Europa cuando extiende su manto mundialmente.
+
+Pero esta no es la única noticia sobre Facebook que nos preocupa esta semana. Se dice que los gobiernos de Estados Unidos, Inglaterra y Australia solicitarán a Facebook no continuar sus planes de incrementar el cifrado en todos sus servicios de mensajería (Facebook, Messenger, WhatsApp, Instagram). La solicitud busca que esto no suceda hasta que puedan garantizar que más privacidad no reduzca la seguridad pública.
+
+Lo que piden estos gobiernos es que las comunicaciones en todas las plataformas de Facebook sean débiles. En nombre de la seguridad, exigen acceso privilegiado a las comunicaciones. Lo que no dicen es que cada día que pasa en que nuestras comunicaciones no son seguras es otro día en que nuestra información puede ser accedida y usada malintencionadamente por ellos o por cualquier persona. Me preocupa que los gobiernos planteen ese falso dilema, sin privacidad no habrá seguridad pública.
+
+Considerando el alcance de los servicios de mensajería de Facebook en el mundo, que se garantice el cifrado punta a punta para todos (no solo para WhatsApp como existe actualmente) sería la noticia más importante para un sistema de comunicaciones mundial libre, para la seguridad pública y para el fortalecimiento de los valores democráticos.
+
+Facebook afirma que mantendrá sus planes y, por eso, en los próximos días verán que muchas organizaciones de la sociedad civil, académicos y gremios comerciales estarán no solo pidiendo a estos países reconsiderar su posición, también nos verán apoyando a Facebook en su propósito de mantener los planes y de resistir estas presiones. Es importante reconocer que estamos en una época de retos para la libertad de expresión y se necesita mantenernos atentos.

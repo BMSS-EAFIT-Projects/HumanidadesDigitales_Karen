@@ -1,0 +1,26 @@
+3364
+El Espectador
+Facebook es un jugador clave en nuestras vidas, nos guste o no
+6 de octubre de 2018
+Carolina Botero Cabrera
+Poco después de que la propia red social Facebook informara que hasta 90 millones de cuentas de sus usuarios podrían estar comprometidas, se dio a conocer un artículo de la Universidad Carlos III que muestra datos globales de esta red social. Facebook es muy grande, crece y vale la pena pensar en que eso hace que también sus riesgos se incrementen y se hagan más complejos.
+
+De acuerdo con El País , en el estudio de la Carlos III, y contrario a lo que muchos creerían, se establece que Facebook goza de buena salud y todavía puede crecer mucho en el mundo en desarrollo. Aunque solo sea por eso seamos o no usuarios, es un buen motivo para que nos importe lo que pase con esa red.
+
+Casi un tercio de la humanidad 2.200 millones de personas está en Facebook. Representan más personas que cualquier otro grupo humano religión, idioma o cultura. La concentración que ha construido debería asustar porque los riesgos que enfrenta son globales y escalables, pero no es lo que los datos dicen.
+
+Los investigadores establecieron que a pesar de los escándalos, como el de Cambridge Analytica , las fake news o el reciente hackeo que comprometió entre 50 y 90 millones de cuentas , Facebook no se ha visto afectada. Esto puede resultar una sorpresa para muchos que creían que esto minaba la confianza de la gente; parece que todavía no. Al parecer la gente no se entera, no se da cuenta, no creen que sea con ellos y, encima, parece no interesarles tomar medidas para evitar o prevenir problemas.
+
+Aunque en los países desarrollados el crecimiento de Facebook tocó techo, no está estancada. En los países en vías de desarrollo y, sobre todo, en África está en pleno crecimiento. Por eso Facebook despliega diferentes estrategias que buscan nuevos usuarios, desde apoyos para ampliar la infraestructura y conectar a más personas hasta el despliegue de aplicaciones como  free basics , que le permiten a la gente conectarse a un Facebook sin multimedia. Esto último sin necesidad de pagar por datos (una de las modalidades de zero-rating de Facebook).
+
+Resulta interesante leer que quizá el país más conectado a Facebook en el mundo sea Noruega. Este país no tiene problemas de conectividad a internet, tiene una agenda digital avanzada y un grado de escolaridad alto. De otro lado, cuentan que en países como Myanmar las palabras internet y Facebook son sinónimos.
+
+Pero nada de esto sorprende demasiado en la realidad colombiana.
+
+En 2015, apoyamos un análisis que se hizo con el apoyo de la Web Foundation titulado Derechos de la mujer en línea . El informe se basó en una encuesta realizada a hogares de zonas pobres urbanas en diez países en desarrollo que incluían a Colombia y que buscaba identificar las barreras particulares que enfrentan las mujeres en el acceso y uso de internet en cada país.
+
+Por el momento que se hizo, no fue posible establecer el impacto que la oferta de zero-rating tuvo en Colombia (en ese momento se había lanzado Internet.org hoy Free Basics y se empezaba a ofrecer Facebook gratis, ambos como aplicativos que se entregan sin afectar el plan de datos de las personas). Lo que sí se estableció es que estas mujeres usan internet, especialmente, para acceder a entretenimiento y lo hacen sobre todo a través de Facebook. Encontramos también que la mayoría de ellas nunca había navegado fuera de Facebook (no habían seguido un enlace). Ya en esa época nos preguntábamos ¿para cuántas personas en Colombia Facebook es internet?
+
+En Colombia, Facebook es usada por 17 millones de personas diariamente desde el 95% de las conexiones del país y, dado que sus usuarios en ciudades como Bogotá superan incluso al censo electoral, no fue una sorpresa encontrar que fue una herramienta central de las campañas durante las elecciones de 2018. Esta plataforma les dio posibilidades de perfilamiento y captura de información que son ideales para marketing digital.
+
+La posición casi monopólica de Facebook deja muchas preguntas abiertas. Tenemos que mirar esta plataforma con ojos especialmente críticos y reconocer que es un jugador clave en la vida social, política y económica de las sociedades actuales para el que no estamos preparados. Tenemos que pensar además en qué significa esto para el propio Facebook, para su relación con sus usuarios y para la forma como cambia la arquitectura de internet.

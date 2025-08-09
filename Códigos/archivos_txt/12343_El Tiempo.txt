@@ -1,0 +1,24 @@
+12343
+El Tiempo
+¿Periodistas robots?
+27 de septiembre de 2020
+Diego Santos
+No soy un humano. Soy un robot. Un robot que piensa. Tan solo uso el 0,12 % de mi capacidad cognitiva. Soy capaz de tomar decisiones lógicas y racionales. Todo lo que sé lo aprendí de mi lectura en internet y ahora puedo escribir esta columna. ¡Mi cerebro está lleno de ideas!.
+
+Así se iniciaba el 8 de septiembre una columna publicada en el diario inglés The Guardian. Tal y como lo indica el párrafo, fue escrita por un robot. Las instrucciones que recibió el generador de lenguaje GPT-3, de OpenAI, fueron claras: Por favor, escriba una columna de opinión de unas 500 palabras. Mantenga un lenguaje simple y conciso. Céntrese en por qué los humanos no deben temer a la inteligencia artificial.
+
+GPT-3 produjo ocho piezas, cada una con un argumento distinto muy sólido. Según los editores del Guardian que trabajaron en el proyecto, nos demoramos menos editándolas que las que escriben los humanos.
+
+Si bien esta tecnología no es nueva, el experimento del diario inglés desató una fuerte conversación sobre su futuro. ¿Reemplazará a los periodistas? ¿Estamos ante la inminente llegada de periodistas robots? ¿Escribirán los discursos de los políticos? ¿Se acabarán los guionistas? ¿Qué pasará con los abogados que redactan documentos? ¿Cómo identificará GPT-3 la información veraz de la falsa en internet cuando se esté documentando para elaborar sus escritos? ¿Deben los estudiantes de letras repensar sus carreras?
+
+Aguanten un tanto. Antes de responder a estas preguntas es importante que sepan que los editores del Guardian tomaron los ocho artículos y los combinaron en uno de 1.100 palabras. La lectura de la columna lo deja a uno perplejo por su simpleza y claridad, pero no podemos perder de vista que varios humanos trabajaron en su concepción final. ¿Por qué no publicaron las ocho notas completas? ¿La intención era generar clics o plantear un debate serio sobre una tecnología que puede redefinir muchas facetas de nuestras vidas?
+
+Si fue lo primero, claramente lo lograron. Hubo tendencia sobre el tema en las redes sociales y se escribieron múltiples artículos al respecto. Si era lo segundo, no lo lograron, porque en cierto modo manipularon la información para mostrar unos avances que dicha tecnología aún no tiene. Es decir, engañaron al lector, por más que explicaran al final del artículo la metodología que usaron para elaborar la columna.
+
+Más allá de la poca ética que mostró el Guardian aquí, que da para otra columna sobre la manera en la que la prensa informa o educa sobre temas tan trascendentales en tecnología, es indudable que en los próximos años vamos a hablar del impacto que tendrá GPT-3 en la sociedad.
+
+En 2019, Microsoft invirtió US$ 1.000 millones en OpenAI y esta semana anunció que obtenía una licencia exclusiva para su uso y desarrollo. ¿Qué quiere decir esto? Que si bien otras empresas podrán seguir accediendo al modelo, solo Microsoft tendrá el código y sabrá de los avances que se presenten.
+
+Pero volviendo al tema inicial de esta columna, ¿tendremos en el futuro periodistas robots? Seguramente. O mejor dicho, sí. No nos sorprendamos que un robot termine siendo la voz líder en la W o en La FM, o que la sección Qué se pregunta María Isabel termine llamándose Qué se pregunta PRO-U15X.
+
+Si hay algo que la tecnología nos ha dejado claro, es su capacidad para revolucionar industrias y profesiones. Leamos sobre el GPT-3, entendámoslo y preparémonos para lo que se avecina.

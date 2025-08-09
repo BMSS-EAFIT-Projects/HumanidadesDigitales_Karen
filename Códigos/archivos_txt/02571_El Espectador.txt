@@ -1,0 +1,30 @@
+2571
+El Espectador
+La vigilancia masiva viola derechos humanos
+28 de septiembre de 2018
+Carolina Botero Cabrera
+La NSA, agencia de inteligencia de EE.UU., intercepta toda comunicación que pasa por los cables de fibra óptica de su país, copia su contenido y los metadatos de lo que transita por allí y, usando palabras clave, peina las comunicaciones de todas las personas para buscar posibles amenazas. Todo esto lo sabemos gracias a Edward Snowden .
+
+Lo otro que sabemos es que no son los únicos que lo hacen. La GCHQ, el organismo de inteligencia del Reino Unido, también lo hace. Ante esto, un grupo de organizaciones de la sociedad civil y periodistas interpusieron una demanda contra el Reino Unido por considerar que esos programas de vigilancia masiva desconocen principios de derechos humanos, principalmente el de necesidad y proporcionalidad.
+
+La noticia es que el Tribunal Europeo de Derechos Humanos les dio la razón . Dijo que esos programas violan derechos humanos, que las protecciones y garantías que ofrece la Convención Europea de Derechos Humanos no dependen de la nacionalidad de las personas o del lugar que residan, pues, su aplicación es universal. El Tribunal también estableció que esos programas no tienen salvaguardas o mecanismos de control.
+
+El fallo también llama la atención sobre los programas de cooperación entre las agencias de inteligencia. El Tribunal indica que compartir grandes bases de datos de las personas, supone un grave riesgo a los derechos a la intimidad y la libertad de expresión, haciendo referencia a la práctica que existe entre estos organismos de inteligencia. Esto porque evitan las salvaguardas y requisitos legales locales, que pueden ser más fuertes e incluso tener la capacidad de evitar la recopilación de esa información en primer lugar.
+
+Snowden reaccionó al fallo indicando que no se justifica la alta inversión en los sistemas de vigilancia masiva y sus graves riesgos a los derechos humanos si se considera que al final la recopilación de cantidades enormes de información no necesariamente significa que se detiene al terrorista y evita su acción, por ejemplo. Lo anterior porque es muy difícil procesar grandes cantidades de información para lograr impactos tan concretos.
+
+Al final, es la vigilancia selectiva y cuidadosa la que logra los fines de la seguridad ciudadana y evita abusos. La inteligencia es la que debe definir y elegir a los destinatarios de la vigilancia y además justificar esa actividad. En cambio, cuando se tiene la información de cualquiera resulta más fácil aprovecharla para vigilar con otros fines a personas u organizaciones que no son sospechosas de mala conducta.
+
+Aunque el fallo está dirigido al Reino Unido, su razonamiento se extiende y debería ser considerado en otras latitudes. En primer lugar, dada la concentración de la infraestructura de Internet que hace que virtualmente toda comunicación generada en el mundo pase por EE.UU. --incluso si se trata de un correo que le envío a mi madre, y las dos vivimos en Bogotá--, podemos afirmar que la NSA tiene la capacidad para interceptar las comunicaciones de casi cualquier persona en el mundo. Por tanto, es imposible no leer el razonamiento del tribunal sin pensar en esta agencia.
+
+Los argumentos del tribunal rechazan las justificaciones que Reino Unido y EE.UU. han hecho para su actuar. Así, por ejemplo, para el tribunal existe búsqueda incluso si no participan humanos en ella y los patrones que pueden revelar los metadatos de las comunicaciones --el qué, quién, cuándo y dónde de las comunicaciones-- pueden pintar tan íntimamente a las personas que no es cierto que sean menos intrusivos que el contenido de la comunicación.
+
+Pero, además, debe importarnos comparar esto con nuestras realidades locales, pues las actividades de vigilancia masiva no son exclusivas de países ricos. La investigación que hizo Privacy International Un Estado en la sombra: vigilancia y orden público en Colombia en 2015, no solo habla de los escándalos a los que estamos más acostumbrados y son consecuencia de los abusos a los sistemas de vigilancia selectiva --a personas concretas--, también expone cómo Colombia ha adquirido y usa tecnología de vigilancia masiva, algo de lo que poco hablamos acá.
+
+En 2015, Privacy International demostró que tenemos sondas para interceptar el tráfico de comunicaciones, que se tiene la capacidad de preservar esta información para escoger después la que se usa. Eso sí, se advierte que ha habido alertas y preocupaciones de derechos humanos. Así, por ejemplo, en 2014 la Fiscalía, preocupada precisamente porque la Policía estuviera desarrollando capacidades a través dexl sistema PUMA , que violarían los derechos fundamentales, suspendió el uso de esta plataforma sin que sepamos a la fecha qué sucedió.
+
+Una lectura contextual del fallo del Tribunal Europeo nos serviría también a nosotros. Estoy segura de que un análisis de los sistemas colombianos a la luz de los compromisos con los derechos humanos tendría un resultado similar: se ignora el principio de necesidad y proporcionalidad, y tampoco hay controles ni información pública que nos permita saber qué sucede con estos proyectos realmente.
+
+Pienso que si hubiera mecanismos de control e información sobre estas actividades podríamos desmitificar la eficacia de la vigilancia masiva. Incluso podríamos pasar a la acción contra los abusos para analizar, investigar y buscar evitarlos.
+
+Este, de hecho, es el primer efecto del fallo en Reino Unido. La información recopilada por el tribunal prueba que Privacy International terminó siendo objeto de vigilancia estatal . Es decir, en Reino Unido se usaron recursos de inteligencia para combatir el terrorismo espiando a una organización de sociedad civil que criticaba el sistema.

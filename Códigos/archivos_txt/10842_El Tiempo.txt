@@ -1,0 +1,16 @@
+10842
+El Tiempo
+Ojo a la ingeniería social
+14 de mayo de 2018
+Guillermo Santos Calderón
+En el tema de la seguridad informática y de las personas, mucho tiene que ver la ingeniería social, que no se conoce mucho y a la cual no se le presta casi atención. Se trata de la manipulación de las personas para obtener información que le permita al delincuente obtener algún beneficio digital o físico, u obligarlas a que realicen algo que a este le convenga.
+
+En la cadena de seguridad digital que se implemente, no importa lo sofisticada que sea, el eslabón más débil es el ser humano. No vale el dinero que se invierta en firewalls, programas de seguridad y otros elementos si un funcionario deja su computador firmado en la red empresarial siempre que se va a tomar tinto a la cafetería. A esto se le puede realizar ingeniería social, la cual requiere trabajo de inteligencia. Si se detecta esta costumbre, el delincuente digital se hace amigo del funcionario, se hace invitar a la empresa a la hora de tomar tinto y busca alguna excusa, como la de ir al baño, para subir a la oficina del empleado y, mediante una USB, descargar un malware en su computador, infectando toda la red de la empresa para hackearla después.
+
+Este término, acuñado por Kevin Mitnick y explicado en detalle en su libro El arte de la decepción, es bastante usado por los hackers malos porque es difícil de detectar y casi siempre exitoso, ya que se usan las debilidades humanas y no requiere equipos sofisticados para lograrlo.
+
+Cuando viajo me doy cuenta de la inocencia de muchas personas que toman café en los aeropuertos o en lugares con red inalámbrica gratis. Prenden su computador y entran a sitios con sus claves. Allí se usa otra práctica de ingeniería social llamada navegación por el hombro. Alguien se para detrás y le graba con su celular, simulando estar hablando, todo lo que teclea, buscando claves e información confidencial.
+
+No tengan duda de que los botines del futuro, si no ya, van a ser digitales y por eso, los que tenemos computador y las empresas que tienen redes importantes debemos estar alertas al respecto para que entendamos los perjuicios de ser descuidados con los computadores, sus claves de seguridad y los papeles que contienen información confidencial; se deben romper antes de botarlos a la basura.
+
+Porque lo cierto es que la seguridad empieza al tener conciencia de ella. No tenerla es como llamar desde un celular de alta gama en un barrio malo. Seguro lo roban.

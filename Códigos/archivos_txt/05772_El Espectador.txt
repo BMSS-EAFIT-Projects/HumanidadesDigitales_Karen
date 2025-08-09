@@ -1,0 +1,20 @@
+5772
+El Espectador
+Hablemos de ciencia abierta desde el sur
+20 de septiembre de 2019
+Carolina Botero Cabrera
+La preocupación por una educación de calidad es una preocupación por el desarrollo (cuarto de los Objetivos de Desarrollo Sostenible) que está atravesada por la idea del acceso y la apropiación del conocimiento. Para abordar este reto es necesario ampliar la participación social y fortalecer una cultura científica participativa. Se trata de una ciencia donde la gente está en el centro y la colaboración reina. De ciencia abierta estaremos hablando a fin de mes en Bogotá.
+
+Aunque no hay consenso en torno a una única definición de ciencia abierta, uso la de Cientópolis como una forma de aproximación a la idea de producir conocimiento científico de manera abierta y colaborativa dejando en libre disponibilidad tanto los instrumentos de trabajo como los resultados intermedios y finales que se obtienen a lo largo de ese proceso.
+
+¿Qué significa la ciencia abierta en nuestro contexto? Esa es la pregunta que ocupa a muchas personas: desde docentes, científicas y estudiantes hasta hacedoras de política pública; también a instituciones como universidades, bibliotecas o centros de investigación. Al final, el tema es que la ciencia es altamente contextual y no es tan fácil seguir recetas con la esperanza de que el resultado sea el mismo.
+
+Aunque el concepto se ha popularizado en las últimas décadas en el norte, no es un invento de su propia y exclusiva cosecha. Con ello me refiero sobre todo a la receta esa de abrir los datos de tu investigación, documentar y publicar las metodologías usando infraestructuras y herramientas libres y abiertas (como licencias abiertas y software libre, por ejemplo), publicar los resultados en abierto y desarrollar formas de evaluación abierta y además promover e involucrar a personas no expertas (elementos de la ciencia abierta que, por ejemplo, se describen en la Declaración de Panamá ).
+
+En América Latina hay una cultura muy rica dentro y fuera de la academia en espacios formales y no formales que se ha ocupado de hablar y trabajar sobre el conocimiento, sobre su apertura y formas de colaboración. Ya por los 70 Fals Borda hablaba de investigación-acción participativa y desde entonces la producción no ha parado. Epistemologías del Sur, iniciativas como la Educación Popular de Freire o las tesis sobre decolonialismo son otros ejemplos. En general, podemos reivindicar un ecosistema que discute sobre la naturaleza, contenido y valor del conocimiento y hace propuestas para abordarlo en la práctica.
+
+Si les damos sabor latinoamericano a estas discusiones sobre el conocimiento para acercarlas a las tendencias de política pública en torno a la apertura, podemos reivindicar los ingredientes criollos y proponer nuestros propios condimentos para la receta de una ciencia abierta que aporte a las diferentes visiones de desarrollo en la región. Dado que esta discusión ha sucedido sobre todo entre expertos en entornos académicos y comunidades de práctica, deberíamos avanzar ahora en promover y permear más las prácticas cotidianas de las personas y de las políticas públicas que le dan marco.
+
+¿Cómo podemos aportar en este proceso o desarrollar iniciativas que sumen a la ciencia abierta en nuestros países, instituciones o prácticas cotidianas?, ¿hay más gente que trabaja estos temas? Del 26 al 28 de septiembre se celebrará en Bogotá la conferencia OpenCon Latam Colombia 2019 . La iniciativa colectiva, que ha reunido una veintena de organizaciones vinculadas con la temática, entre universidades, gobierno, asociaciones gremiales y de la sociedad civil (entre ellas Karisma, donde trabajo), busca reunir a cientos de personas en esta discusión.
+
+OpenCon Latam sucedió antes en México y en Argentina. La versión colombiana pretende aterrizar los elementos de la ciencia abierta para discutirlos pública y participativamente y para presentar prácticas inspiradoras que permitan materializar estos conceptos. ¡Anímese, inscríbase y participe! ¿No puede venir a Bogotá?, ¡conéctese! Habrá streaming .

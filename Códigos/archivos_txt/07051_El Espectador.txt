@@ -1,0 +1,22 @@
+7051
+El Espectador
+Crecimiento sí, pero ¿de cualquier cosa?
+26 de febrero de 2020
+César Ferrari
+Medido en términos del producto interno bruto (PIB), la economía colombiana creció en términos reales 3.3% en 2019 respecto al 2018. Para algunos analistas esa tasa elevada con relación a los vecinos indicaría una buena política económica. Según otros analistas, considerando cuales fueron los sectores que la explican sería consecuencia de una política económica equivocada.
+
+De hecho, los sectores que más crecieron fueron: actividades financieras y de seguros (5.7%), comercio y reparación de vehículos (5.2%), administración pública, defensa, educación y salud (4.9%), e impuestos menos subvenciones sobre los productos (4.6%). Mientras tanto, los sectores reales crecieron a tasas mucho menores o no crecieron: agricultura, ganadería, caza, silvicultura y pesca (2%), explotación de minas y canteras (2.1%), industrias manufactureras (1.6%), construcción (-1.3%).
+
+Para comprender el significado de esos crecimientos conviene recordar que el PIB representa el valor agregado producido en cada sector durante un periodo. En los sectores que producen bienes y servicios tangibles, el PIB se mide contando lo que se produce y descontando los bienes intermedios que intervienen en esa producción, todo lo anterior expresado en valores, es decir cantidades por precios. Y para evitar distorsiones por la fluctuación de los precios, los valores se miden a precios constantes, de un periodo determinado (2015).
+
+Por ejemplo, para conocer el PIB de la confección (de camisas) se cuenta cuantas camisas se produjeron el 2019, se les multiplica por sus precios (del 2015), y se le resta los metros de tela empleados en esas camisas, multiplicados por sus precios respectivos (del 2015). La diferencia es el valor agregado (a las telas) en la producción del 2019 de camisas.
+
+En los sectores como el financiero, como no hay bienes que contar, se suman los valores que componen el valor agregado a precios constantes: salarios, impuestos indirectos menos subvenciones, y utilidades. Como las remuneraciones totales a precios constantes casi no crecieron porque no se contrató más gente, porque no es intensivo en mano de obra, y tampoco los impuestos indirectos porque no subió el 4 por mil, el crecimiento del 2019 es explicado en gran medida por el crecimiento de las utilidades descontada la inflación.
+
+Pero ¿de dónde salen las utilidades del sector financiero? Fundamentalmente de la diferencia entre lo que cobra en intereses de los créditos que otorga y paga en intereses por lo depósitos que recibe, lo que en términos de tasas se conoce como el spread financiero; según el Banco Mundial, el spread en Colombia es uno de los más elevados del mundo.
+
+Mejor dicho, el crecimiento del sector financiero, el más pronunciado de la economía colombiana, es explicado porque lo que le pagan los otros sectores de la economía, que son los costos financieros de esos sectores, son valores muy elevados comparados a los internacionales lo que les resta competitividad, los hace vender menos y producir menos.
+
+Si tuviéramos un sector financiero más eficiente, crecería menos, y los sectores reales serían más competitivos, producirían más, es decir crecerían más, y contratarían más gente.
+
+* Ph.D. Profesor Titular, Pontificia Universidad Javeriana, Departamento de Economía

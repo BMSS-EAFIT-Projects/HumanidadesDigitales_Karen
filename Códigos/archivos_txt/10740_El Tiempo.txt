@@ -1,0 +1,18 @@
+10740
+El Tiempo
+Analítica de datos
+01 de abril de 2018
+Guillermo Santos Calderón
+Lo que se ha escrito sobre lo acontecido con los datos extraídos de la red social Facebook es algo que ya está pasando, y no hablo de la filtración de esa información, sino de lo que se hizo con ellos, conocido como análisis de datos o data analytics.
+
+Según se puede leer en medios digitales e impresos, la información personal de usuarios de la red social se utilizó para ayudar a la campaña de Trump, analizando los datos profundamente mediante algoritmos, que son formas de procesarlos de manera exacta, diseñados para poder detectar los gustos, las experiencias, los neurotismos, las amabilidades y tendencias de los dueños de los datos al relacionarse con otras personas.
+
+Una vez se habían determinado las personalidades de tantos usuarios a los que les sacaron los datos de Facebook, les enviaban mensajes de apoyo a la campaña de Trump o con hashtags de su campaña, escritos de tal forma que fueran bien recibidos, ya que estaban diseñados para el tipo de persona que lo iba a recibir, y asegurarse de que así tuvieran un alto impacto.
+
+Este fue solo un caso, que lamentablemente perjudicó de modo ostensible a una de las redes sociales más populares, llevando a que su acción bajara en la bolsa y el valor de la compañía se deteriorara de manera importante.
+
+La verdad es que la privacidad de las personas ya se perdió. Con todo lo que se sube en Twitter, Facebook, Instagram, YouTube y otras redes, y los likes que se dan y otras formas de expresarse en ellas, lo que se deja es un rastro de los gustos, las aversiones, los amigos, los sitios que se visitan, lo que se come y mucha otra información con la que, usando data analytics, se puede conocer todo lo del usuario, como quedó demostrado.
+
+No olvidemos que ya existen aplicaciones que, utilizando data analytics, se convierten en inteligentes y hasta ayudan a tratar ciertos tipos de cáncer. Ya se puede tener inteligencia digital usando el análisis de datos, eso sí, sabiendo qué es lo que se quiere obtener. Esto lo dice todo.
+
+El mundo en el que vivimos es otro, y la seguridad digital y la conservación de nuestra privacidad dependen de nosotros mismos. A finales de los años 80 del siglo pasado, un visionario, Scott McNealy, lo predijo diciendo: La privacidad se va a perder totalmente. Eso ya es una realidad. Esto me lleva a mencionar un dicho moderno: Si no quiere dejar ningún rastro digital, no salga de su casa.

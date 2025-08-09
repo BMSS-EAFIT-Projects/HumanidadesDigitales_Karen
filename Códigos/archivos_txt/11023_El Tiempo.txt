@@ -1,0 +1,30 @@
+11023
+El Tiempo
+Fútbol e inteligencia artificial
+07 de julio de 2018
+Gustavo Estrada
+¿Se acuerdan de Moneyball, la película con Brad Pitt en el papel de Bennett Miller, gerente del Oakland Athletics, un equipo de béisbol de la Liga Americana? En el 2002, en medio de limitaciones presupuestales, Miller, con la asesoría de un genio en estadística, logra fichar un grupo de jugadores que ese año ganaría el título de la División Occidental.
+
+¿Por qué esta historia de béisbol en una nota de fútbol? Moneyball es un primitivo ejemplo de la aplicación de inteligencia artificial al campo deportivo, cuando solo los expertos hablaban del tema. ¿Ocurrirá algo parecido en el fútbol? Ciertamente. Y ya hay cosas interesantes que van más allá de las contrataciones.
+
+Desde hace tiempo y en muchos juegos se vienen llevando cuentas de pases precisos y errados, recuperaciones y pérdidas de balón, kilómetros recorridos, faltas cometidas, posesión de la pelota Pero, por su volumen, parece que la historia poco se analiza. La idea novedosa es organizar todo esto en bases de datos; el volumen no es problema alguno para la tecnología moderna.
+
+Hace años, en una caricatura de Quino, un veteranísimo lector, al terminar el último libro de su gigantesca biblioteca, se cuestiona, preocupado y confundido: Ahora que sé tanto, ¿qué voy a hacer? Pues ya hay gerentes y técnicos del fútbol haciéndose una pregunta similar: ¿Qué vamos a hacer con tantos datos? Pues entregárselos a alguna especie de AlphaZero.
+
+AlphaZero es un programa de computador creado por DeepMind, una hermana británica de Google, que autoaprendió y alcanzó destrezas extraordinarias en Go, ajedrez y shogi, los grandes juegos estratégicos, originarios de China, India y Japón, respectivamente. Llamemos Alfafútbol (que, por supuesto, aún no existe) a la aplicación de algún AlphaZero al jogo bonito del gran Pelé.
+
+Alfafútbol no autoaprendería las reglas del juego; por el contrario, sería necesario suministrárselas y mantenérselas actualizadas. El programa también requeriría las historias de los partidos, así como los desempeños individuales recientes de los jugadores.
+
+Alfafútbol serviría para análisis tanto estratégicos ¿cuál debe ser la plantilla de jugadores para la próxima temporada? como tácticos ¿cómo debe el equipo alinear y formar mañana?. Alfafútbol también armaría, con base en la historia reciente y con los chismes que se le pasen, la posible alineación del equipo contrario.
+
+¿Qué ha sucedido ya? Comencemos con algo curioso y reciente. En mayo pasado, la Fifa dio un permiso medio tonto: para el Mundial 2018, cada equipo podría utilizar dos tabletas, una para los analistas en la tribuna de medios y otra para el grupo técnico en el campo. ¿Estaban prohibidas? Parecería que sí.
+
+Alfafútbol recomendaría la alineación, las formaciones y las tácticas de juego. Durante el partido, el programa produciría recomendaciones, en tiempo real. Aquí entrarían a jugar los laptops, que ahora autoriza la Fifa, conectándose a Alfafútbol vía internet, para decirle lo que está pasando y recibirle sus sugerencias. Sí, por supuesto, el entrenador siempre tendrá la última palabra.
+
+La imaginación del columnista quizás vuela demasiado. Aunque es un buen aficionado, jugó en su vida muy pocos partidos. Está seguro de que el software jamás tendrá rabietas y, basándose en la historia, bien podría pronosticar la duración de las lesiones imaginarias de Neymar.
+
+¿Ciencia ficción? ¡No! Muchos genios de computación y muchos inversionistas del fútbol están interesados en el tema. Ya existe en el mercado, a manera de ejemplo, un grupo consultor que espera brindar análisis de datos en tiempo real, aplicando técnicas sofisticadas de auto-aprendizaje e inteligencia artificial y abriendo paso a innovaciones en todo, desde el fichaje de jugadores hasta simulaciones virtuales de partidos.
+
+Si la tecnología de información comienza a recomendar contrataciones, alineaciones, tácticas, jugadores a reemplazar durante el partido, bloqueos a contrarios y hasta las quemadas de tiempo, cuando el marcador es favorable, ¿se arruinará la diversión innata que reside justamente en la incertidumbre de cada juego?
+
+¿Se convertirá el fútbol en encuentros entre sofisticados programas y computadores superpoderosos? ¡Qué horror sería eso! No va a suceder. La inteligencia artificial solo podrá apoyar la inteligencia natural de las estrellas y la malicia educada de los entrenadores. Con certeza absoluta, eso sí, la emoción de los aficionados, los vivas de los hinchas en la tribuna y los madrazos al árbitro jamás llegarán a computarizarse.

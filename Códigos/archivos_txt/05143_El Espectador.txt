@@ -1,0 +1,48 @@
+5143
+El Espectador
+Las historias de los Servicios Ciudadanos Digitales
+27 de julio de 2019
+Carolina Botero Cabrera
+El Ministerio de las Tecnologías de la Información y las Comunicaciones (MinTIC) convocó a una presentación de los cambios que le hicieron a un proyecto que fue diseñado por el gobierno Santos en 2014 cuando apareció por primera vez la idea de la creación de una Carpeta Ciudadana . Se trata de una plataforma digital que alojaría todos los documentos de la relación Ciudadanía-Estado, facilitando, a través de la centralización, nuestros trámites públicos.
+
+Esta carpeta estaría en la nube -es decir, en el computador de alguien más- de empresas privadas que cuidarán nuestros datos a cambio de una cuota que deben pagar las entidades públicas. Con el tiempo esta iniciativa se ha complejizado integrándose con otras dos, la de interoperabilidad y la de autenticación, para convertirse en el programa de Servicios Ciudadanos Digitales . Además, el Ministerio también impulsó que estas empresas propongan negocios de valor agregado con los datos de los que estén dispuestos a pagar por un servicio especial y la vio como la puerta al Big Data desde el Estado.
+
+El borrador de decreto que presenta el gobierno hoy tiene varias mejoras que incluyen algunas de las preocupaciones que teníamos con el modelo previo. En este sistema, el gobierno vuelve a definir las condiciones y a regular la actuación de los operadores privados. Según el MinTIC, el cambio respondió, principalmente, a la sostenibilidad financiera del gobierno anterior. Sin embargo, el gobierno sigue viendo el sistema como la puerta a la innovación y a los servicios de valor agregado prestados por privados por pagos y autorización de la ciudadanía.
+
+Hacia finales de 2017, el gobierno anunció que SCD incorporaría la Historia Clínica Electrónica como uno de los primeros documentos para usar en la Carpeta Ciudadana. El anuncio nos sorprendió porque los datos médicos son sensibles y porque en otros países se tratan este tipo de datos pensando en la seguridad e intimidad como un objetivo principal. En últimas, con los datos de la salud no se experimenta un modelo de administración de información.
+
+Convertir la historia clínica en un documento electrónico no es nada nuevo en el país. El Ministerio de Salud viene trabajando el tema hace más de una década. Sin embargo, con la Carpeta Ciudadana hemos visto un viraje en el liderazgo, desde hace unos años este ha sido asumido por el Ministerio TIC. El cambio, como mínimo, pone las discusiones más en la vía de la tecnología como solución que de la tecnología como herramienta.
+
+Desde Karisma -donde trabajo- contactamos a organizaciones y colectivos que venían en el proceso de seguimiento a las iniciativas de este tipo con el Ministerio de Salud. La intención es aprovechar las discusiones legislativas para compartir opiniones, analizar conjuntamente los riesgos que esta iniciativa pueda tener para el ejercicio de derechos humanos y, por tanto, informar y alertar a quienes toman estas decisiones sobre la necesidad de conjurarlos o mitigarlos.
+
+Como resultado de estos ejercicios publicamos la primera parte del proyecto Otras Historias con los primeros artículos de análisis. Estos documentos pueden leerse como un diálogo que abre la sociedad civil y la academia para acercarnos a la idea de introducir tecnología en la gestión de nuestros datos de salud a partir de la historia clínica electrónica .
+
+Uno de los objetivos de nuestro trabajo era generar alertas vinculadas con la privacidad y la seguridad digital, pues el modelo de SCD transforma los datos de la historia clínica en activos que serán administrados por privados y que pueden ser explotados para otros propósitos , mientras los aleja de su verdadera función: prestar el servicio de salud.
+
+Vemos como para otros colectivos -incluso que identificábamos como particularmente vulnerables- el mayor riesgo está en que el nuevo sistema reproduzca lógicas de invisibilización. Así, por ejemplo, la voz de activistas por los derechos de personas LGB T y de personas Trans advierten que sus preocupaciones se relacionan con que la historia clínica electrónica, como un proceso de estandarización, refuerce la lógica binaria que es excluyente.
+
+La exclusión se materializa hoy en afectaciones al derecho de estas personas de acceder a la salud, pero también afecta a futuro el diseño de políticas públicas. Para estas personas es evidente que ser invisibles en los datos que se producen en estos procesos, que son los que sirven para la toma de decisiones de política pública, el futuro tampoco es prometedor.
+
+Hoy estamos ante dos procesos paralelos: por una parte, hay un proyecto de ley en curso sobre historias clínicas electrónicas que es iniciativa de congresistas liberales y de Cambio Radical. Por otra parte, el MinTIC está realizando cambios en el modelo de Servicios Ciudadanos Digitales y la idea de meter la historia clínica en el sistema sigue ahí.
+
+No sabemos qué forma va a tomar la historia clínica electrónica en nuestro país, pero lo que es una constante en ambos proyectos es la falta de participación de los actores de la salud: los colectivos pacientes, los colectivos médicos, la academia, las EPS, las IPS, etc. El problema se sigue pensando en términos de tecnología dejando por fuera la salud pública y la visión transversal de beneficio para la calidad de vida. La historia clínica electrónica no puede convertirse en un problema de tecnología o de innovación, tiene que poner al paciente como el centro.
+
+873130
+
+2019-07-27T02:35:00-05:00
+
+column
+
+2019-07-27T02:45:01-05:00
+
+jrincon_1275
+
+none
+
+Las historias de los Servicios Ciudadanos Digitales
+
+51
+
+6697
+
+6748

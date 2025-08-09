@@ -1,0 +1,34 @@
+6485
+El Espectador
+Dos recursos para periodistas
+18 de diciembre de 2019
+Santiago Villa
+En esta columna voy a compartir unas herramientas digitales que conocí en la más reciente Conferencia Mundial de Periodismo Investigativo (Global Investigative Journalism Conference, 2019). Uso el verbo conocer, porque todavía no puedo decir que las aprendí todas. Es complejo enfrentarse a ellas, pero son muy poderosas.
+
+Las herramientas son útiles para quienes no son periodistas, y por eso comienzo por la más general. Una bestia de procesamiento de datos llamada R.
+
+R, así tal cual, erre, es un lenguaje de programación para manipular datos. Algo así como Excel recargado, pero en un estilo visual totalmente distinto. Lo más chocante de R, al principio, es que no se ven los datos propiamente. La interacción con ellos es más bien abstracta, por ser en el estilo de los lenguajes de programación.
+
+El primer punto positivo: es gratis y puede descargarse aquí .
+
+Además de eso, vale la pena tomarse el tiempo y el esfuerzo de estudiar R porque a menudo los periodistas nos enfrentamos a bases de datos que son demasiado amplias para interpretar a través de Excel, o queremos comparar y contrastar dos bases de datos. R facilita esto.
+
+R, a diferencia de Excel, permite aproximarse a las bases de datos como si les estuviéramos haciendo una entrevista.
+
+Aunque aprenderlo no es fácil, aquí hay un tutorial del Centro Knight que es una buena introducción. Con paciencia y constancia se puede quebrar esta nuez.
+
+La segunda herramienta se complementa muy bien con R y es para Google Chrome. Web Scraper, de Google, es un add-on que puede descargarse aquí .
+
+Web Scraper recoge toda la información de una página web, y resulta interesante usarlo cuando usted se enfrenta a una página que tiene muchos datos que son dispendiosos, o imposibles, de reunir por medios convencionales, como copy-paste . Aquí hay un buen tutorial para usar el web scraping .
+
+Usar el Web Scraper en combinación con R puede resultar en poderosos análisis de datos. Por ejemplo, si quiere comparar los reportes financieros entre dos empresas o, aún mejor, comparar información que se encuentra en tableros de mensajes y no está organizada, sino dispersa en la página, usar el Scraper le permite acceder a la información. Una vez tenga la información en un formato de base de datos, puede usar R para analizarla. Es un combo perfecto.
+
+El poder de estos procedimientos es que permite crear material para historias a partir de información en bruto, que de otra manera no significa gran cosa. Dejo dos ejemplos que pueden despertar su imaginación.
+
+Primero, el periódico USA Today logró encontrar información sobre datos de homicidios que estaban en las páginas web del FBI, pero que estaban tan mal organizados que no quedaron en sus bases de datos oficiales.
+
+Segundo, Reuters investigó la magnitud de un mercado de niños adoptados a partir de mensajes entre extraños dejados en tableros de Yahoo.
+
+Al principio no será fácil, pero lo importante es la constancia y saber que, una vez sea más o menos competente, se le abre un abanico inagotable de historias.
+
+Twitter: @santiagovillach

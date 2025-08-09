@@ -1,0 +1,16 @@
+6041
+El Espectador
+La inteligencia artificial y la automatización de la pobreza
+18 de octubre de 2019
+César Rodríguez Garavito
+Las tecnologías digitales y la inteligencia artificial pueden cumplir la promesa que hicieron sus artífices en un comienzo: democratizar el conocimiento y facilitar el acceso de las poblaciones marginadas a oportunidades reservadas hasta ahora para la minoría rica. Pero también pueden convertirse en las herramientas más eficaces para discriminar y controlar a los más pobres. Si Michel Foucault hubiera vivido en la era digital, diría que en eso se han convertido: en las tecnologías ideales para vigilar y castigar a los menos poderosos.
+
+Así queda claro en el informe que publicó esta semana la Relatoría sobre Derechos Humanos y Pobreza Extrema de la ONU, que se suma a la evidencia sobre la automatización de la pobreza que está teniendo lugar alrededor del mundo. En países con un Estado de bienestar, como Inglaterra o Australia, los gobiernos han invertido presupuestos ingentes en sistemas de información que rastrean la vida de los beneficiarios de subsidios de salud o seguros de desempleo. Rastreo, claro, que no tienen que sufrir los más pudientes. Los algoritmos automatizan decisiones vitales para los más pobres, como la terminación de esos beneficios por parte de entidades estatales.
+
+En países que no tienen un Estado de bienestar robusto, con frecuencia la discriminación tiene lugar a través de entidades privadas, como los bancos que tienen acceso a bases de datos sobre los más pobres. En Brasil, el Congreso aprobó este año una ley que permite enviar automáticamente a las entidades financieras cantidades masivas de información sobre asuntos tan cotidianos como qué compra la gente, qué paga con tarjeta de crédito y qué tan buenos deudores son sus familiares o contactos en redes sociales. Estos son los datos que procesan los algoritmos de los bancos para tomar decisiones automatizadas como el otorgamiento de un crédito.
+
+Los riesgos son aún más visibles en India, el país de los superlativos. El gobierno de Narendra Modi ha fichado 1.200 millones de indios en un sistema de reconocimiento biométrico que está siendo usado para expulsar selectivamente a ciudadanos empobrecidos de los magros sistemas de asistencia social. De ahí a que esos datos sean usados por entidades privadas, como puede estar pasando en Brasil, hay un solo paso.
+
+La responsabilidad, por supuesto, no es de las tecnologías mismas, que pueden ser utilizadas para incluir o para excluir: los resultados que arrojan los algoritmos son de la misma calidad, y tienen el mismo sesgo, que los datos que los alimentan. Pero la responsabilidad sí es de las compañías digitales, que se rehúsan a ser reguladas y se han convertido en una zona franca digital, exenta de derechos humanos, como lo dice el reporte de la Relatoría de la ONU. También es responsabilidad de los gobiernos que acumulan o acuden a bases de datos masivas e invierten en tecnologías como el reconocimiento facial para vigilar y controlar la población.
+
+Como en los tiempos de Foucault, la vigilancia y el castigo terminan afectando sobre todo a los pobres. Ni Jeremy Bentham habría imaginado un panóptico más acabado.

@@ -1,0 +1,16 @@
+12053
+El Tiempo
+Teletrabajo con mucha seguridad
+20 de abril de 2020
+Guillermo Santos Calderón
+Ahora que se habla de teletrabajo hasta el fin del año, es muy importante tomar en cuenta la seguridad digital de las empresas y los cuidados que deben tener los empleados desde sus casas para evitar que hackeen sus computadores, y que cuando se conecten a la empresa, los delincuentes digitales no puedan entrar para atacarla.
+
+Algo clave es que los empleados usen una VPN virtual private network o red privada virtual, que encripta o cifra todos los datos que viajan entre el computador del empleado y la red de la empresa, y viceversa. Eso evita que los delincuentes puedan intervenir en el flujo de información y leer lo que se está transmitiendo.
+
+Otra fase de seguridad muy importante es que se use el 2FA, o sea, la autenticación de dos pasos. Esto hace que cuando el empleado vaya a entrar a la red de la empresa o a alguna aplicación, además de la contraseña se le exija algo más, como un código que se le puede enviar por mensaje de texto a su celular, el cual confirma que el que está entrando sí es el empleado y no alguien que le robó la contraseña.
+
+También, el manejo adecuado de las contraseñas, evitando usar la misma en todo, o una que sea fácil de descubrir por los delincuentes. Para esto es conveniente usar un administrador de contraseñas que guarda, encriptadas, todas las que el empleado usa, que deben ser muy largas y difíciles. Y para tener acceso a ellas solo se debe recordar la clave para entrar a la aplicación que las administra.
+
+Algo fundamental es tener conciencia de la ingeniería social, esto es, cuando el delincuente digital manipula a las personas para obtener algo de ellas que les permita acceder a sus computadores, sea simulando ser un amigo o alguien conocido, o con phishing, es decir, cuando le llegan a uno mensajes que piden datos confidenciales o descargar un archivo, simulando ser una multa, una certificación o un documento como algo de la Dian, que son falsos, para engañar al destinatario a fin de que dé su información. Tampoco se debe hacer clic en enlaces que no sean confiables y pueden venir en correos phishing, y mucho menos navegar por portales desconocidos o dudosos. Asimismo, es muy importante usar siempre un buen antivirus como Bitdefender, Kaspersky o Norton.
+
+Este tema de seguridad digital se volvió muy importante por la exigencia del teletrabajo por muchos meses más. A tener cuidado, por favor.

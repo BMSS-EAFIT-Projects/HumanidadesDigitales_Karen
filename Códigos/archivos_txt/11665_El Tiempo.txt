@@ -1,0 +1,16 @@
+11665
+El Tiempo
+El mar de datos
+23 de junio de 2019
+Guillermo Santos Calderón
+Actualmente, cuando vemos por televisión que muchas áreas del país están inundadas por las imparables lluvias, debemos pensar también que las empresas están inundadas por la gran cantidad de datos que deben manejar y, de ser bien administrados, las ayudarían a crecer, a conocer mejor a sus clientes, a ser más eficientes y tener una mejor rentabilidad.
+
+Muchas empresas no saben cómo sacarle provecho a la gran cantidad de datos que poseen ni los procesan, lo cual significa que no los usan para su beneficio. Uno de los grandes problemas que enfrentan es que esa mina de datos se encuentran almacenados en silos o islas a las que no pueden acceder todos. La estrategia que debe seguirse para utilizarlos bien y sacarles provecho es romper las barreras existentes entre los diferentes silos y empezar a entender cómo se debe mirar ese mar de datos para poder tomar decisiones y lograr el cumplimiento de objetivos.
+
+Se debe saber que mirar los datos como se hace tradicionalmente no es lo mejor. Hay que ser creativos en la forma de analizarlos, y se debe tener en cuenta que ese análisis de datos tiene que estar alineado con el contexto de la empresa y del sector en que está y cómo funciona.
+
+Para que una compañía entre exitosamente en el mar de datos es muy importante inculcar a todos sus empleados la cultura de datos, es decir, que entiendan lo clave que es analizarlos conjuntamente, no por silos, y darles la importancia que tienen a la hora tomar decisiones. Esta cultura de datos debe estar apoyada por las altas directivas. De lo contrario, toda estrategia que se vaya a implementar al respecto va a fracasar.
+
+Otro factor para que esto funcione bien y tenga éxito es la implementación de una infraestructura que facilite a los empleados y ejecutivos tener un acceso rápido, confiable y que asegure la integridad de los datos. Además, contar con una herramienta que les permita entrar en ellos, poder analizarlos rápidamente para obtener respuestas a preguntas que lleven a lograr los objetivos deseados.
+
+Es importante vender la idea de que la estrategia de análisis de datos para la toma de decisiones no es algo exclusivo del área de tecnología, sino de todas las de la empresa, como atención al cliente, producción, ventas, etc., y capacitarlos para que entiendan que estos análisis los van a beneficiar a todos.

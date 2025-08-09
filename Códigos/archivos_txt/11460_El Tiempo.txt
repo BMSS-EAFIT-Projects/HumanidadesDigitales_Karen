@@ -1,0 +1,14 @@
+11460
+El Tiempo
+Semaforización inteligente
+05 de mayo de 2019
+Guillermo Santos Calderón
+Ciudad inteligente es un concepto muy amplio y, a veces, difícil de concretar. Se trata de ciudades conectadas con aplicaciones que hacen que haya mayor seguridad, mejor tráfico, mejor servicio público y beneficios en los procesos privados a sus habitantes, y al traducirlo en aplicaciones y servicios automatizados puede ser algo muy extenso. Pero hay que hacerlo y darles prioridad a aquellas aplicaciones y usos sistemáticos que resuelvan los peores problemas de la ciudad.
+
+Para ponerlo en palabras prácticas, diría que la seguridad es el primero; el tráfico, el segundo; la atención de la ciudad a sus ciudadanos, el tercero, y se pueden seguir enumerando. Lo importante es que el alcalde de turno entienda que darle inteligencia a la ciudad en la que gobierna es algo fundamental, y para eso debe establecer las prioridades de los problemas y diseñar e implementar proyectos que de verdad los resuelvan, pero desde el comienzo de su período y no al final, porque el alcalde entrante suele echar todo para atrás y se pierde la plata de los estudios y se tiene que empezar de nuevo.
+
+La semaforización inteligente, que viene con luz led que ahorra energía y mejora el tráfico de automóviles y el tránsito de peatones y, en teoría, los semáforos no se van a apagar porque tienen batería que hará que aunque se vaya la luz estén activos durante varias horas más, se compone de muchos semáforos que se controlan desde un centro con computadores, lo cual hace que su dinámica sea buena e inteligente porque cada semáforo recopila información que hace que se administre para que el tráfico de la intersección se mejore.
+
+Este proyecto lo he escrito antes se pudo haber complementado con cámaras y un sistema inteligente que analice las caras que esté grabando la cámara, acceda a una base de datos de delincuentes presos que han sido liberados que, por causa de nuestra injusta justicia, son muchos e informe a la policía sobre su presencia en sitios de alta vulnerabilidad o en los que se presentan numerosos robos o circula mucha gente.
+
+Es un pesar que este proyecto que, en mi opinión, por esta razón nació un poco cojo no se haya aprovechado para también mejorar la situación de pésima seguridad que existe en las calles de Bogotá. Pero algo es algo. La semaforización inteligente debe de estar lista finalizando este semestre. Vamos a ver.

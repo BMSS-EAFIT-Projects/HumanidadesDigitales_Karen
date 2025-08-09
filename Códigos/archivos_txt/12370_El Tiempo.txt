@@ -1,0 +1,14 @@
+12370
+El Tiempo
+Llega el internet del comportamiento
+25 de octubre de 2020
+Guillermo Santos Calderón
+El internet de las cosas IoT o Internet of Things se usa mucho para recoger datos de los usuarios que se conectan con aparatos conectados a internet, los que se estima van a llegar a 75.000 millones en todo el mundo, según Contentstack. IoT es todo aparato que se conecta a internet desde cámaras de vigilancia, celulares, tabletas, computadores, televisores, neveras, etc., y todos recogen información sobre quien los usa. Por ejemplo, el celular brinda mucha información acerca del usuario, como en dónde se ubica, cada cuánto llama, qué compra y otros datos.
+
+Esta información está siendo usada por empresas para evaluar sus productos, conocer mejor a sus clientes, poder predecir su comportamiento, con lo cual pueden mejorar sus ventas y campañas comerciales. En el IoT hay cuatro etapas: la primera, conseguir datos; la segunda, convertirlos en información; la tercera, adquirir conocimiento sobre esa información, y la cuarta, generar inteligencia, una vez se hayan surtido los primeros tres.
+
+Explicado esto, se puede afirmar que se le está abriendo la puerta al internet del comportamiento IoB o Internet of Behavior. El IoB se basa en los pasos 3 y 4 descritos arriba y hace que nuestros comportamientos se modifiquen. Por ejemplo, una aplicación de salud móvil (m-health) que permita controlar la dieta, el sueño, la frecuencia cardíaca y los niveles de azúcar podría llevar a que el usuario empezara a hacer dieta, bajarle al azúcar y hacer ejercicio.
+
+Por ahora, el uso más frecuente del IoB es hacer que los usuarios compren más, gracias a que conocen qué compran, cuándo, con qué pagan, por mencionar algunos aspectos. En empresas americanas se está usando el IoT para saber cuándo una persona no está utilizando el tapabocas o cuándo se está acercando a otras personas, y usan estos datos para que cambie y mejore su comportamiento por su bienestar y salud. Otro ejemplo es cuando un carro está conectado a internet y se monitorea su conducción. Esto permitiría contactar al conductor para decirle que maneje mejor, lo cual es bueno para su seguridad.
+
+Esto del IoB tiene su lado malo, y es que al poseer datos de las personas, los delincuentes digitales los pueden usar para cometer de manera más fácil los delitos. La privacidad de la gente en pocos años se va a perder, por más leyes que existan para prevenirlo.

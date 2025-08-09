@@ -1,0 +1,30 @@
+3910
+El Espectador
+Primer round: super-SIC contra Facebook
+2 de febrero de 2019
+Carolina Botero Cabrera
+Mediante Resolución 1321 del 24 de enero pasado, la Superintendencia de Industria y Comercio ordenó a Facebook adoptar nuevas medidas y mejorar las existentes para garantizar la seguridad de los datos personales de más de 31 millones de colombianos que usan esta red social.
+
+En concreto, la Delegatura de Protección de Datos, que es la autoridad del tema en el país, busca que Facebook trabaje para evitar el acceso, uso, consulta, adulteración y pérdida de datos personales que sean no autorizados o fraudulentos. La red social cuenta con cuatro meses para hacerlo y la forma en que podrá probarlo es con un certificado de un tercero.
+
+El escándalo de Cambridge Analytica ya parece prehistoria. No pasa semana sin que Facebook esté involucrado en una nueva noticia sobre malos manejos de los datos que las personas le confían.
+
+Esta semana, por ejemplo, se supo que esta red social pagaba para que las personas instalaran una app de investigación de mercado . La app le daba amplio acceso a Facebook a la actividad del equipo, que a cambio paga hasta 20 dólares mensuales. El escándalo va por cuenta de que involucraron a menores de edad y los atrajeron con dinero para espiarlos .
+
+Esta semana también supimos que Facebook está bloqueando aplicaciones con las que organizaciones como Propublica buscan inyectar algo de transparencia para entender la forma como las personas están siendo objeto de los anunciantes en esa red. Es decir, Facebook no quiere mecanismos legítimos de seguimiento a su modelo de negocio que involucra la explotación de datos personales.
+
+Tiene razón la Superintendencia, el gigante de internet está en el ojo del huracán en el mundo y esto debería preocuparnos porque tiene una posición dominante en Colombia.
+
+Como lo hemos dicho en el pasado , más de la mitad de la población colombiana habita Facebook, 17 millones lo usan todos los días en el 95% de las conexiones a internet del país. Además, ya en Colombia hay más celulares que personas, así que si el equipo lo permite cualquiera puede tener Facebook gratis en su dispositivo, mientras que para acceder a internet tiene que pagar. Es decir, es lógico que para muchas personas en Colombia el uso de internet sea equivalente a Facebook y lo usan incluso como herramienta de mensajería instantánea. Esto supone un gran reto incluso para procesos como los electorales .
+
+En consecuencia, es positivo que la Superintendencia de Industria y Comercio reclame su autoridad para hacer exigibles las leyes de protección de datos del país incluso ante empresas grandes como Facebook. Esto corrige algo que la misma entidad había puesto en duda en 2014 . Pero me surgen varias preguntas sobre lo que sigue.
+
+Seguramente, la Superintendencia analizó los diferentes ángulos de esta decisión, los retos de hacerlo con una multinacional que si fuera un país sería más grande que China y tendrá claro que lo que sigue pondrá a prueba la efectividad de su sistema de medidas preventivas. Pero, mirando desde la barrera, tengo preguntas: ¿no sería más efectivo crear una estrategia regional para tomar este tipo de medidas? ¿Cómo se hará exigible la medida? Si se llegase a un bloqueo, ¿de qué forma se haría? ¿Hay estudios del impacto de una medida de este tipo?
+
+Con base en la información pública, solo puedo aproximarme a la respuesta de la última pregunta, a partir de las respuestas del superintendente a algunas entrevistas . Vencido el plazo, si Facebook no cumple, las sanciones pueden ser multas de hasta 2.000 SMLV y, ha dicho, se puede bloquear temporalmente la página o el cierre definitivo de sus operaciones.
+
+Sobre este tema quiero llamar la atención, pues el bloqueo de internet, de contenidos y aplicativos es una medida extrema que viola la libertad de expresión. Esta medida debe ser tomada en casos extremos, cuando se han agotado otras opciones y considerando que tenga el menor impacto posible en afectaciones a los derechos humanos.
+
+Esto es importante porque, precisamente, la posición dominante que tiene Facebook en el país hace que para muchos equivalga a internet, pero, sobre todo, sea su medio de comunicación para informar y para informarse. Esto es una realidad nos guste o no. Así que la autoridad deberá evitar el bloqueo. También podría aprender de lo que pasó, por ejemplo, en Brasil, cuando se bloqueó WhatsApp y se convirtió un que se devolvió en contra de la autoridad.
+
+Comienza un nuevo capítulo local de la batalla por meter en cintura a Facebook y el camino no es sencillo.

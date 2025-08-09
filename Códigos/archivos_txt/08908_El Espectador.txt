@@ -1,0 +1,26 @@
+8908
+El Espectador
+Confusión
+23 de julio de 2020
+José Fernando Isaza
+Iniciaremos con un pequeño test. Escoja la respuesta correcta. ¿Qué son las guerras médicas?
+
+a) Los griegos llamaban medos a los persas, por lo que las guerras entre ellos en el siglo V a. C. se denominaban guerras médicas.
+
+b) Se refieren al enfrentamiento entre la Academia Nacional de Medicina y las asociaciones médicas de Bogotá. La ANM dice: En el momento actual no es prudente, necesario ni útil cerrar el país con un estricto y completo aislamiento obligatorio. Las asociaciones médicas solicitan cuarentena estricta, total y obligatoria en Bogotá.
+
+c) El término se aplica a la confrontación entre la alcaldesa de Bogotá y las asociaciones médicas, por haber dicho estas lo mismo que la alcaldesa había anunciado días antes sobre el riesgo de colapso del sistema de salud en el Distrito.
+
+La evolución de la pandemia en Colombia se aparta del comportamiento observado en regiones que han controlado el coronavirus. La curva sigue la trayectoria usual de una epidemia: crece lenta inicialmente, luego se acelera geométricamente hasta el día 60 u 80, pasa por un punto de inflexión y decrece sensiblemente la tasa de contagios. En Colombia, al día 122, la curva sigue creciendo geométricamente y en casos como los de Bogotá y Medellín la velocidad de contagios está creciendo.
+
+El tiempo de duplicación del número de enfermos está en 18,1 días en el país, cifra casi igual a los 18,2 días de hace dos semanas. Bogotá muestra un deterioro al pasar de 23,6 días a 20 días de período de duplicación. En Medellín el período de duplicación es alarmante: 9,1 días, hace 15 días estaba en un crítico nivel de 10,7 días.
+
+Al inicio poco se sabía del porcentaje de personas susceptibles de contagiarse. Los modelos epidemiológicos iniciales estimaban que para llegar a una inmunidad de rebaño los contagiados debían ser del 70 % al 80 % de la población. El Gobierno nacional ha usado estos modelos en la parte motiva de las declaraciones de emergencia. La realidad ha sido muy diferente. Lo preocupante es que siguen utilizando estimativos inconsistentes. ¿Será esta la mejor forma de afrontar la crisis?
+
+En la mayoría de países que llegaron al tope de los contagios, el número de estos no superó el 1 % de la población. En España fue el 5,5 por mil; Italia, 4,1 por mil; Reino Unido, 4,43 por mil; Alemania, 2,4 por mil; Suecia, 7,5 por mil, y Noruega, 1,7 por mil. Obsérvese la diferencia entre los dos últimos: en Suecia el epidemiólogo asesor del gobierno decía que para llegar a la inmunidad de rebaño no debía reducirse la velocidad de contagio, pero el catastrófico resultado lo hizo cambiar de opinión. Las cifras anteriores solo muestran los enfermos sintomáticos, los asintomáticos pueden ser dos o tres veces más frecuentes, pero aun así el contagio no superaría el 2 % de la población, no el 80 % como lo previeron los modelos iniciales.
+
+En el estado de Nueva York y en Brasil, los números de muertes y contagiados dejan atrás los resultados europeos: en Nueva York se llegó al 2 % de los contagios sintomáticos, en Brasil está en el 1 % y creciendo. En Colombia está en el 4 por mil y en crecimiento geométrico, a pesar de llevar más de cuatro meses desde el primer contagio detectado.
+
+Una inquietud: ¿qué sentido tiene publicitar como un éxito el aumento del número de pruebas, si los resultados se entregan cuando son casi inútiles 15 días después?
+
+* Datos al 19 de julio de 2020.

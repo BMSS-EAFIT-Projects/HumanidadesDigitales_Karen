@@ -1,0 +1,34 @@
+2666
+El Espectador
+Los contenidos y las probables consecuencias de la propuesta de reforma tributaria
+8 de noviembre de 2018
+César Ferrari
+El Gobierno acaba de radicar una nueva reforma tributaria bajo el nombre de proyecto de ley de financiamiento. Así, por enésima vez, Colombia vuelve a discutir la cuestión tributaria.
+
+Los aspectos principales de la nueva reforma son los siguientes:
+
+Poco se han discutido sobre los efectos macroeconómicos de la reforma propuesta, a pesar de que serían muy significativos: sobre el crecimiento de la economía, la inflación, la distribución del ingreso, la recaudación y muchas otras variables económicas. Para estimar estos efectos contamos con un modelo del tipo que se conoce como modelo de equilibrio general computable (MEGC).
+
+El MEGC fue construido por el autor de esta nota para la economía colombiana considerando 35 sectores de bienes y servicios, con un horizonte de proyección hasta el año 2020, y ha sido actualizado para analizar esta reforma. El modelo simula el comportamiento dinámico de la economía considerando y retroalimentando todas sus variables fundamentales -incluyendo los principales precios internacionales e instrumentos de política fiscal (impuestos y gastos fiscales desagregados) y monetaria-.
+
+Los resultados de la reforma que arroja el MEGC no son sorprendentes. Como es de esperar, la extensión del IVA produce un aumento de precios que se traduce en un aumento de la tasa de inflación en 2019 del orden de 3,11 puntos porcentuales respecto de la tasa en el escenario base. Por lo tanto el año entrante la inflación sería 5,85 por ciento; en 2020 volvería a su trayectoria inercial y la inflación sería 3,42 por ciento.
+
+Ese aumento de precios produciría una contracción del consumo que, a su vez, induciría una menor actividad económica. En 2019, la reforma disminuiría el crecimiento del PIB en 1,47 puntos porcentuales, de modo que el crecimiento sería apenas del 1,52 por ciento -muy por debajo de las aspiraciones del país y del gobierno-. En 2020, el crecimiento, al igual que la inflación, volvería a su trayectoria inercial.
+
+Las razones de esos resultados son sencillas: la extensión del IVA a gran parte de la canasta básica (y no obstante la rebaja del 19 al 18 por ciento en la tasa general de este impuesto) implica un aumento de sus precios que reduce sus demandas y, por lo tanto, disminuye el nivel de actividad. Tal efecto no es compensado por la pequeña disminución del impuesto a la renta de las empresas, que no induce un aumento suficiente en la inversión.
+
+La reforma sí aumentaría significativamente el recaudo tributario: 19,2 billones de pesos en 2019; 18,9 billones en 2020. Estos resultados se explican por la extensión del IVA, que aumentaría su recaudo en 12,5 billones de pesos en 2019 y en 12,9 billones en 2020. De tal modo, comparando con el escenario base, el déficit fiscal disminuiría 1,69 puntos porcentuales en el 2019 y 1,12 puntos en 2020, situándose en 0,85 por ciento del PIB en 2019 y en 1,22 por ciento en el 2020.
+
+Finalmente la reforma -incluyendo la devolución a los más pobres de lo pagado en IVA, del orden de 2,7 billones de pesos en 2019 y de 2,8 billones en 2020-, conduciría a un agravamiento de la inequidad existente: en 2019 el GINI después de impuestos pasaría de 0,5 en el escenario base a 0,53, y en 2020 de 0, 52 a 0,55.
+
+Una aclaración: el MEGC no es un instrumento para adivinar el futuro. Tampoco es la realidad. Es una representación simplificada de la misma que reproduce, con aproximación, su comportamiento conforme a la teoría económica. Así, las proyecciones que produce deben analizarse a la luz de dicha teoría y de los datos e instrumentos económicos considerados.
+
+En resumen: la aplicación del IVA a productos que hoy están exentos conllevaría un aumento en el recaudo fiscal, pero también en los precios, lo que desacelera la economía y agrava la concentración del ingreso, en perjuicio de las clases medias y populares.
+
+Esto implica que una reforma tributaria adecuada no solo debe buscar más recursos sino tener impactos positivos sobre las variables fundamentales de la economía (crecimiento, estabilidad de precios y distribución del ingreso).
+
+O sea que, muy probablemente, lo que Colombia tiene que hacer es aumentar las tasas de tributación directa de las personas de mayores ingresos y patrimonios. Y reducir los impuestos indirectos como el IVA.
+
+Nota: la anterior columna constituye un resumen del artículo del autor publicado en Razón Pública el 6-12-2018 bajo el título La reforma tributaria del presidente Duque; en qué consiste, para qué sirve y quién acabará pagándola.
+
+* Ph.D. Profesor titular, Pontificia Universidad Javeriana, Departamento de Economía y Observatorio Fiscal Javeriano.

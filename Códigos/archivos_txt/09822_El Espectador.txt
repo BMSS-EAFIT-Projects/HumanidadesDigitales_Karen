@@ -1,0 +1,16 @@
+9822
+El Espectador
+La paradoja de Google
+26 de octubre de 2020
+Juan Carlos Gómez
+Hace veinte años, Google estuvo del lado de quienes acusaron a Microsoft de prácticas anticompetitivas. Ahora será su turno para estar en el banquillo. La semana pasada, el Departamento de Justicia de EE. UU. y los fiscales generales de once estados presentaron una demanda en su contra por la realización de prácticas anticompetitivas en los mercados de búsqueda y publicidad en internet.
+
+No es una sorpresa: desde hace varios años Google está bajo la lupa de las autoridades. En Europa ha sido sancionado varias veces con multas que, en todo caso, no le hacen mucha mella a su caja libre de US$120 billones. Sin embargo, esta es la primera acción judicial que toman las autoridades norteamericanas en su contra. Será una batalla legal sin precedentes, tanto en costos de abogados y peritos como en teorías jurídicas, económicas y técnicas. Desde los casos legendarios contra ATT&T (1974) y Microsoft (1998), no se había suscitado una acción antitrust de tales dimensiones.
+
+En el juicio contra Microsoft el juez determinó que eran anticompetitivos los actos de un gigante tecnológico para impedir a otros agentes la entrada a los canales de distribución e impedir a los usuarios acceder libremente a contenidos y aplicaciones. Google ahora está acusado de conductas equivalentes. También es una paradoja que, sin el precedente judicial de Microsoft, las Big Tech (Apple, Google, Amazon y Facebook) seguramente no hubieran podido florecer.
+
+El litigio tardará varios años en resolverse y sin duda alguna se afectará por el próximo cambio de gobierno y de composición del Congreso en EE. UU. Mientras tanto las Big Tech tendrán más poder en los mercados que dominan. Muchos expertos consideran que no se logrará nada efectivo sin un nuevo marco normativo que imponga ex ante prohibiciones expresas. Otros abogan por la idea de un regulador único para los mercados digitales. Inglaterra ya hizo un anunció en esa dirección y lo propio harían la Unión Europea y Australia.
+
+En Colombia, el Ministerio de las TIC, la CRC y la SIC están a una distancia sideral frente al reto que imponen las Big Tech. No existe el marco jurídico ni la fortaleza institucional para asomarse al futuro.
+
+@jcgomez_j

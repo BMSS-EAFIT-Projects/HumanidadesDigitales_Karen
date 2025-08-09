@@ -1,0 +1,20 @@
+11744
+El Tiempo
+Guardabosques espaciales
+10 de octubre de 2019
+Moisés Wasserman
+El año pasado, los incendios forestales de California alcanzaron proporciones de tragedia, y este año ha sucedido algo parecido en la Amazonia. En California, la mayoría se iniciaron por rayos no seguidos por aguaceros, y tal vez algunos por locos (o malvados) incendiarios. En el Amazonas se sumaron actividades económicas, algunas de personas que buscaban enriquecerse, otras de pobres que querían sobrevivir, y una política torpe de algunos mandatarios.
+
+Sabemos que cada año ponemos en la atmósfera el equivalente a 10.000 millones de toneladas de carbón. Sabemos también que al menos la mitad desaparece, absorbido por sistemas terrestres, pero no entendemos muy bien dónde ni cómo. Los océanos absorben un 25 por ciento, el resto posiblemente sea captado por los árboles.
+
+Hay algunos datos interesantes acerca de la composición de la vida terrestre. Los organismos pesan el equivalente a unos 550.000 millones de toneladas de carbón (tonelada más, tonelada menos). De ellos, las plantas son 450; bacterias, 70; hongos, 12; arquea, 7; protistas, 4, y los animales (incluidos nosotros), apenas 2.
+
+Por eso sabemos, o al menos intuimos, que el principal aliado que tenemos para captar el CO2 son los árboles. Pero para encontrar buenas soluciones no basta la intuición, y es absolutamente sorprendente el desconocimiento que tenemos sobre ese aspecto del planeta. Hemos enviado misiones de observación a Mercurio, Venus, Marte, Júpiter, Saturno, Urano y Plutón, pero apenas ahora empezamos a enviar misiones espaciales para observar nuestros bosques.
+
+En un reciente informe, la revista New Scientist reporta algunas de ellas. Hasta ahora, los satélites solo han podido fotografiar las copas de los árboles. La Nasa acaba de enviar un satélite con un sensor, llamado Gedi, que en poco tiempo nos proveerá del primer mapa tridimensional de nuestros bosques. Usa un sistema con láser que, midiendo el tiempo que dura la luz en ir y regresar, puede definir altura y grosor de los troncos y tamaño de las copas, pero no alcanzará a mapear los inmensos bosques boreales.
+
+La Agencia Espacial Europea va a lanzar un sistema complementario, basado en un radar, que, usando microondas de longitud mediana, podrá completar en cinco años la labor de mapeo tridimensional de los bosques. La Nasa, en sociedad con la Agencia India de Investigación Espacial, tiene planeado otro sistema con radar dual que podrá hacer observaciones periódicas y medir efectos de incendios y huracanes. Todos esos sistemas, además de un mapa preciso, nos permitirán evaluar el crecimiento y la capacidad real de captación de CO2 de los bosques.
+
+Por supuesto, hay medidas que se deben ir tomando, aun con conocimientos parciales. Se estima que la Tierra podría con facilidad aumentar sus bosques en una medida que captaría un 25 por ciento adicional del CO2 producido. En los últimos 20 años, China ha reforestado un área equivalente a la cuarta parte de la Amazonia y Europa, una equivalente a Portugal.
+
+No es una ilusión pensar que en esos y otros esfuerzos científicos se encontrarán soluciones para capturar gases de efecto invernadero y generar energía limpia. Un buen columnista mencionaba hace poco un libro que predecía catástrofes, y lo calificaba de muy serio. Pocos libros más serios que Ensayo sobre el principio de la población, de Malthus. Sin embargo, sus predicciones apocalípticas nunca se cumplieron. No contó con el ingenio humano; la tecnología, hasta ahora, nos ha rescatado de las mayores amenazas que enfrentamos. Los científicos que buscan soluciones en sus laboratorios, en el espacio y en el campo son discretos y no figuran en los grandes titulares, pero sus trabajos tienen mucho más impacto en la solución de los grandes problemas que los discursos.

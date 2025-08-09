@@ -1,0 +1,34 @@
+5362
+El Espectador
+Partidos bajo el sol
+19 de agosto de 2019
+Jorge Tovar
+Se levantan las voces en Colombia buscando prohibir partidos en horarios con excesivo calor. Y es que el calor puede pegar. Hace muchos años, viajando desde Bogotá, me tocó jugar en Honda. El partido inició a mediodía. Bajo un sol abrasador, tuvimos que escuchar los himnos de Colombia, Tolima, Honda y alguno más. Al finalizar el primer tiempo tenía tembladera, escalofríos. Recuerdo entrar a la única ducha del vestuario y meterme bajo el agua prácticamente los quince minutos del tiempo de descanso. No me desmayé, nunca vi un desmayado en partidos con tanto calor, pero sin duda puede pegar. Por otro lado, hablamos de deportistas de élite.
+
+Hoy el calor, antes la altura. En 2014 publiqué un artículo en el , la revista de la Asociación de Estadística de los Estados Unidos, sobre el juego en altura. Utilizando datos de partidos de la Copa Libertadores de 2013 encontré que al jugar en altura los equipos tendían a comportarse de manera más conservadora, incrementándose los pases en zona de nadie, es decir, en zona defensiva.
+
+El tema central, con altura y con calor, es físico, pero también de comportamiento. Utilizo aquí datos que aproximen la velocidad del juego. Con base en información de las Ligas Águila de 2018 (I y II), y 2019-I, reviso a continuación algunas variables que indiquen si hay cambios de comportamiento según la hora del partido en ciudades de mucho calor.
+
+Considero los partidos de Jaguares, Huila y Júnior jugados en Montería, Neiva y Barranquilla en diferentes horarios: arrancando a las 3:15 p.m. o a las 4 p.m.; iniciando entre las 5 p.m. y 5:30 p.m., y aquellos que comenzaron después de las 6 p.m. Las variables de interés son toques al balón, toques en el área rival y pases según la hora de inicio del partido. En principio, si hay más calor, o si el calor está afectando a los futbolistas, se esperaría que sufriera más el equipo visitante y que el juego fuese más lento. Lentitud medida por menos toques o pases por partido.
+
+Si bien se requiere un estudio más profundo para sacar conclusiones definitivas, el análisis descriptivo que se muestra en la tabla sugiere unos patrones interesantes. Si el partido inicia antes de las 4 p.m., los equipos visitantes tienden a tocar menos el balón que si este inicia a las 6 p.m. El mayor diferencial entre toques y pases del equipo local respecto al visitante se da cuando el partido inicia entre 5 y 5:30 p.m. En general el visitante es más lento arrancando a las 5 o 5:30 p.m., y el local lo es iniciando 4 p.m. o antes. Difícil extraer unas conclusiones definitivas, pero sí desearía que en Colombia se tomaran decisiones sobre temas tan trascendentes con base en estudios serios. En fútbol, como en lo demás, es un error tomar decisiones trascendentales apoyados en casos puntuales.
+
+876743
+
+2019-08-19T06:00:00-05:00
+
+column
+
+2019-08-19T06:00:01-05:00
+
+[email protected]
+
+none
+
+Partidos bajo el sol
+
+20
+
+3250
+
+3270

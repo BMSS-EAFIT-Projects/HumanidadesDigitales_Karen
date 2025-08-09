@@ -1,0 +1,16 @@
+12328
+El Tiempo
+Inteligencia artificial y ética
+20 de septiembre de 2020
+Guillermo Santos Calderón
+Se creía que la ética era algo que solo aplicaba a las personas. Sin embargo, gracias a la inteligencia artificial IA y el análisis de datos y aplicaciones cognitivas hay una gran preocupación de que la ética también se aplique a la IA. La ética aquí se compone de los principios, reglas, guías, políticas y regulaciones para que las aplicaciones IA se comporten según estos componentes. Esta es una tecnología que simula al cerebro del ser humano, que aprende y resuelve problemas y se ejecuta en máquinas que se programan para comportarse como una persona y realizar acciones como si fueran ellas. Con esta innovación, la IA va a reemplazar al ser humano en muchos trabajos. Para dar un ejemplo, un bot, llamado Eugene Goostman, se ganó el Turing Challenge por primera vez, evento en el que el 33 % de los jueces creyeron que estaban hablando con un adolescente durante cinco minutos.
+
+Cuando se usen la IA y las aplicaciones desarrolladas con esta tecnología para reemplazar a trabajadores, es necesario tener en cuenta que la aplicación cumpla con principios éticos porque se debe comportar como un ser humano y su trabajo tiene que estar regulado por este concepto.
+
+Es muy importante que cuando se vayan a usar aplicaciones de IA como las que se utilizan en hospitales para confirmar o ayudar en diagnósticos de cáncer y otras enfermedades, estas respondan con ética. Por ejemplo, es importante que las aplicaciones mencionadas ofrezcan un balance entre lo que diagnostican y la privacidad de la persona examinada y que den un buen resultado.
+
+Un grupo europeo experto en inteligencia artificial está trabajando en el desarrollo de unas guías basadas en que no deben hacer daño ni a las personas ni al medioambiente, y ser éticas. La IA puede cometer errores por habérsele suministrado datos errados. Obviamente, si algunos datos con los que aprendió no eran los correctos, pues no se va a comportar bien ni a tomar las decisiones correctas.
+
+Es muy importante entender que si se siguen las reglas de ética para la IA, va a ser difícil que se use esta tecnología para cometer delitos como la simulación de voces de presidentes de compañías, como se demostró en un acto delictivo de esta manera en la que un supuesto gerente ordenó una transferencia de 243.000 dólares.
+
+Este es un tema que se está empezando a dilucidar y que es fundamental para el buen uso de la inteligencia artificial.

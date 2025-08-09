@@ -1,0 +1,34 @@
+9420
+El Espectador
+Cuidado con el Banco Itaú
+10 de septiembre de 2020
+Santiago Villa
+Quiero hacer una nueva advertencia pública con respecto al sistema de seguridad digital del Banco Itaú, porque se ha producido otro robo. Hace dos semanas denuncié que mi padre, Alejandro Villa, un adulto mayor de 75 años, fue víctima de un hackeo a sus tarjetas de crédito, pues alguien transfirió más de $17 millones a una cuenta de Bancolombia creada el mismo día del fraude, a una persona llamada Karen Pacheco, que nadie en mi familia conoce. Denuncié además que el banco se negaba a reconocer que fue el resultado de una violación a su sistema de seguridad.
+
+Dije que era comprensible que un banco tuviera hackeos, pero no era comprensible que respondiera, a los reclamos sobre el hecho, que sus sistemas eran invulnerables a hackeos y que si al cliente le robaron era su problema. Esto, porque la respuesta del banco a mi padre fue que el nombre de usuario, la clave y las preguntas de seguridad sólo las sabía él, y por lo tanto las transferencias tuvieron que hacerse con conocimiento del cliente.
+
+Pues bien, la situación ha pasado de un error de seguridad que no se ha reconocido, a una grave e inexcusable vulneración. Mi padre nuevamente ha sido víctima de un robo de $8?600.000, con la misma tarjeta. Es incomprensible cuán negligente puede ser un banco para que se siga produciendo esto en una tarjeta que ya tuvo varias transacciones que el mismo cliente denunció como fraude.
+
+Un robo de más de $25 millones a la tarjeta de crédito de un adulto mayor, en plena pandemia, con todas las limitaciones y apretones financieros en los que estamos los colombianos, es una desgracia. Nadie puede explicarse, y mucho menos podrá hacerlo el Banco Itaú, cómo es que no tomó las precauciones necesarias para impedir que a una tarjeta que tenía una historia robos le siguieran sacando el dinero.
+
+El banco debe atender de inmediato esta situación y cancelar la multimillonaria deuda por esta falla en su sistema de seguridad. Una falta que además debe estar aquejando a más clientes, por lo que la Superintendencia Financiera y la Fiscalía deberían abrir investigaciones. Esto va más allá de un problema individual. Se trata de cuáles son las injustas y negligentes políticas con las que un banco responde ante los fraudes.
+
+Solo encuentro una explicación a que algo así esté sucediendo: al Banco Itaú no le importa este robo y quizás ningún otro, porque no reconocen su responsabilidad. Para ellos, es culpa del cliente que el sistema de seguridad del banco y su control transaccional sean deficientes. ¿Qué tan generalizado es este problema en el Banco Itaú?
+
+Pero el banco no solo está campante mientras a un mayor de 75 años le hacen robos millonarios en sus tarjetas, sino además tiene la caradura de cobrar intereses sobre el delito, porque al ser a las tarjetas de crédito, es una deuda que mi padre ha contraído. Es decir, el banco en últimas se está beneficiando financieramente de estos fraudes. Ya le ha sacado dinero de su cuenta de ahorros sin autorización para pagar la deuda en estas tarjetas.
+
+Imagínense cuántas personas son clientes de este banco y no tienen una plataforma como esta, para visibilizar su caso.
+
+La Superintendencia Financiera debe hacer una revisión a profundidad de este banco. En primer lugar, a su sistema de seguridad, que está clarísimo tiene serias deficiencias. Saber, por ejemplo, qué tan extendidos son robos como este y cuántas denuncias y víctimas hay.
+
+Segundo, a la forma como responde a los reclamos de los clientes ante estos fraudes, pues al no asumir ningún tipo de responsabilidad está además dejando la puerta abierta a los criminales para que sigan robando.
+
+Tercero, debe analizar si el banco está ejerciendo una política adecuada de control transaccional, pues si a un cliente le pueden hacer transferencias de más de $8 millones sin confirmarlas con él un cliente que además ha denunciado robos en esa misma cuenta, algo está fallando.
+
+Cuarto, sugerir que el banco aplique los tokens de seguridad que tiene para la banca empresarial a la banca personal, pues el sistema de seguridad digital de la banca personal tiene deficiencias.
+
+Si ustedes son clientes del banco (yo lo soy), no estoy sugiriendo que retiren su dinero ni cancelen sus tarjetas, pero basado en la experiencia de mi padre, les advierto: tengan cuidado con el Banco Itaú, porque no nos está protegiendo como debería, ni atendiendo adecuadamente nuestros reclamos.
+
+Hagan los más enérgicos reclamos públicos si son víctimas de fraude. Pidan de inmediato, como lo estoy haciendo yo aquí, que el banco les aplique las más altas medidas de seguridad y que extienda los tokens de la banca empresarial a la banca personal. Exijamos que a los clientes de banca personal nos dejen de tratar como clientes de segunda categoría.
+
+Twitter: @santiagovillach

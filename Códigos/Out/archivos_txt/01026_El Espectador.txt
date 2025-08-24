@@ -1,0 +1,14 @@
+1026
+El Espectador
+Goles esperados: el uso del big data en Colombia
+1 de abril de 2018
+Jorge Tovar
+El big data ha transformado el mundo y el fútbol no puede ser menos. Los científicos de datos han explotado la riqueza de información procedente del mundo del balón para generar múltiples indicadores que permitan entender cada vez mejor el fútbol. Desde el trabajo pionero de Charles Reep en los años 50, Inglaterra ha ido siempre a la vanguardia. Allí se desarrollaron indicadores que son estándar en el análisis de la jornada. La métrica por excelencia hoy por hoy es los goles esperados o expected goals.
+
+El modelo de goles esperados consiste en asignar estadísticamente una probabilidad de gol a toda oportunidad creada a favor o en contra durante un partido dado. En otras palabras, el método permite cuantificar la probabilidad de que cada disparo al arco sea gol o no. No es lo mismo un disparo desde el punto de penal, a rebote del arquero, que desde el lateral del área con apenas ángulo.
+
+Con datos de OPTA y apoyo de www.golyfutbol.com hemos desarrollado el modelo de goles esperados para Colombia. Para cada partido de la Liga Águila se toman todos los disparos realizados, se aplica el modelo y se estima la probabilidad de que cada disparo termine en gol. Así, es posible establecer los goles esperados a favor y en contra de cada equipo. Estos datos se pueden agrupar por posición, por jugador o por equipo.
+
+Consideremos el caso del Once Caldas. Recordemos que el equipo de Manizales comenzó en la parte alta de la tabla. Como puede verse en el título de la gráfica, estamos ilustrando la diferencia de goles acumulados en lo que llevamos de temporada. Es decir, considerando todos los partidos jugados al 29 de marzo de 2018, se agrupan los tantos esperados a favor y los goles esperados en contra. El indicador se compara con los goles observados a favor y en contra.
+
+Si la diferencia de goles observados a favor es mayor que la diferencia de goles esperados, estamos en capacidad de decir que el equipo está en una racha favorable que no se compadece con lo que se está viendo en el campo. Es el caso del Once Caldas. En la primera jornada marcó dos goles, uno de relativa baja probabilidad desde fuera del área, otro más fácil desde dentro del área. Pero la diferencia de goles esperados daba para empate. El Caldas siguió cosechando buenos resultados, pero su evolución no era sostenible. La diferencia de goles esperados apenas llegó a más uno en su mejor momento. A la luz de este indicador, las cuatro derrotas consecutivas no sorprenden, dada la poca calidad de las oportunidades creadas respecto a las recibidas. A la fecha, la diferencia observada de goles esperados de Nacional llega a siete, prueba de por qué, según este modelo, es un líder sólido del fútbol colombiano.

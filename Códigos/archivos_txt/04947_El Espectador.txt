@@ -1,20 +1,0 @@
-4947
-El Espectador
-Internet: ¿Colombia prehistórica?
-9 de julio de 2019
-Rafael Orduz
-Hace ya 14 años que Thomas Friedman, un columnista de opinión de , escribió , una profunda reflexión acerca del significado de la revolución tecnológica, la digital, en nuestras vidas.
-
-En ese momento, gracias a la confluencia de una serie de factores, se multiplicó la conectividad en el planeta. Algunos son históricos (la caída del muro de Berlín, en cuanto que permitió incorporar centenares de millones de individuos en los mercados globales, antes ocultos tras la Cortina de Hierro); otros, de tipo técnico, como las plataformas colaborativas y abiertas; cambios en los modelos de negocios (en ese momento el web checking era una revolución); el salto dramático en la infraestructura.
-
-La Tierra, entonces, se volvió plana, visible, asible. Once años después, Friedman publicó . El tema de la conectividad había aumentado a niveles prácticamente universales en las economías de alto ingreso. El 2007 fue un año crucial por la aparición del iPhone, Watson y la inteligencia artificial, el y la nube, las redes sociales. La rapidez y el volumen del tráfico en la información, creciendo a tasas exponenciales, abrieron paso a nuevos modelos (Uber, Airbnb). Es el paso de plana a más veloz, según Friedman.
-
-Ahora, 2019, estamos en el momento en que las fuerzas que determinan el cambio (tecnología, globalización, cambio climático) ejercen un impacto de tal magnitud que nos encontramos en un tercer estadio, el de la profundidad. Coincidiendo con Harari, el mundo que viene es de la confluencia de la inteligencia artificial, la biotecnología que descifra los misterios del cuerpo humano y la aún mayor revolución informática.
-
-Ahí viene el cuento, que no es buena noticia: en Colombia, gracias al mérito de las ministras TIC Pinto y Guerra, se hizo un esfuerzo notable en la medición de la conectividad, continuado por los sucesores. El saldo es agridulce. Ciertamente, el número absoluto de conexiones a internet, las fijas y las móviles, aumenta cada trimestre. Es claro que el número de celulares supera ampliamente los 48 millones de habitantes que, dicen, somos.
-
-Sin embargo, las brechas en el acceso son brutales: las tasas de penetración de internet son aceptables en capitales como Bucaramanga, las del Eje Cafetero, Medellín y Bogotá, pero son deprimentes en todas las capitales de la costa Atlántica y absolutamente vergonzosas en lo que eran los territorios nacionales (Vaupés, Vichada, Amazonas, Guaviare). ¡San Andrés!, rodeada de cables submarinos, en las vicisitudes con Nicaragua, con tasas que no superan el 6 % de la conectividad. Esto sin mencionar las brechas campo-ciudad: a pocos km de Bogotá las escuelas rurales, aunque cuentan con tabletas, carecen de acceso a internet.
-
-Jack Ma, el antiguo maestro fundador de Alibaba, decía que la información es a la creación de riqueza lo que en otros momentos fue el petróleo para el movimiento de la industria. Colombia está condenando a niños pobres rurales y de regiones periféricas al atraso y la negación de oportunidades.
-
-Mientras otros discuten cómo nos educamos, cómo creamos riqueza a partir del conocimiento, en Colombia no se ha hecho la tarea básica, la de la conectividad para todos.

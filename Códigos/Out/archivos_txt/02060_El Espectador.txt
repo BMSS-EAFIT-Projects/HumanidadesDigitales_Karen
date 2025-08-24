@@ -1,0 +1,22 @@
+2060
+El Espectador
+¿Cómo le fue a Santos con el reto del gobierno abierto?
+2 de agosto de 2018
+Carolina Botero Cabrera
+Juan Manuel Santos nos deja un país que ve la tecnología como la solución a los problemas, procesos de creación de política llenos de buenas intenciones, pero desarrollados con afán. Si pudiéramos devolvernos ocho años le diría que piense más en el problema para que la solución tenga sentido. Sobre todo, le hubiera aconsejado apostar por desarrollar mejor las lógicas de gobierno abierto.
+
+Se supone que las decisiones que toma el Gobierno surgen de un proceso en el que se evalúa el problema, se revisan soluciones y se escoge la más adecuada y que en el proceso se involucran otros actores interesados (ciudadanía, empresas, academia, etcétera).
+
+En términos generales puedo afirmar que en los temas que seguí (política pública en materia de internet) eso no sucedió. Este Gobierno (tanto como los anteriores) identifica una posible solución a un problema, se casa con ella y el proceso sirve para implementarla. Es decir, los procesos no ayudan a definir los problemas, no aprovechan la participación ciudadana para buscar y evaluar soluciones. Aunque estamos en la OCDE, no hay procesos de participación ni es una cultura de gobierno.
+
+Como ya lo dije , la construcción de políticas se hace por unos pocos, esencialmente, por el temor al debate público y abierto. Cuando se animan, prefieren escenarios controlados, mediados por invitación, donde los plazos de participación son inciertos, pero los de cierre son claros (usualmente cortos, se hace de afán), no hay definición de metodologías y mucho menos compromisos sobre cómo integrar comentarios de la ciudadanía. En suma, procesos desgastantes y poco transparentes.
+
+Lo que no puedo decir es que no haya habido buenas intenciones. Por ejemplo, el año pasado se estableció que toda política pública debería ser consultada con la gente, ¡bien!, finalmente es obligatorio consultar. Sin embargo, fijan como plazo de consulta 15 días. Demasiado poco si pensamos que en EE. UU., por ejemplo, lo habitual son tres meses. Esto es solo una barrera de las muchas que enfrentas cuando quieres participar en política pública, en ocho años no conseguí superar la gran frustración de intentarlo.
+
+Pero la mejor apuesta del Gobierno Santos fue trabajar para ser un gobierno abierto. Colombia firmó la carta de gobierno abierto y se comprometió con el desarrollo de los principios de transparencia, participación y rendición de cuentas. El país hace parte de la Alianza para el Gobierno Abierto (Open Government Partnership OGP) y en ese proceso ha asumido varios compromisos, pero el foco fue transparencia, acciones encaminadas a atajar la corrupción.
+
+No le alcanzó el tiempo a Santos para desarrollar un compromiso total con el concepto de gobierno abierto, para ir más allá de la transparencia, incluyendo participación y rendición de cuentas, y el uso de tecnología con esos propósitos.
+
+Santos entrega un país mejor conectado, lo deja en la ruta de un gobierno abierto que trabaja en transparencia, ha hecho pinitos en datos abiertos, ahora le toca a Duque continuar y ver en el proceso una metodología para desarrollar, evaluar y hacer seguimiento a políticas públicas con todos los actores interesados.
+
+Duque puede dirigir su mirada hacía Nariño, donde el gobernador Camilo Romero está trabajando con una mirada integral, su propuesta fue escogida por OGP para ampliar la iniciativa de gobiernos locales . Lo que esto significará en esa región del país está por verse, pero sin duda está llamando la atención por todos lados por su capacidad innovadora y disruptiva.

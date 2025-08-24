@@ -1,0 +1,24 @@
+1616
+El Espectador
+El que escruta elige, y por eso el software importa
+25 de mayo de 2018
+Carolina Botero Cabrera
+Para responder a los reclamos de Petro por un posible fraude en las elecciones del domingo, Santos dijo , a la salida de la reunión extraordinaria de la Comisión de Garantías Electorales, que no habrá auditoría al software, sino medidas que garanticen la transparencia del proceso.
+
+La conclusión de la Comisión no podía ser otra porque una auditoría no se hace en unas horas. Pero además porque entregar el código fuente a la Procuraduría no es hacer una auditoría. Que testigos especializados participen de simulacros o asistan a los simulacros de escrutinios no es una auditoría. Que los observadores internacionales puedan ver las funcionalidades del software tampoco puede llamarse auditoría. Para saber más sobre este tema le propongo revisar el protocolo que, con la MOE, publicamos en febrero pasado .
+
+Precisamente, agrego que KLab de Karisma y la MOE advertimos en febrero pasado que un ejercicio decente de auditoría toma unos 3 meses. Lograr un mínimo de análisis requiere de, al menos, una semana. Por eso, lo que sí se puede hacer todavía es fortalecer el control a los resultados mediante ejercicios de transparencia que permiten mejorar la supervisión y pueden evitar, o al menos, detectar e investigar posibles fraudes.
+
+Las teorías conspirativas que circularon tienen poco sustento. Además, vale la pena decir que el riesgo de fraude a través de software es más probable en las elecciones de Congreso y municipales, que en las presidenciales. Sin embargo, también debe reconocerse que las preocupaciones sobre la vulnerabilidad del software no son infundadas. Se derivan de los resultados del proceso que adelantó el MIRA ante el Consejo de Estado y de las recientes denuncias de PARES , además de las ausencias de controles de las que ya he hablado en el pasado .
+
+Con las medidas anunciadas por la Registraduría (memorando 0821 del 21 de mayo) para el domingo la situación de transparencia y entrega de información es mucho mejor que lo que se tuvo en marzo. Esto es positivo pues fortalece la capacidad de las campañas y de la MOE de hacer seguimiento a los resultados.
+
+Así por ejemplo, congelar el código fuente es muy positivo, pero como esto no se hará con los sistemas operativos de las máquinas de las comisiones escrutadoras puede no ser suficiente de requerirse reconstruir el escenario del escrutinio.
+
+Quizá la mejor noticia es el compromiso más amplio en entrega de información. Comparado con elecciones anteriores, es la primera vez que darán tanta información --incluye la digitalización de actas, textos planos y logs de auditoría--. Sabemos que en tan corto plazo la Registraduría hace un gran esfuerzo y quizá eso explique que no puedan mejorar los tiempos de entrega que siguen siendo largos para un escrutinio tan rápido como el que se espera.
+
+En el memorando de la Registraduría no se menciona nada sobre la preservación de la información de los equipos de las comisiones escrutadoras. Para poder reconstruir el escenario de escrutinios frente a cualquier reclamo esto es importante y valdría la pena tener claridad de que eso sucederá, cómo y cuándo.
+
+Una vez superada la elección presidencial debemos pensar en las de 2019 y por tanto habrá que discutir sobre la forma como el Estado asumirá control del software, además debemos definir la manera como se activará la auditoría del artículo 45 de la ley electoral y revisar los ajustes al procedimiento para adoptar las medidas de entrega de información, controles y mecanismos de transparencia necesarios.
+
+Nota. Desde principios de marzo la página web del Consejo Nacional Electoral no funciona y esto es inadmisible.

@@ -1,0 +1,18 @@
+1423
+El Espectador
+El sol de todas las mañanas
+9 de mayo de 2018
+Andrés Hoyos
+Vi en estos días un cuadro estadístico que me llamó poderosamente la atención. Estaba en The Economist , si bien su origen es otro: http://bit.ly/2jCyh8Q . No hay modo de ocultar la gran noticia que implican las curvas allí dibujadas: el costo de los paneles solares ha bajado de forma dramática en los últimos años, de suerte que hoy compiten con las demás fuentes de energía, sobre todo en un país tropical de alta luminosidad como Colombia, donde se puede obtener 1 MW por hectárea, cantidad que no hará más que subir en el futuro.
+
+Miremos, sin embargo, los numerosos bemoles de la energía solar. El sol no brilla en las noches y su intensidad baja cuando las nubes lo cubren. Muy en particular, la energía solar no puede alimentar la red eléctrica en las horas pico, que aquí van de las seis a las nueve de la noche. Esto implica que, sin un sistema confiable de acumulación, la energía solar no es una solución 24/7.
+
+Se hace entonces necesario combinar la energía solar con otras formas de generación, como la hidráulica. Esta puede provenir de agua represada o incluso de agua bombeada durante el día con parte de la energía solar. La eficiencia de este segundo proceso ha de ser muy variable, dependiendo de las condiciones topográficas en las que se instale el sistema, con la aclaración de que la generación complementaria podría ubicarse a varios kilómetros de la granja. Asimismo están las grandes baterías que, me dicen, no se han terminado de inventar, así su costo también esté descendiendo a marchas forzadas. Los sitios con más sol, dígase la península de la Guajira, a veces están lejos de las líneas de transmisión e implican una proliferación indeseable de polvo. La huella de carbono de la energía solar no es cero, como pretenden algunos optimistas, pues están la dispendiosa fabricación de los paneles y su posterior descarte, cumplida su vida útil. Aunque todo lo anterior es cierto, la noticia central sigue siendo formidable: la energía solar ya es competitiva.
+
+Claro, cualquier casa de familia o edificio puede poner paneles en los techos, pero los costos típicos de la versión artesanal triplican los de la industrial. De ahí que sea preferible montar granjas solares de gran calado con economías de escala, cerca de las redes de transmisión y en varias zonas del país. Hablamos de operaciones de decenas, cientos o, por qué no, miles de hectáreas. Estas granjas deben ser instaladas por inversionistas variados, desde capitalistas puros hasta cooperativas. En la India una de estas últimas es socia de la granja solar más grande del mundo. Pese a que una gran empresa estatal, como EPM, puede y debe participar en el proceso, la función central de Estado en la materia debería consistir en regular el mercado, proveer incentivos, por ejemplo, para que en tiempos de sequía las represas concentren su generación por las noches, y de resto cargar impuestos crecientes a la generación basada en combustibles fósiles, según el daño ambiental que cause cada combustible.
+
+En estos temas no tiene sentido esperar a que otros países investiguen y desarrollen. Hay que hacerlo localmente, importando por supuesto toda la tecnología que sea necesaria.
+
+Por ahí he oído que en Colombia hay una conspiración contra la energía solar. No lo creo. Lo que pasa es que las regulaciones son antiguas. Pueden actualizarse sin misterio y, después, esperar a que salga el sol cada mañana.
+
+[ ] , @andrewholes

@@ -1,0 +1,28 @@
+6793
+El Espectador
+Internet segura significa cifrado fuerte y confiable
+14 de febrero de 2020
+Carolina Botero Cabrera
+El pasado 11 de febrero The Washington Post publicó El golpe de inteligencia del siglo . El artículo desvela cómo la empresa Crypto AG, que durante la segunda mitad del siglo XX fue una importante proveedora de máquinas de cifrar mensajes para los organismos de inteligencia en cientos de países, era propiedad secreta de la CIA y de la BND inteligencias gringa y alemana respectivamente. La historia nos recuerda, una vez más, que el cifrado fuerte y confiable es importante para las comunicaciones.
+
+La investigación periodística muestra que durante décadas los gobiernos de 120 países confiaron en que Crypto AG les ayudaría a mantener el secreto de sus comunicaciones, pero se equivocaron. Lo que no se sabía era que esas máquinas se elaboraban de tal forma que los mensajes podían ser descifrados fácilmente y leídos por EE. UU., Alemania y sus amigos. Así, por ejemplo, durante la guerra de las Malvinas las comunicaciones de Argentina eran compartidas por EE. UU. con los ingleses.
+
+La empresa perdió su poder con los cambios en la tecnología que fueron llevando el cifrado desde el hardware (máquinas) al software (programas de computador). Además, como algunos países y empleados estaban sospechando cada vez más de esta tecnología, primero la BND y luego la CIA vendieron sus participaciones en la empresa temiendo el escándalo si se revelaba el secreto. Hoy Crypto AG está dividida y no es ni sombra de lo que fue.
+
+Como este artículo se publicó precisamente el Día Internacional por una Internet Segura campaña anual que llama la atención sobre el uso responsable, respetuoso, crítico y creativo de la tecnología, me voy a concentrar en tres lecciones que deja este caso para pensar en una internet segura.
+
+En primer lugar, en los últimos años las autoridades, justificándose en importantes retos de actualidad como el terrorismo , han insistido en la necesidad de tener accesos privilegiados a las comunicaciones cifradas. Por ejemplo, como WhatsApp es una herramienta usada por millones de personas en el mundo, una solicitud persistente ha sido la de crear puertas traseras o descifrar los mensajes para investigar crímenes. En 2019 lo pidieron tanto el fiscal general de Colombia como el de EE. UU .
+
+El novelón que nos cuenta The Washington Post , que permitió a la CIA y a BND manipular el algoritmo de cifrado para facilitarles el descifrado de las máquinas Crypto AG, debería por sí solo disuadir cualquier idea sobre debilitar el sistema de seguridad que supone el cifrado. No importa qué tan buena sea la razón que justifique vulnerabilidades intencionales a los sistemas de seguridad, estas debilidades nos afectarían a todas las personas y por eso no deben ser aceptadas, deben ser resistidas y condenadas.
+
+La segunda lección tiene que ver con la seguridad por oscuridad y la forma en que esta última contribuye a que los procesos que se hacen con esa tecnología sean vulnerables.
+
+El relato de los periodistas incluye interesantes historias sobre la tecnología como caja oscura: quienes la obtienen la deben usar tal cual no pueden ni averiguar cómo funciona y por tanto simplemente deben confiar ciegamente en ella.
+
+En el artículo se explica que Nigeria compró varias máquinas que nunca llegó a desempacar porque no tenía la capacidad para usarlas. Cuenta también cómo, en algún momento, empleados de la empresa casi descubren el secreto sin saber lo que había detrás pues llegaron a sospechar del algoritmo secreto que olía mal, ese que ni ellos podían cuestionar, tan solo usar.
+
+No puedo dejar de pensar en cómo muchas actividades centrales del Estado hoy en día siguen funcionando así. Es el caso de las elecciones que dependen de sistemas informáticos que son suministrados por privados. El Estado no tiene capacidad para entender esa tecnología que le es suministrada como una caja oscura y, por tanto, solo cierra los ojos y espera que todo salga bien.
+
+El cifrado debe ser seguro y confiable, y para que esto sea así el Estado debe comprometerse a no debilitarlo, pero también debe facilitar mecanismos de auditorías esa sería una tercera lección. Conviene no confiar ciegamente en las tecnologías, debe haber mecanismos para verificar y buscar mantener la integridad de los procesos que son facilitados por estas. En suma, como la seguridad digital no se puede garantizar al cien por ciento, los procesos de control son los que permiten construir confianza.
+
+El artículo nos deja además un sabor amargo en la boca por los problemas del intervencionismo de EE. UU. en la región. También nos plantea preguntas sobre la responsabilidad de los países que tuvieron acceso privilegiado a las comunicaciones de regímenes autoritarios que vulneraban derechos humanos cotidianamente en América Latina en los 70. Pero eso es harina de otro costal.

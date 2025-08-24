@@ -1,0 +1,30 @@
+10785
+El Tiempo
+¿Para qué somos buenos los colombianos?
+30 de abril de 2018
+Guillermo Maya
+¿Para qué soy bueno, su merced?" El grupo Macro Connections, del Laboratorio de Medios de la Universidad MIT, responde esta pregunta con el proyecto Pantheon, que con su metodología logra agrupar a los personajes más famosos del mundo, en 190 países, de acuerdo con su campo de acción o categoría, pintor, filósofo, futbolista, político, etc., y construye un ranking, dado el lugar de nacimiento de los personajes, al mismo tiempo que determina la composición porcentual de la canasta exportadora cultural por países.
+
+Sobre la metodología y los criterios usados se puede resumir lo siguiente: Nos enfocamos en el subconjunto de producción cultural que podemos identificar como cultura global (). Los datos de Pantheon 1.0 () recopilan información sobre 11.341 biografías, en más de 25 idiomas de la enciclopedia Wikipedia (hasta mayo de 2013). Es decir, Pantheon captura las consultas sobre personajes que se hacen en Wikipedia y a partir de ahí construye rankings por países, ciudades, categorías, etc.
+
+Sin embargo, como todos los grandes esfuerzos de recopilación de datos, es un esfuerzo que está marcado por limitaciones y sesgos, que provienen del uso de Wikipedia como fuente de datos; el uso del lugar de nacimiento para asignar ubicaciones, el uso de biografías como representantes de la cultura y otras limitaciones técnicas.
+
+Los países que tienen un índice histórico de producción cultural (IHCP) más alto en cuanto a los personajes buscados en Wikipedia son, en orden de importancia, EE. UU. (2.115 personajes), Reino Unido, Francia, Italia, Alemania, Rusia, España (281), Turquía, Polonia y Holanda (156).
+
+Los países latinoamericanos, por orden de importancia y lugar (entre paréntesis) en el escalafón global, son: Brasil (puesto 16 con 132 personajes), Argentina (26 con 95), México (35), Chile (45), Perú (48), Uruguay (59), Colombia (64 con 16), Venezuela (74), Bolivia (150 con 2), etc. Además, por regla general, hay más diversidad y sofisticación por categorías en los países con mayor índice de importancia histórica.
+
+Las cinco ciudades de origen de los personajes más importantes del mundo son: Roma, París, Nueva York, Londres y los Ángeles. En cuanto a Latinoamérica, las ciudades son: Buenos Aires (puesto 17), México D. F. (60), Montevideo (81), Santiago (82). Bogotá no clasifica.
+
+La importancia mundial de los personajes por origen y la categoría a la que pertenecen revelan la ventaja comparativa de los países en cuanto a los oficios, artes y profesiones. Por ejemplo, en Colombia, con 16 personajes sobre un total de 11.341, los más famosos son los futbolistas (37,50 %), en Cuba son los cantantes (30 %); en Argentina los futbolistas (54,54 %), en Venezuela los políticos, incluyendo a Bolívar y a Chávez. Sin embargo, Venezuela tiene un científico y Colombia no tiene. Y en cuanto a mafiosos famosos, Colombia tiene 1 y EE. UU. tiene 8.
+
+Los 10 personajes de Colombia de 16 que aporta al total global de 11.341 con un mayor IPH (índice de popularidad histórica) son: García Márquez (escritor), Pablo Escobar, Fernando Botero (pintor), Shakira, Álvaro Uribe, Juan Manuel Santos, Juanes, Carlos Valderrama, René Higuita y John Leguízamo.
+
+En Holanda, los 10 personajes más importantes de 156 que aporta con un IPH más alto son: Van Gogh (pintor), Erasmo (filósofo), J. Vermeer (pintor), Baruch Espinoza (filósofo), H. Bosch (pintor), Rembrandt (pintor), Christiaan Huygens (físico), Mata Hari (bailarina), Pieter Brueghel (pintor), y Piet Mondrian (pintor). El 27,56 % son futbolistas, ninguno entre los primeros 10, pero lo que importa es la diversidad por categorías que tiene un país.
+
+Borges, para quien el fútbol es popular porque la estupidez es popular, dijo en una entrevista sobre el mundial de fútbol del 78 que (parafraseando): eso de que Argentina le gana a Holanda no tiene mucha importancia. ¿Cuándo Argentina le va a ganar a Holanda, que tiene a un Espinoza?
+
+Holanda, un país pequeño, fue un líder industrial, antes que Inglaterra, y se desataca por sus pintores y filósofos. A Colombia, con dos siglos de existencia que son dos viejitos de cien años parados uno encima del otro, apenas si la conocen en el mundo por los mafiosos y los políticos, y nos salvamos por los escritores, los cantantes, y los futbolistas que alegran la vida popular. La huella cultural es un calco de nuestra huella histórica y productiva. En las barriadas, los pelados le dan patadas al balón, y no tienen muchas oportunidades de movilidad social.
+
+En Colombia, un país atrasado, sin mayor complejidad productiva, primario exportador, una senadora le desea el infierno, todavía caliente en su lecho de muerte, al mayor escritor de la lengua castellana después de Cervantes. Esto demuestra la importancia que tienen las actividades del espíritu para la élite política, ninguna. Los colombianos no somos muy sofisticados, en pensamiento, ciencia y tecnología, y menos en maneras de trato y civilización. Los líderes políticos no hablan, gritan destemplados y furiosos al contradictor. Pastorcitos mentirosos.
+
+Esta métrica de grandes datos no captura lo que es un país real, pero tampoco se aleja mucho. Colombia puede mejorar, si les apuesta a la educación, la ciencia y la tecnología. No perdamos la oportunidad en mayo.

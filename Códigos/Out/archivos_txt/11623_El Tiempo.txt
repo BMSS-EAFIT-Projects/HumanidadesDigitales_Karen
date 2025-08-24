@@ -1,0 +1,16 @@
+11623
+El Tiempo
+Cuidado con el phishing
+16 de junio de 2019
+Guillermo Santos Calderón
+En el mundo de la delincuencia digital, el phishing (en inglés, pescando, y que describe el concepto de este ataque informático) no lo conoce mucha gente que cae en esta trampa.
+
+Pues bien: phishing es cuando un hacker de los malos trata de engañar a alguien haciéndole llegar correos que simulan haber sido enviados por una persona o entidad en las que el receptor confía, para sacarle información que le permita vulnerar sus cuentas bancarias y extraerle dinero de ellas o para robarle sus credenciales a fin de efectuar otros delitos digitales.
+
+Estoy seguro de que a muchos lectores de esta columna les han llegado correos, supuestamente de su banco, en que les informan que su cuenta ha sido bloqueada y para desbloquearla deben navegar, haciendo clic en un enlace en el correo, a una página igualita a la del banco y en la que le piden el código de usuario y la palabra clave.
+
+La recomendación para evitar caer en esta trampa es mirar detenidamente la dirección o URL que aparece en el navegador cuando se llega a la supuesta página del banco. Si la dirección es diferente a la del banco, no se debe suministrar ninguna información en ella solicitada. Por ejemplo, si es el Banco de Bogotá, la dirección correcta es www.bancodebogota.com, y si le aparece algo como www.banbogotacolombia.com, es claro que se trata de una página de internet que no es la oficial del banco y es usada para hacer phishing.
+
+Otro uso que se les da a este tipo de correos es el de hacer que el usuario receptor descargue un archivo en su computador. Una vez hecho esto, el hacker malo, usando este archivo, puede entrar al equipo y hacer de las suyas, como ver qué se teclea, borrar archivos, etc. Para dar un ejemplo, una vez viajé a Nueva York, y una semana después de mi regreso me llegó un correo en el que me decían que tenía una multa de tráfico y me debía presentar en un juzgado; que anexa estaba la citación, la cual debía descargar para ver a qué juzgado debería acudir. Inmediatamente la borré, porque no había manejado en esa ciudad. También llegan correos phishing supuestamente de la Dian y otras entidades, en los cuales van multas o documentos anexos que se solicita descargar para leer porque traen información importante. Nunca se debe hacer esto, pues una entidad seria no envía este tipo de correos.
+
+Así que a cuidarse mucho del phishing, con el cual los delincuentes tratan de manipular al usuario para sacarle información confidencial y dinero.

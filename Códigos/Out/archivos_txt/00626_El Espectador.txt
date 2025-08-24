@@ -1,0 +1,18 @@
+626
+El Espectador
+La rapidez del juego
+18 de febrero de 2018
+Jorge Tovar
+El fútbol de clubes europeos tiende a gustar más que el colombiano. Al menos esa es la impresión que tengo. El fútbol local pareciera ser más cortado, menos técnico y más lento. Habría muchas maneras de analizar factores como la rapidez del juego. Hoy lo hacemos evaluando el número de toques al balón y los malos controles del mismo.
+
+El mayor número de toques lo presento como un indicador aproximado de la velocidad de circulación del balón. Podría indicar otras cosas, por supuesto. Quizás un equipo toque el balón poco porque se defiende mucho y siempre sale al contragolpe. Pero dados los resultados que se presentan en la gráfica, prefiero interpretar el número de toques como símbolo de posesión, control y cierto nivel de calidad.
+
+Cuanto más toques de balón, menos tiempo para pensar tiene el futbolista, y más riesgo de cometer errores. Por ello cruzo esta variable con el número de recepciones defectuosas. Es allí donde tiendo a sentir que el fútbol de acá no es el mismo de allá. Especialmente notorio es el fin de semana del clásico español. No hay mayor contraste que ver ese partido e ir después al estadio del equipo local. Cierto que yo, y supongo que la mayoría, tiendo a ver partidos de los grandes de Europa: Barcelona, Madrid, Manchester City y Liverpool son mis preferidos esta temporada. De vez en cuando un partido del Sevilla o Betis. Especialmente los cuatro primeros son equipos poderosos, con fuerte inversión y no debería sorprender su calidad.
+
+La gráfica considera los equipos de las ligas de Colombia, España e Inglaterra y compara el número de toques al balón promedio en un partido con los controles defectuosos. Sobresale que la Liga Águila es la que menos toques da por jugador y partido, 40 toques en promedio. Un jugador de la liga española toca el balón en promedio 47 veces, mientras que uno de la Premier, 49. Hay equipos que sobresalen. El City de Guardiola, especialmente. La velocidad de juego hace que los malos controles lo ubiquen casi como un equipo promedio. Barcelona y Real Madrid cometen menos errores de recepción por partido, pero su juego es menos dominante que el del City.
+
+En Colombia tiende a haber una relación positiva entre número de toques y errores en el control. Quien menos fallos en el control tiene es Jaguares, pero su jugador promedio toca el balón 15 veces menos que Nacional y menos de la mitad del City. Es decir, al acabar el primer tiempo en el Etihad Stadium, los jugadores del City ya han tocado el balón más veces que uno de Jaguares en todo el partido.
+
+No es impresión. El fútbol colombiano es más lento. Tiene aproximadamente el mismo número de controles errados que las grandes ligas europeas pero con mucha menor circulación de balón. Quizás lo estético sea eso, la circulación del balón.
+
+mal_control.png Autor: @Golyfutbol

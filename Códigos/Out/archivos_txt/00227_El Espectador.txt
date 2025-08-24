@@ -1,0 +1,22 @@
+227
+El Espectador
+¿Cuál estructura para la JEP?
+19 de enero de 2018
+Rodrigo Uprimny
+Hay temas que son aburridos, técnicos y enredados pero a los cuales toca ponerles atención pues son de enorme impacto. Esto sucede con un problema que los integrantes de la JEP deben resolver en los próximos días: ¿Cómo organizar esta jurisdicción, y en especial, cuál debe ser la relación entre los despachos de los magistrados y la JEP como institución?
+
+La tradición colombiana de las altas cortes ha sido tener unos despachos muy fuertes para cada magistrado mientras que la institución como tal es relativamente débil. Por ejemplo, en la Corte Constitucional, cada magistrado tiene tres magistrados auxiliares, ocho abogados de alto nivel y cinco auxiliares judiciales. Son despachos poderosos y costosos. En cambio, las unidades comunes de la institución, como la relatoría, que sistematiza la jurisprudencia, o la secretaría, que atiende al público y asegura la coordinación interna del tribunal, son relativamente débiles. Algo semejante ocurre en el Consejo de Estado o en la Corte Suprema.
+
+El resultado de este modelo es que la producción jurídica es hecha por los despachos, quienes redactan las sentencias o elaboran las tesis jurídicas, mientras que la institución como tal produce jurídicamente muy poco.
+
+Otros tribunales, como la Corte Interamericana, tienen un modelo muy distinto. Los jueces no cuentan con despachos fuertes pues los funcionarios equivalentes a los magistrados auxiliares pertenecen a la institución y no a un despacho en particular. Otros tribunales, como el tribunal constitucional español, tienen un modelo intermedio: algunos letrados (que son como magistrados auxiliares) pertenecen al tribunal como tal mientras que otros están adscritos a los magistrados titulares.
+
+No comparto el modelo de organización de las cortes colombianas pues estimula el individualismo de los magistrados mientras que erosiona la labor colectiva y la consistencia jurisprudencial de la institución. Tanto es así que es usual hablar de la sentencia de tal o cual magistrado y no de la corte como tal, lo cual no es deseable pues, sin menoscabar la independencia individual de cada magistrado, es importante que las cortes hablen como institución, con una voz colectiva y consistente.
+
+Pero si ese modelo de despachos fuertes y unidades comunes débiles es cuestionable en nuestras altas cortes, su adopción en la JEP podría ser una catástrofe.
+
+He defendido y defiendo los principios y la naturaleza de la JEP, que es un acierto del acuerdo de paz. Pero he sido crítico de su tamaño y excesiva complejidad. La JEP es una jurisdicción de 38 magistrados, con tres salas, una especie de fiscalía y un tribunal con varias secciones; la JEP además realiza funciones que no tienen las cortes, como asistir a las víctimas. Sería entonces muy grave que a ese diseño normativo complejo y pesado se le agregara una estructura organizativa copiada de las altas cortes, con despachos fuertes y unidades comunes débiles, que no sólo sería muy costosa fiscalmente sino que incrementaría los riesgos de incoherencia y desarticulación de la JEP, por las posibles contradicciones entre magistrados, salas y secciones.
+
+Necesitamos una JEP institucionalmente fuerte y flexible, que se adapte a las distintas cargas de trabajo que tendrán las salas y secciones. Eso requiere unidades comunes fuertes y despachos austeros con el fin de fortalecer la coordinación entre las salas, las secciones y la secretaría. Ojalá la JEP, por inercia, no repita los vicios organizativos de nuestras altas cortes sino que muestre desde el inicio que es una jurisdicción innovadora.
+
+* Investigador de Dejusticia y profesor de la Universidad Nacional.

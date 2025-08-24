@@ -1,0 +1,28 @@
+7004
+El Espectador
+Cédula digital, el meme del 2020
+24 de enero de 2020
+Carolina Botero Cabrera
+El registrador nacional se estrena con un comunicado de prensa en el que anuncia que en 2020 creará una nueva cédula digital que tendrá código biométrico o chip, en el que se incluirán los datos de vida que la persona quiera incorporar. El nuevo registrador soltó la noticia y dijo, para calmar las críticas en redes, que  el documento final tendrá en cuenta las recomendaciones de los colombianos  .
+
+En algún momento nos ilusionan, mencionan un plan de acción así que alistamos lápiz y papel, sacamos el computador y buscamos nada, no aparece información por ningún lado. La página web de la Registraduría y su Twitter anuncian que se recibirán comentarios para mejorar, pero la segunda lectura deja claro que los comentarios son para el diseño final de la cédula , así que nada, no hay nada más y tampoco nos van a contar.
+
+Sí, el diseño de la cédula es importante, puede influir en la seguridad digital del documento , también habla de su usabilidad, pero convengamos que la noticia no es si será bonita o fea, es que detrás de ese anuncio hay mucho más que el cambio en la tipografía y el color, hay una propuesta a la que le falta planeación, transparencia y discusión pública y abierta.
+
+En un estado de derecho, que un proyecto de esa magnitud se presente con un comunicado de prensa y se amplíe en Twitter y entrevistas es como mínimo irrespetuoso. Señor Registrador, la tecnología no es magia, no es unívoca y cuesta mucho, en suma, el diablo está en los detalles.
+
+Los procesos de definición e implementación de documentos de identificación nacional toman tiempo y deben involucrar a las personas en las discusiones desde estadios tempranos del proyecto. ¿Cómo decir algo serio sobre este proyecto si la pregunta con la que empieza el Gobierno es si nos parece bonita o fea su propuesta? Claro, es que dan papaya y la papaya de hoy se convierte en meme -hay muchos buenos en redes-, pero también trivializa la discusión.
+
+Que el #MasFeoQueLaNuevaCedula no oculte la discusión gruesa. Los proyectos donde la tecnología en el Estado se presenta como solución a problemas estructurales muchas veces empiezan con bombo mediático. Se presentan como hechos inmediatos, infalibles, bellos -a eso le llaman infoentretenimiento o espectacularización de la noticia-. Además, si de fondo no se acompañan con planeación, transparencia y discusión pública el riesgo es que se pierda el dinero y el tiempo que el país invierta y la noticia queda como una anécdota más.
+
+Pensemos por ejemplo en los proyectos de reconocimiento facial para identificar (i) a criminales en Transmilenio, (ii) a encapuchados de las protestas con una cámara desde un helicóptero, o (iii) a los más violentos en las barras bravas del fútbol. La tecnología no garantiza nada, su implementación necesita más que magia y vale mucho.
+
+Sobre la cédula de ciudadanía sólo tenemos noticias breves en medios y el comunicado de la Registraduría. Dicen que el proyecto estará a cargo de una firma francesa que no necesita contrato porque desde hace años tiene un convenio con el Estado ¿Que supone uno? Dicen que el proyecto con ellos se cerraba esta semana y que tendríamos cédula digital en las manos este mismo año. Dice el Registrador que la cédula incluiría la historia clínica y el registro civil y que podrá llevarse en el celular. Y, también dicen que la cédula tendrá biometría facial , lo que facilitará la autenticación con reconocimiento facial.
+
+De todo eso no tenemos ningún detalle. Sin detalles lo que tenemos es preguntas ¿cuándo y cómo se eligió al contratista del proyecto?, ¿cómo se llegó a la decisión de emprender este proyecto ambicioso?, ¿qué estudios de impacto en derechos humanos lo respaldan?, ¿cuál es el modelo y cómo se determinó que esta era la mejor opción?, ¿por qué tanta prisa?, ¿por qué no hubo proceso de consulta pública?, ¿cómo harán los pilotos de reconocimiento facial?
+
+Identificarse y autenticarse ante el Estado y particulares - presencialmente o en línea - es un proceso que habilita a las personas para actuar en la sociedad, para acceder a servicios, en suma, para ejercer hasta el más mínimo de los derechos. Piensen en comprar una casa, autorizar a su hijo o hija menor a salir del país, casarse, acudir a urgencias en un hospital, pedir medicamentos especiales, sacar dinero del banco o pedirlo prestado, enviar una transferencia a otra ciudad, inscribir a la hija o hijo en el colegio o universidad, o votar. Todos los días y a cada rato debemos comprobar quiénes somos y si somos los que decimos ser.
+
+La recolección de datos que este proceso supone en un ente centralizado y su legitimidad para hacerlo es clave, ¿por qué lo vamos a hacer digital?, ¿por qué se asociará la historia clínica en este proceso?, ¿qué ventajas tiene incluir el registro civil de nacimiento?, ¿cómo van a proteger nuestros datos y los de las terceras personas a los que nuestros datos relacionan?, ¿cómo se garantiza que solo las personas autorizadas puedan acceder?, ¿dónde van a quedar alojados estos datos?
+
+Las preguntas son tantas y tan básicas que es imposible tomarse en serio la propuesta. Apostemos a que entre los memes que circulan en redes habrá finalista para los resúmenes del día de inocentes al final del año.

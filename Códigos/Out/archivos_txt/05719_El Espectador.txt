@@ -1,0 +1,20 @@
+5719
+El Espectador
+Doble instancia y doble conformidad
+20 de septiembre de 2019
+Rodrigo Uprimny
+En una columna reciente sostuve que debe garantizárseles el derecho a impugnar su condena (DIC) a todas las personas que fueron condenadas y no tuvieron esa posibilidad, como el exministro Arias. Sin embargo, la solución no es volver retroactiva la doble instancia para aforados, que fue recientemente establecida pero hacia el futuro. La mejor fórmula consiste en crear un mecanismo extraordinario de impugnación para esos casos.
+
+Esta propuesta está fundamentada en la distinción entre la doble instancia y el DIC, que son figuras cercanas pero diferentes.
+
+El DIC consiste en que todo condenado pueda cuestionar su condena y que ésta sólo quede en firme si otro juez, con capacidad de revocarla, la confirma. Por eso algunos hablan de un derecho a la doble conformidad. Por su parte, la doble instancia consiste en que la sentencia inicial pueda ser apelada, usualmente por cualquiera de las partes, ante un superior, quien puede revisarla.
+
+La doble instancia garantiza en muchísimos casos el DIC, pues si una persona es condenada y apela, entonces le fue garantizado su DIC. Pero son cosas distintas como lo muestran estos dos casos: una persona es absuelta en primera instancia pero la Fiscalía apela y el superior revoca la absolución y lo condena. Hubo doble instancia pero fue violado el DIC pues la persona no pudo cuestionar su condena. Imaginen ahora un proceso penal de única instancia pero en donde exista un mecanismo especial que permita al condenado, y sólo al condenado, atacar ante otro juez su condena. El proceso es de única instancia pero hay garantía del DIC.
+
+La propuesta de hacer retroactiva la doble instancia para solucionar casos como el de Arias es problemática. En la regulación actual, la apelación es un recurso ordinario concedido con el llamado efecto suspensivo, que significa que la condena queda en suspenso mientras la apelación es decidida: habría entonces que liberar a todos los condenados pues se entendería que son detenidos y ya habrían transcurrido los términos máximos para su detención. Habría además que absolverlos a casi todos pues, por el paso del tiempo, habría prescrito la acción penal en muchísimos casos. Sería grave en términos de impunidad. Y en los casos que puedan tramitarse, la congestión sería enorme pues la concesión de la apelación es prácticamente automática (incluso si las razones para apelar son débiles) y además se permiten ciertas pruebas nuevas.
+
+Para evitar esos problemas y satisfacer el DIC en esos casos, es entonces mejor crear un mecanismo extraordinario de impugnación de las condenas previas, que tenga una lógica semejante a la acción de revisión. Los condenados tendrían un plazo para impugnar su condena, tanto por el fondo como por violaciones al debido proceso. Como no es un recurso sino una especie de acción de revisión, la condena seguiría en firme, por lo cual no habría prescripciones ni liberaciones automáticas. Además, para evitar oportunismos de los condenados, habría una exigencia de rigor en la solicitud. La persona tendría que sustentar, sin formalismos pero de forma sólida, las razones por las cuales considera que la condena es injusta. La Corte Suprema podría entonces rechazar, sin mayor trámite, las solicitudes que carezcan de una sustentación suficiente, a fin de concentrarse en aquellas que realmente lo ameritan.
+
+Es pues posible encontrar una solución razonable al problema que creamos al aceptar la posibilidad de condenas sin DIC. Y esto no implica sugerir que las actuaciones de la Corte Suprema hayan sido arbitrarias ni suponer que Arias sea un perseguido político. Se trata simplemente de garantizar a todo el mundo un derecho humano universalmente reconocido.
+
+* Investigador de Dejusticia y profesor de la Universidad Nacional.

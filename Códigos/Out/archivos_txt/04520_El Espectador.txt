@@ -1,0 +1,22 @@
+4520
+El Espectador
+Las matemáticas de las objeciones
+12 de mayo de 2019
+Rodrigo Uprimny
+Es posible que a veces perder sea ganar un poco, como dijo alguna vez Francisco Maturana. Pero no conviene extremar esa tesis, como lo ha hecho el Centro Democrático (CD) que, a pesar de haber perdido abrumadoramente las votaciones de las objeciones del presidente Duque al proyecto de ley estatutaria de la JEP en el Congreso, sostiene que ganaron y que las objeciones fueron aceptadas.
+
+La derrota fue clara: la Cámara rechazó las objeciones por 110 votos contra 44, mientras que el Senado lo hizo por 47 contra 34. Son votaciones contundentes. Sin embargo, varios voceros del CD han dicho que ganaron y que los artículos objetados se habían hundido.
+
+El CD acepta que la Cámara rechazó las objeciones, pero sostiene que en el Senado no se habría logrado la mayoría requerida para ese rechazo; por ende, los artículos objetados se entenderían archivados, para lo cual invocan el artículo 200 del Reglamento del Congreso (Ley 5), según el cual se debe archivar el proyecto si una Cámara declara infundadas las objeciones y la otra las encuentra fundadas. Sin embargo, esta tesis es doblemente falsa pues i) en el Senado fue obtenida la mayoría requerida para rechazar las objeciones y, en todo caso, si ii) esa mayoría no se hubiera logrado, el efecto no hubiera sido el hundimiento de los artículos objetados. Por limitaciones de espacio, en esta columna me centro en el análisis de la matemática de la votación en el Senado.
+
+El cálculo del presidente del Senado, Macías, fue el siguiente: hay 108 senadores, pero a 14 les fue aceptado el impedimento, por lo cual quedó un Senado de 94 senadores; 47 se opusieron a las objeciones, pero se requerían 48, pues el rechazo de las objeciones necesita del voto en contra de la mayoría absoluta de los integrantes de cada cámara.
+
+Es cierto que la mayoría absoluta de 94 es 48 y no 47, pero en realidad la matemática de la mesa directiva del Senado se funda en varias trampas.
+
+La primera es que no restó del número de senadores la curul de Aída Merlano, quien se encuentra detenida por corrupción electoral, que es un delito que, conforme al artículo 134 de la Constitución, genera la llamada silla vacía, pues su curul no puede ser reemplazada por otro miembro de su partido. El Senado estuvo entonces conformado por 93 senadores y la mayoría absoluta era 47, que es el número entero inmediatamente superior a la mitad (46,5), por lo cual las objeciones fueron rechazadas en el Senado.
+
+Dicho sea de paso, este cálculo reitera que, como lo sostuvimos varios, las circunscripciones especiales de paz fueron aprobadas en noviembre de 2017, pues obtuvieron el voto favorable de la mayoría absoluta en el Senado. Otra cosa es que la mesa directiva del Senado de ese entonces le hubiera hecho conejo a esa aprobación, con la extraña tesis de que las sillas vacías no debían restarse para calcular el número de senadores. Esa tesis era insostenible en ese momento, pero lo es aun más ahora ya que la Corte, en la Sentencia C-080 de 2018, que revisó precisamente el trámite de este proyecto de ley estatutaria, restó las sillas vacías para calcular el número de integrantes de las cámaras.
+
+Fuera de esa trampa, la mesa directiva del Senado hizo otras, como inducir en error al senador Mockus para que no votara ese día, y no descontar la curul de , quien no es senador pues nunca se posesionó. Mockus hubiera votado contra las objeciones, con lo cual la mayoría absoluta contra las objeciones habría sido aun más clara: 48 votos en contra de 92 senadores.
+
+A pesar de las trampas matemáticas de la mesa directiva del Senado, las objeciones fueron rechazadas, como indudablemente lo señalará la Corte Constitucional, a pesar de las presiones indebidas de Estados Unidos.

@@ -1,0 +1,32 @@
+273
+El Espectador
+A propósito de la caída de un puente
+24 de enero de 2018
+César Ferrari
+Hace pocos días colapsó el lado oriental del puente Chirajara en construcción en la vía Bogotá-Villavicencio avaluado en 75 mil millones de pesos. El puente, con un diseño arquitectónico complejo, atirantado en sus dos lados, colapsó por su propio peso pues no hubo ningún sismo ni tampoco estaba en uso. Desafortunadamente murieron 9 trabajadores.
+
+En febrero de 2015, un puente mucho más pequeño que atraviesa la carrera 11 a la altura de la calle 103 en Bogotá, pero con una arquitectura similar en un lado, también colapsó. Esta vez el derrumbe ocurrió cuando se pretendió probar su resistencia haciendo marchar sobre el mismo unos ochenta soldados (¡absurdo!). Afortunadamente no hubo muertos.
+
+En abril 2017 colapsó el edificio Blas de Lezo II en Cartagena; fallecieron 21 personas. En octubre de 2013, la sexta torre del edificio Space en Medellín colapsó; produjo 12 muertos.
+
+Hace varias décadas, cuando estábamos terminando la carrera de Ingeniería Civil en la Pontificia Universidad Católica del Perú, nuestro profesor de estructuras (de ingeniería) nos llevó a visitar un edificio nuevo, moderno, de estructura sencilla (pórticos simples) supuestamente antisísmica (Perú tiene una gran experiencia en ingeniería antisísmica y de túneles y puentes) en el lujoso balneario de playa de Santa María cercano a Lima. El edificio había colapsado (se abrió por sus cuatro lados) como consecuencia de un sismo.
+
+Luego de la visita tuvimos una discusión sobre las razones del colapso. En ingeniería civil hay tres posibilidades para un fracaso constructivo que, por supuesto, no tiene nada de normal, así sea uno en 5.000 casos: mal diseño estructural, mal proceso constructivo, malos e inadecuados materiales de construcción. El diseño estructural debe contemplar: arquitectura, tamaño y peso de la infraestructura, calidad del suelo, sismicidad y vientos en el área, cargas estáticas y dinámicas que soportará, materiales que deben emplearse.
+
+Parecía que nuestro caso era un problema de mal diseño: ante un brusco movimiento que había remecido en varios sentidos y durante unos pocos minutos una estructura rígida, las vigas de amarre no resistieron la tracción derivada del movimiento sísmico (la fuerza que jala, la otra es la de compresión, la que comprime, en gran medida producto del propio peso de la infraestructura) y se quebraron en los amarres, en las esquinas.
+
+La otra posibilidad era que se hubiera supuesto una calidad de suelo inexistente: el suelo de Lima es pedregoso, basado en roca granítica y de alta resistencia (2.2 kilogramos por centímetro cuadrado), pero en las playas y zonas de aluvión como el de Santa María es arenoso y su resistencia es muy baja (0.2 kgr/cm2). De tal modo, si se consideró el primero, se sub-dimensionó la cimentación, el edificio se movió de manera distinta a la supuesta y los esfuerzos cortantes (las fuerzas verticales que afectan las infraestructuras) sobrepasaron la resistencia de las vigas y las quebraron en los amarres con las columnas.
+
+Luego surgió la cuestión del proceso constructivo. No parecía ser el caso: un edificio sencillo como el cuestionado sigue un procedimiento estándar. En una infraestructura compleja, con tirantes o voladizos, por ejemplo, la secuencia constructiva es crucial y su definición es parte del diseño.
+
+Finalmente analizamos la cuestión de los materiales. Poco pudimos decir al respecto sin evidencia sobre la calidad de los mismos. Días después supimos que las pruebas de resistencia que se les había hecho habían pasado los estándares exigidos. Siendo así, la causa más aparente era un mal diseño estructural.
+
+¿Por qué aparecen esos malos diseños, o se usan procedimientos constructivos inadecuados o se emplean materiales de mala calidad? No es por la arquitectura (la forma que el arquitecto le da a la obra); la ingeniería es capaz de resolver casi todo tipo de arquitecturas. En economía aprendí hace muchos años que las empresas maximizan sus utilidades aumentando sus ingresos y/o reduciendo sus costos; y eso es legítimo y legal. Los problemas emergen cuando entre el constructor que ejecuta y tiene la información y el contratante que hace los pagos y compra el servicio se da una relación monopólica en beneficio del primero que eleva los precios y reduce los costos por fuera del equilibrio de competencia.
+
+Y eso ocurre, y en consecuencia los desastres, cuando no existe un adecuado marco institucional para la contratación y ejecución de las obras, y/o una adecuada supervisión en todas y cada una de sus etapas. Bueno, también se pueden equivocar.
+
+Sin marco adecuado la tentación de añadir otros-sí para aumentar ingresos es grande. Y sin supervisión oportuna y calificada no se detectan los errores y la tentación a añadir otros-sí y a reducir costos son enormes: se emplean malos materiales porque son más baratos, se sigue una secuencia diferente a la indicada pues ahorra horas laborales, y se diseñan estructuras menos resistentes porque sus costos son menores.
+
+No sé con certeza por qué ocurrió el desastre de Chirajara, tampoco en los otros casos. Una investigación seria e independiente debe identificar las causas. Lo que sí puedo afirmar es que en ingeniería es tan importante el diseño, el proceso constructivo y la selección de materiales, como el marco institucional y la supervisión. ¿Qué es lo que está fallando?
+
+* Ph.D. Profesor, Pontificia Universidad Javeriana, Departamento de Economía.

@@ -1,0 +1,20 @@
+379
+El Espectador
+Cámaras biométricas en Transmilenio, casi recreamos un 1984
+1 de febrero de 2018
+Carolina Botero Cabrera
+La recolección y procesamiento de datos personales es una preocupación creciente. En Colombia seguimos ignorando la necesidad de proteger los derechos de la ciudadanía, mientras privilegiamos una visión de solucionismo tecnológico que no considera el impacto en materia de derechos humanos. Esto fue lo que sucedió con el proyecto para usar cámaras biométricas con identificación facial en Transmilenio.
+
+En el pasado he hablado de proyectos en construcción como la Carpeta Ciudadana o el Conpes de big data , pero, ¿qué sucede con proyectos ya desarrollados? Durante los últimos meses, en Karisma, donde trabajo, decidimos indagar sobre el sistema de videovigilancia biométrica de Transmilenio. El sistema fue lanzado con bombos y platillos en 2015 y hoy no se sabe nada de él. Esto nos generó curiosidad, por lo que decidimos indagar en la información pública disponible para ver cómo iba.
+
+Tras una millonaria inversión y siguiendo el ideal de 1984 , que supone que todos somos sospechosos y todos debemos ser vigilados para identificar a los posibles criminales, las autoridades distritales buscaban instalar un sistema interconectado de cámaras de vigilancia en algunas estaciones y portales de Transmilenio. Esas cámaras estarían dotadas de tecnología de reconocimiento facial que, supuestamente, daría más seguridad a la ciudadanía al identificar a quienes usaran el sistema de transporte público bogotano y produciría alertas cuando aparecieran sospechosos.
+
+El problema de fondo no son las cámaras, sino su incorporación a la ligera en políticas públicas sin considerar los pros y contras, sin respetar los límites de la legalidad o necesidad, sin pensar cómo mitigar los riesgos de usos abusivos y sin estudios que soporten su efectividad. ¿Será mucho pedir?
+
+La utilización de datos biométricos, que son datos sensibles de acuerdo con la ley colombiana, requiere un tratamiento cuidadoso. Procesar la información biométrica de los millones de usuarios diarios de Transmilenio no debería ser un tema tomado a la ligera. De hecho, el proyecto no vio la luz porque no había una base de datos para contrastar los millones de imágenes que recogerían. Sin la base de datos con la información biométrica de las personas a las que se quería buscar, el sistema es inútil.
+
+El proyecto muere cuando los funcionarios encargados de implementarlo se estrellaron contra la complejidad que implicaba construir esa base de datos y la falta de competencia que tenían para hacerlo.
+
+La investigación también da cuenta de la ausencia de transparencia sobre los antecedentes de estos proyectos. Las autoridades deben informar, publicar y dar a conocer ampliamente los documentos que soportan el diseño de estos sistemas. Deben informar los objetivos y soportarlos con estudios que permitan a la ciudadanía analizar e incluso hacer seguimiento y control a su ejecución. Dudo que alguien pensara en estos temas en este caso, pero tampoco podemos afirmarlo porque no hay información pública al respecto.
+
+El recuento es la historia de un despilfarro, de preguntas no formuladas y de unas lecciones a considerar para crear sistemas de información que sean respetuosos de nuestros derechos. Para cerrar la semana de la protección de datos, les invito a leer el informe , quizá podríamos también denunciar este despilfarro creando humor para dar ideas al Distrito sobre cómo usar esa costosa inversión ( 24 cámaras de reconocimiento facial, más 140 cámaras de apoyo, un centro de control y diez celulares).

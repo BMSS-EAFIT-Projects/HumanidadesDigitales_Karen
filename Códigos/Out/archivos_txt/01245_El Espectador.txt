@@ -1,0 +1,28 @@
+1245
+El Espectador
+A todos nos importa la Ley Lleras
+12 de abril de 2018
+Carolina Botero Cabrera
+El periodismo de datos consiste en recabar y analizar grandes cantidades de datos mediante software especializado y, a partir de los resultados, explicar e informar con infografías, visualizaciones de datos, etc. En las democracias modernas, el control ciudadano y la posibilidad de hacer participación ciudadana efectiva pasa también por poder procesar los datos que se producen como resultado y como parte de la gestión del Estado. Un Estado moderno impulsa el emprendimiento y la innovación a partir de los datos que produce.
+
+Todo esto sucede en Colombia. Durante las elecciones, hemos visto cómo los medios se han volcado a buscar formas innovadoras de presentar la información. Los datos que construyen esta información provienen de la Registraduría, pero también de los actores políticos y privados como las firmas encuestadoras. El Ministerio TIC ha desarrollado todo un programa de gobierno abierto, tiene portal de datos abiertos y ha invertido en emprendimientos dateros.
+
+Estamos construyendo una agenda proclive al uso de los datos y en la práctica quienes usan datos abiertos y los periodistas que se están especializando en periodismo de datos se encuentran frecuentemente con una serie de situaciones:
+
+Las comunidades que trabajan con datos saben eso y es frecuente que deban superar esos escollos para trabajar. Es decir, en el camino digitalizan documentos, modifican formatos, hacen nuevos contenidos y en algún momento se las ven con el derecho de autor.
+
+¿Qué tan legal es todo esto? La respuesta no es tan clara. Aunque en Colombia los datos por sí mismos no se protegen con derecho de autor, las bases de datos originales sí. Pero, además, para procesarlos se necesita interactuar con la información de otras formas que muchas veces suponen superar barreras técnicas que están protegidas también por el derecho de autor como las medidas tecnológicas de protección (MTP, que son candados digitales como el que evita pasar un PDF a un documento editable).
+
+Desde 2012, el Gobierno ha querido reformar el derecho de autor para cumplir con las obligaciones del TLC, a estas iniciativas legislativas se les conoce en Colombia como Ley Lleras. El proyecto de ley está de moda nuevamente porque EE. UU. pide que la tramiten como condición para dar su aval frente a la entrada de Colombia a la OCDE (que es una apuesta importante del gobierno Santos).
+
+Muchas necesidades en esta reforma acelerada, como las de los dateros, serán ajenas a la discusión legislativa porque, en el afán, es difícil explicar a estas comunidades los problemas, particularmente sobre las MTP que están en esta reforma al derecho de autor. Es necesario que las normas sobre MTP no vayan más allá del TLC y se aprenda sobre lo que se ha hecho en otros países. En la actualidad, la versión del proyecto de ley no lo hace.
+
+Una reforma de derecho de autor balanceada debe cumplir con las obligaciones TLC, pero, además, debe ser producto de un proceso amplio de participación donde se concilien los intereses de todos los sectores involucrados. La reforma balanceada requiere de un sistema flexible para que no ilegalice prácticas comunes, que existen en otros países y sistemas jurídicos, incluido el de nuestro socio comercial, EE. UU.
+
+El error político del Gobierno es creer que el derecho de autor es tan solo un marco legal de un sector económico. No, se trata de las reglas de juego del mundo digital.
+
+Las bibliotecas, académicos, dateros, expertos en seguridad digital, cualquiera de nosotros como usuarios y consumidores también seremos impactados. Sin embargo, la discusión sobre derecho de autor se mantiene dentro de la visión de la Dirección Nacional de Derecho de Autor en los términos del siglo pasado.
+
+Hoy viernes, 13 de abril, se vence la posibilidad de presentar comentarios (copia física en el Congreso, eso de que Colombia es un país y no una ciudad parece que no termina de calar en los procesos de participación). Solo quienes presenten comentarios podrán participar en la audiencia pública del lunes en el Congreso . Su objetivo: permitir a la sociedad civil expresar este tipo de inquietudes sin la seguridad de que impacten en el texto del proyecto de ley en debate.
+
+El acceso a la información, al conocimiento y a la cultura es un derecho reconocido en los tratados internacionales de los que Colombia hace parte. La forma de reconocer, facilitar y promover este derecho es dotando de flexibilidades al sistema de derecho de autor. Todos somos creadores-audiencia. Para crear, necesitamos acceder a la información, a los contenidos y a la cultura. No queremos desincentivar la creación, sino que existan condiciones para que la creatividad florezca. A todos nos conviene un sistema balanceado.

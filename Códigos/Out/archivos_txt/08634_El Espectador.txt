@@ -1,0 +1,24 @@
+8634
+El Espectador
+Alan Turing detrás de cámaras
+27 de junio de 2020
+Julio César Londoño
+El Alan Turing histórico (1912-1954) es popular: inventó la máquina de Turing, el algoritmo de todos los algoritmos, la yema del huevo del computador; construyó el primer computador completamente electrónico; ganó una batalla decisiva en la Segunda Guerra Mundial al descifrar el código Enigma del Ejército alemán; el logo de Apple es el homenaje que Steve Jobs le rindió a su genio.
+
+El Turing personal es menos conocido. Tenía voz chillona, dentadura irregular y ojos azules y estaba locamente enamorado de un condiscípulo. Preocupada, su madre lo llevó a un médico que le recetó un remedio sofisticado: «Un curso de matemáticas fortalecerá su carácter», dijo el hombre serísimo. Por increíble que parezca, la idea no era original. Cien años atrás, le habían sugerido el mismo remedio a la esposa de lord Byron para curar a su hija de su afición al romanticismo: «Dosis altas y diarias de álgebra y geometría euclidiana». Por increíble que parezca, la pócima surtió efecto y Ada Byron se convirtió en la más aguda pionera de la historia de la computación.
+
+Turing andaba en bicicleta, se protegía de su alergia al heno con una máscara antigases, llevó durante años un impermeable dos tallas más pequeñas, cargaba un enorme reloj despertador atado a la cintura, limpiaba el pizarrón con las faldas de la camisa y resultaba imposible conversar con él porque era tatareto y sufría ataques de hilaridad nerviosa.
+
+Estaba condenado a la soledad por partida triple, dice Emmanuel Carrère: «Homosexual, genio lógico y cerebro de un proyecto militar secreto, tres logias herméticas».
+
+En 1931 se matriculó en el Kings College de Cambridge. Allí se reunía el grupo de Los Apóstoles: E. M. Forster, Bertrand Russell, Ludwig Wittgenstein, el editor Leonard Woolf (esposo de doña Virginia) y John Maynard Keynes, el administrador del Colegio. Por desgracia, su timidez lo inhibió de participar en las reuniones del círculo, pero fue alumno de John von Neumann en Princeton y de Wittgenstein en Cambridge, quien sufrió en carne propia la inteligencia y la locura de Turing y se vengó asestándole una broma clásica entre matemáticos: «¡Usted tan joven y ya no hizo nada!». (En el gremio existe la creencia de que el genio matemático muere muy temprano).
+
+En 1951 la policía descubrió que Turing era homosexual y la Justicia le aplicó la Enmienda Labouchère, una ley acuñada en 1885 que penalizaba «los ultrajes a la moral entre varones adultos en público o en privado». Esta mariquísima ley envió a la cárcel de Reading a Oscar Wilde y rigió hasta 1967, cuando los empelucados jueces del Reino Unido aceptaron a regañadientes que el homosexualismo no era una infección contagiosa.
+
+A Turing se le dio a escoger entre una pena de prisión o un tratamiento con hormonas femeninas, una estrategia homeopática que buscaba «curar el mal con el mal». Turing se sometió al tratamiento y las hormonas le tumbaron la barba, le produjeron impotencia, hicieron más aflautada su voz y le sacaron senos. Turing vivía fajado y tenía prohibido salir de Manchester. Aunque la guerra había terminado, todo lo relacionado con Enigma y la criptografía seguía siendo secreto militar y Turing fue tratado con un celo excepcional.
+
+El lunes de pentecostal de 1954 no pudo más y mordió una manzana que había rociado con cianuro. Así fue premiado por la Corona el hombre que ganó la Segunda Guerra Mundial.
+
+Turing murió convencido de que las máquinas no eran más estúpidas que los hombres. Resumió sus investigaciones, tendencias y problemas en un silogismo apretado: «Turing cree que las máquinas piensan / Turing yace con hombres / luego las máquinas no piensan».
+
+Fuentes: Emmanuel Carrère, «Vida abreviada de Alan Turing». David Leavit, «Alan Turing». Walter Isaacson, «Innovadores».

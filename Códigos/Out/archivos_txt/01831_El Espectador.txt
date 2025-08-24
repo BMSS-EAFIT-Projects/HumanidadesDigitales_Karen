@@ -1,0 +1,30 @@
+1831
+El Espectador
+¿Sabe usted realmente quién y cómo se cuenta su voto?
+14 de junio de 2018
+Carolina Botero Cabrera
+A las 17:08 horas del 27 de mayo pasado ya la Registraduría había publicado su reporte 13 e informado los resultados del 96,61% de las mesas, dando como ganadores de la primera vuelta a Duque y a Petro. Sin embargo, los resultados oficiales solo se conocieron el 8 de junio pasado. ¿Qué significa esto? Significa que en el sistema electoral colombiano hay dos estructuras de conteo de los votos: la informativa (preconteo) y la oficial (escrutinio). La diferencia entre las dos es crucial y casi nadie lo sabe.
+
+El sistema electoral colombiano es muy complejo. Es un sistema de conteo de votos que está pensado para ser manual y documental (basado en actas y formatos) en una estructura que va totalizando votos usando tecnología. El proceso tiene varios niveles (puede consultar la explicación más sencilla que hizo Karisma, donde trabajo, recientemente):
+
+Ahí es como tenemos los resultados de las elecciones.
+
+Más allá de que la complejidad del sistema facilita fraudes que ya les he contado , hay otros problemas y es importante hablar de la diferencia entre preconteo y escrutinio.
+
+Aunque el proceso en su mayor parte es sobre el escrutinio sobre la forma como nuestro voto se cuenta para que tenga efectos jurídicos en la elección, en mi opinión, no se le da la importancia que debiera.
+
+En primer lugar, el presupuesto no es proporcional a la importancia que el escrutinio tiene. Reconozco que el preconteo cumple la importante función de dejarnos dormir tranquilos y eso no es menor. También admito que la proporción ha mejorado en los últimos comicios, a medida que los partidos y la sociedad civil principalmente, la MOE han ido reclamando más información del escrutinio para hacer control de los resultados. Sin embargo, el gasto es desproporcionado al peso jurídico de los dos procesos.
+
+De hecho, creo que uno de los problemas del sistema es que el presupuesto no es manejado por los responsables de cada proceso. La Registraduría es responsable del proceso de preconteo, mientras que el Consejo Nacional Electoral (CNE) lo es del escrutinio. Sin embargo, la Registraduría, de una parte, es la que maneja y decide el presupuesto de ambos procesos y, de otra, ha sido la principal beneficiaria de la eficiencia del preconteo --si lo medimos por los índices de popularidad que la entidad tiene--.
+
+No sé si sea un problema de presupuesto, pero comparado con la eficiencia del preconteo, los resultados oficiales de la primera vuelta se demoran bastante. Los resultados de la primera vuelta, de acuerdo con la Resolución 1413 de 2018 del CNE que los oficializa, se demoró 12 días. El 1 de junio se terminó el escrutinio con Nariño a nivel departamental y hasta el 7 se finalizó el conteo de los votos consignados en otros países esto se debe a que el escrutinio de esos votos los hace el CNE cuando los votos físicos llegan al país. La Resolución se publicó el 8 de junio, es decir, los resultados oficiales se publicaron a 9 días de la segunda vuelta. Afortunadamente, hubo margen de resultados y el tiempo alcanzó.
+
+Otro dato diciente de lo poco que valoramos el proceso de escrutinio y de la poca atención que se pone al presupuesto que lo facilita es que la página del CNE no es funcional desde febrero de este año, es decir, no hay un canal oficial de información del proceso. Por ejemplo, la propia Resolución 1413 anuncia que será publicada en la página del CNE. Como esto no es posible, toca buscarla por otros canales. Yo terminé encontrándola en Scribd de una versión publicada por Semana. Vergonzoso.
+
+Finalmente, el cronograma de actividades para la segunda vuelta que hizo la Registraduría con los auditores de tecnología de los partidos y la sociedad civil incluía 17 actividades de prueba y simulacros. De esas actividades, tan solo tres incluían al software de escrutinio, las demás tenían que ver con actividades de preconteo.
+
+El descrédito del CNE no me permite abogar por que maneje ese presupuesto, pero la realidad es que en Colombia tampoco podemos permitirnos que quien escruta no tenga la autonomía para hacer el proceso y hacerlo bien. Sin autonomía presupuestal, ¿qué podemos exigirle? El domingo cuando vea los resultados por televisión no dejaré de pensar que el ejercicio es interesante, pero no es válido jurídicamente. Quizá es hora de presionar por una reforma de fondo que revise las funciones y el proceso para garantizar transparencia, oportunidad y permitir controles eficaces.
+
+Le puede interesar:
+
+Le puede interesar:

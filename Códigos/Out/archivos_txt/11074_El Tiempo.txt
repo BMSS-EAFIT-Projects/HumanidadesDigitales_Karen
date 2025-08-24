@@ -1,0 +1,22 @@
+11074
+El Tiempo
+Asegure su red wifi
+22 de julio de 2018
+Guillermo Santos Calderón
+Muchos hogares cuentan con wifi, lo que significa que tienen lo que se conoce como un router, el aparato que instala el operador que ofrece este servicio. Además, hay hogares que instalan otros routers para ampliar la señal a más habitaciones.
+
+Estos aparatos están siendo usados por los hackers para penetrar las redes inalámbricas de las casas y así poder ver todo lo que se teclea en los computadores, celulares y tabletas conectados a ellas, lo que obviamente incluye palabras claves y otra información sensible.
+
+Si el router está infectado por un software malicioso, todo equipo conectado a esta, incluyendo televisores, relojes inteligentes, cámaras de video, queda expuesto a los hackers. Un estudio de Talos, entidad investigadora de Cisco, en colaboración con el FBI, descubrió que han sido infectados y penetrados cientos de miles de routers de wifi de marcas muy conocidas.
+
+¿Cómo asegurarlos? Todo router tiene un firmware, que es un software que lo hace funcionar. Este se debe actualizar cada tres o seis meses.
+
+Este proceso no es muy fácil, por lo que hay que leer el manual que viene con el router, donde está la URL para poder accederlo desde un navegador. Una vez adentro, se debe buscar la función que permita saber si el firmware está desactualizado y, de ser así, hay que seguir las instrucciones del manual para actualizarlo. Otra alternativa es llamar al operador que instaló el router y hacerle las preguntas necesarias para realizar el proceso.
+
+Los routers que se instalan vienen con un usuario y clave muy débiles, razón por la cual es importante que apenas se ponga en funcionamiento, se acceda al aparato y se cambie la clave por una larga y difícil, que ojalá contenga letras, números y caracteres especiales.
+
+Otra recomendación es que la clave para acceder a la red, que es diferente a la que se usa para acceder el router y administrarlo, también sea muy segura. De lo contrario, la red wifi del hogar se puede penetrar y conectarse a ella para hacer hacking.
+
+Para concluir, son dos puntos. El primero es asegurar el router, siguiendo lo que se describió arriba; y el segundo es asegurar la red con una clave difícil para que no sea hackeada. Otra recomendación es exigirle al operador cambiar el router cuando su fabricante ya no le ofrezca soporte al firmware.
+
+Paz en la tumba de Jorge Casilimas, profesional oficial de la reserva del Ejército y excelente amigo. Que descanse en paz y mis más sentidas condolencias a toda su familia.

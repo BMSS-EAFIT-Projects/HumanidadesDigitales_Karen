@@ -1,0 +1,28 @@
+4462
+El Espectador
+En bases de datos de artículos científicos, ¿para dónde va Colombia?
+3 de mayo de 2019
+Carolina Botero Cabrera
+En 2016, el consorcio alemán de universidades y centros de investigación que negociaba con Elsevier, la gigante editorial científica mundial, se negó a renovar la suscripción. Le pedían a Elsevier modificar su modelo de negocio para facilitar el acceso abierto a toda la producción científica de quienes hacen ciencia en Alemania, algo que no sucedió. La decisión de Alemania ha despertado una revolución que amenaza con cambiar el modelo de publicación científica y tiene como fondo el acceso abierto.
+
+Para 2018, además de Alemania, Suecia, Noruega y Hungría habían tomado decisiones similares . A principios de 2019, la Universidad de California, en EE. UU., anunció que no continuaría con la suscripción, pues no había alcanzado un acuerdo con Elsevier.
+
+El modelo de negocio de editoriales científicas como Elsevier supone millonarios pagos para el acceso a sus bases de datos que les significan grandes ganancias. En 2017, las operaciones de Elsevier fueron de $1,17 miles de millones de dólares y reportó ganancias por $3,17 miles de millones en relación con sus publicaciones científicas, técnicas y médicas. Esto significó un margen de ganancia de casi el 37%.
+
+Mientras tanto, los artículos y sus evaluaciones las hacen científicos frecuentemente financiados con dinero público. El mismo sistema tiene mecanismos de medición de impacto que terminan siendo los que definen los incentivos de la academia. Por tanto, fijan en buena medida la política y la agenda científica de los países.
+
+El modelo de negocio se ha favorecido, entre otras cosas, por su opacidad . Las negociaciones se hacen por institución o por país en forma confidencial. Parte de lo que está pasando ahora es que la información está saliendo a la luz , incluso más organizaciones dicen cuánto pagan. Adicionalmente, en Europa, por ejemplo, se están reuniendo para discutirlo , incluyendo a instituciones de EE. UU. Esto puede ser lo que ha ayudado a incrementar el descontento.
+
+En todo caso, es difícil saber cuánto pagan las universidades, los centros de investigación o los países a Elsevier, pues los acuerdos son confidenciales. Aun así, por ejemplo, en España calculan que el pago anual es de 25 millones de euros. La Universidad de California afirma que paga 11 millones de dólares. Por eso, cada vez es más frecuente que se creen consorcios por país que permitan enfrentar los grandes costos de estas suscripciones.
+
+Esta es la situación a la que reaccionaron en Alemania. En 2017, cientos de organizaciones alemanas decidieron enfrentar el tema. Decidieron no renovar la suscripción a Elsevier, además de que varios investigadores renunciaron a continuar evaluando los artículos. El consorcio alemán DEAL, que hace las negociaciones con Elsevier, fijó su apuesta: pagaría solo por la publicación de los artículos en acceso abierto y lo haría por una única suma, no por artículo. Elsevier, por su parte, parece preferir y presentar como alternativa un modelo de acceso abierto en el que esta empresa tiene la primicia y, pasado un tiempo, se publica en un repositorio institucional.
+
+En América Latina somos, sobre todo, espectadores de lo que sucede con estas bases de datos. Vale la pena en todo caso decir que para 2017 se hablaba de que Perú perdería acceso a las bases de datos. Las noticias, sin embargo, son poco claras. Parece que más que por una posición política, la no renovación dependería de la falta de recursos. No encontré información sobre esto más reciente.
+
+En Colombia, también los pagos a Elsevier, como a las demás editoriales científicas, son un misterio. Sabemos que el Estado subsidia estos pagos desde hace años. Pero no fue sino hasta el 2018 que se creó un consorcio nacional que se encuentra negociando el acceso a bases de datos por segunda vez.
+
+No existe información de prensa sobre estas negociaciones. De información recibida de quienes han participado, no cabe duda de que el esquema de negociación en Colombia mejoró las condiciones económicas de las universidades para acceder a bases de datos. Ahora bien, proveedores como Elsevier tienen ventajas adicionales en Colombia. La política de medición de las ciencias los favorece pero, además, en esta negociación en concreto el intermediario era un distribuidor de Elsevier. Sobre el segundo punto, he oído que a futuro se está pensando que el operador sea elegido vía invitación abierta, haciendo más transparente el proceso.
+
+El consorcio ha mejorado la transparencia interna en la contratación. Para ser exitosas, las instituciones deben compartir información sobre los costos que pagan entre ellas, aunque todavía no se hagan públicos. También se alivia la carga económica de la mayoría de las universidades. Y, por último, se facilita un mayor acceso a otras que venían rezagadas.
+
+Lo malo es que los conflictos del modelo de medición siguen sin abordarse. Tampoco se problematiza localmente el modelo de pagar por publicar en bases de datos. En todo caso, tarde o temprano esto debe forzar al país a pensar en acceso abierto, tanto en relación con bases de datos, pero también más allá, como herramienta para pensar en la ciencia como un derecho de todos y todas.

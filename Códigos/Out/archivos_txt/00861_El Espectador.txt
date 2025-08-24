@@ -1,0 +1,26 @@
+861
+El Espectador
+Go
+7 de marzo de 2018
+José Fernando Isaza
+En los años 1996 y 1997 se enfrentaron, en un torneo de ajedrez, el campeón mundial Garri Kasparov y una supercomputadora de IBM, llamada Deep Blue. En 1996, Kasparov ganó cuatro de seis juegos, pero en 1997, una versión mejorada de Deep Blue venció al campeón.
+
+Hace exactamente dos años, el software AlphaGo, programado por un equipo llamado Deep Mind, venció al campeón mundial del juego de go, Se-dol Lee.
+
+La prensa internacional tituló: La máquina vence al hombre. En rigor, fueron máquinas programadas por un numeroso equipo de expertos, en esos juegos, en redes neurales, en sistemas de autoaprendizaje, las que vencieron a los campeones mundiales. Fue una lucha desigual de un hombre contra un sofisticado equipo y una máquina.
+
+El juego de go, muy popular en China, Corea y Japón, es más antiguo que el ajedrez y sus reglas son más sencillas, solo hay dos clases de fichas: negras y blancas. El número de jugadas es de varios órdenes de magnitud mayor que en el ajedrez. Una novela del nobel de Literatura Yasunari Kawabata, El maestro de go , permite a los no iniciados acercarnos a este juego.
+
+La programación de Deep Blue se basa en lógica formal y en fuerza bruta, que permiten evaluar en microsegundos los millones de variantes de los próximos movimientos. Esta programación no permite vencer a campeones de go. Este juego tiene unas características de intuición, jugadas inexplicables llamadas movimientos divinos, además tiene más opciones de jugadas que el ajedrez.
+
+Para programar AlphaGo se utilizó inteligencia artificial (IA), que permite modelar la llamada intuición artificial. La programación basada en lógica formal es secuencial, puede emplear máquinas en paralelo para aumentar la velocidad de cómputo. En teoría, es predecible el resultado y puede explicarse cada etapa del proceso.
+
+La programación de IA se fundamenta en la capacidad de aprendizaje de la máquina. El programa le da insumos y resultados de algunos procesos, las computadoras van modificando los procesos de acuerdo con los resultados. En ocasiones no es posible explicar por qué se tomó una decisión y no otra.
+
+Veinte años atrás, los programas de traducción automática se parecían más a una búsqueda rápida en un diccionario; el manejo de la sintaxis era horroroso, las traducciones de modismos, aterradoras y ni se diga el tratamiento de los sinónimos.
+
+La programación de IA modificó el proceso, las computadores se alimentan con millones de textos y sus traducciones reciben automáticamente retroalimentación de la calidad de estas. Se pueden cargar con nuevos y buenos textos, mejorando cada vez los resultados. Esto es una buena noticia para los traductores profesionales: sus trabajos sirven de insumo para mejorar los programas de IA.
+
+Estos avances tecnológicos mejoran la calidad de vida y permiten dedicar más tiempo a labores intelectuales y sociales que las simples tareas cotidianas.
+
+Hasta ahora son las personas las que controlan las computadoras y pueden evaluar y modificar los resultados de su programación. Computadoras como el HAL de la película 2001: odisea del espacio , que tomó decisiones basadas en algo que podríamos llamar sentimientos, parecen estar lejanas. Aunque es bueno precisar que si bien HAL mató casi la totalidad de la tripulación, cumplió el objetivo de sus programadores: llevar la nave a Saturno a cualquier costo.

@@ -1,0 +1,26 @@
+6642
+El Espectador
+¿Quién controla la tecnología que se usa en las protestas?
+7 de diciembre de 2019
+Carolina Botero Cabrera
+Siglos de protestas han permitido desarrollar estándares internacionales para garantizar este derecho, al ser un mecanismo de participación ciudadana que busca dar forma colectivamente a la sociedad en que vivimos. Sin embargo, la discusión sobre cómo se trasladan esas garantías al entorno de la tecnología digital hasta ahora está pendiente. Los recientes eventos en el país deberían servirnos para abrirla.
+
+En esta columna solo hablaré de ejemplos obvios de tecnología que se usa en protestas en Colombia y dejaré para el futuro temas menos evidentes.
+
+En primer lugar, mientras que la fuerza pública que acompaña una protesta debe obedecer a una serie de normas, protocolos y requisitos como la identificación clara de los oficiales que participan, esto todavía no es cierto respecto de la tecnología que se usa. La policía tiene indumentaria que incluye números de identificación visibles, por eso sabemos si es policía de orden público, Esmad o auxiliares de policía y podemos individualizar a la persona. De hecho, con chalecos se identifican también la prensa, los defensores, etcétera.
+
+Por su parte, los drones, por ejemplo, son usados desde hace años por diferentes actores para acompañar las protestas, pero si miro hacia el cielo no puedo saber si ese dron es de la policía, del ejército o de un medio. Mucho menos tienen un número visible de identificación que, como en el caso de la fuerza pública, me permita individualizar y eventualmente denunciar o buscar información para controlar abusos.
+
+Y es que, para controlar abusos o aclarar lo que sucede, otro estándar importante es el de transparencia. En una protesta, la forma como se toman decisiones debe ser reglada y pública. Así mismo, con posterioridad a la protesta, debe haber informes de las autoridades que expliquen y den cuentas de lo sucedido.
+
+El caso de Dilan Cruz muestra las falencias que existen en materia de transparencia para el mundo analógico de las protestas, pues a pesar de la presión mediática a estas alturas no tenemos respuesta sobre quién dio la orden de enviar el Esmad para proceder. Mucho menos sabemos cuál fue el razonamiento para dicha orden (hay estándares también que modulan la respuesta de la fuerza pública a una protesta pacífica). Conocemos el procedimiento, pero no sabemos cómo se ejecutó.
+
+Ahora bien, si la pregunta no fuera sobre el Esmad sino sobre alguna herramienta tecnológica, el vacío parece más complejo. No hay normas, no se conocen procedimientos, protocolos, no ha habido discusión sobre su implementación en protestas. Las garantías deben extenderse al uso de herramientas tecnológicas.
+
+Por ejemplo, los drones deben ser reglamentados considerando sus capacidades (hay drones sencillos que solo capturan imágenes de baja calidad, pero hay otros mucho más complejos), el análisis de impacto en derechos humanos y el cumplimiento de normas como la de protección de datos. Deben también responder a protocolos, contar con mecanismos de control de abusos y con informes con datos sobre su uso al finalizar la protesta. Todo esto debe ser público.
+
+Más complicado aún es que la ausencia de implementación de garantías ha evitado la discusión sobre la legalidad de algunas de estas herramientas para las protestas. Por ejemplo, se anunció con bombos y platillos que el helicóptero de la policía en Bogotá usaría una cámara de reconocimiento facial para identificar a personas encapuchadas. Más allá de todo lo que se me ocurre sobre la justificación para usar una cámara que debe tener muy poca efectividad para ese propósito, y por tanto las dudas que me genera sobre cuál es el objetivo real, lo cierto es que el uso de reconocimiento facial está bajo la lupa en el mundo, a tal punto que ciudades como San Francisco prohibieron su uso a la policía. Tengan presente que el solo hecho de que una protesta suceda en espacio público no significa que no sea un riesgo para la privacidad.
+
+La tecnología es cada vez más importante para organizar, monitorear, controlar e incluso denunciar abusos durante y después de una protesta. Sin embargo, también puede usarse para impedirla, desincentivarla o amenazarla. Las garantías del uso de la fuerza y la vigilancia del Estado en las protestas en el país son insuficientes, pero en materia de uso de tecnología son inexistentes y por eso tenemos que seguir trabajando en este tema.
+
+Nota . El 3 de diciembre se celebró el Día Internacional de la Discapacidad, que tiene como propósito llamar la atención sobre esta población y sus necesidades. Una buena forma de celebrarlo y acompañar a esta población es conocer lo que piden que se incorpore en los diálogos del paro nacional. Este tema no está en el debate público. Resalto como uno de sus reclamos que se reconozca la accesibilidad como derecho, la piden para lograr su participación plena y en igualdad de condiciones en la sociedad e incluye acceso a la infraestructura digital.

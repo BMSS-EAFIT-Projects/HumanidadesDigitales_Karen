@@ -1,0 +1,20 @@
+1160
+El Espectador
+Goles esperados y goleadores
+15 de abril de 2018
+Jorge Tovar
+El rol de los atacantes en el fútbol es central. No en vano son ellos, los goleadores, los de mayor valor de mercado.
+
+Para bien o para mal, a los goleadores se les suele valorar por los goles que marcan. Un delantero que no marca, no sirve. Uno estático, lento, pero que marque, sí sirve.
+
+Pero hay otras métricas para medir el estado de forma de un atacante. Una de ellas son los goles esperados, cuyo concepto lo definimos aquí recientemente. La idea central es determinar estadísticamente una probabilidad de gol para todo disparo al arco. Considerando distancia al arco, el ángulo o posición desde donde se disparó, además de características como si era contragolpe, rebote o de cabeza, se puede determinar dicha probabilidad.
+
+La metodología de goles esperados puede agregarse en varias dimensiones, siendo una de las más interesantes hacerlo por jugadores, particularmente en goleadores. La siguiente gráfica, a 13 de abril de 2018, muestra el mejor delantero de cada equipo de acuerdo al índice de rendimiento que hemos desarrollado en www.golyfutbol.com ( https://golyfutbol.com/rendimiento-gol-y-futbol/liga-aguila-2018-1/jugad... ).
+
+Las flechas azules indican jugadores que están desempeñándose por encima de lo esperado. Es decir, dado sus disparos al arco, están metiendo goles desde posiciones y distancias que tienden a ser difíciles de anotar. Destacan en este aspecto Iván Rojas (Patriotas), Edder Farías (Caldas), Sebastián Villa (Tolima), Édison Toloza (Pasto) y, en menor medida, Ayron del Valle (Millonarios) y Carlos Peralta (Equidad).
+
+Las líneas cortas, sean azules o rojas, indican jugadores que, dados sus disparos al arco, están marcando más o menos lo esperado. Son jugadores como José Sand (Cali), Germán Cano (Medellín), Dayro Moreno (Nacional) y Wilson Morelo (Santa Fe).
+
+Las flechas rojas largas representan jugadores que están desempeñándose por debajo de lo esperado. Los disparos que realizan deberían ser gol, pero no están entrando. En esta faceta destacan por la falta de puntería jugadores como César Arias (A. Petrolera), Cristian Martínez Borja (América) y Pablo Rojas (Jaguares).
+
+Por supuesto, siempre es mejor meter más goles que menos. Pero mientras José Sand parece estar en siete goles de manera convincente, Iván Rojas está marcando goles que se esperaría que no entraran. Eso tiene dos interpretaciones. Si bien el caso de Rojas es meritorio marca desde posiciones más complicadas que Sand, también habla bien del Cali: su delantero está marcando porque el equipo está colaborando para ubicarlo en buena posición. Él, buen delantero, no está fallando. La diferencia está en el mayor peso marginal de Rojas para Patriotas que Sand para el Cali. Uno aporta lo esperado, otro va más allá.

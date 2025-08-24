@@ -1,12 +1,0 @@
-10240
-El Espectador
-Continúa Kafka en la movilidad
-3 de diciembre de 2020
-Manuel Drezner
-Hace un tiempo informé sobre la situación kafkiana que los ciudadanos extranjeros viven para renovar su licencia de conducción. El señor Daniel Alejandro Bonilla, jefe de comunicaciones del SIM, mandó a la dirección del periódico una carta rectificatoria. En ella decía que el servicio de trámites para ciudadanos extranjeros se encuentra activado y en servicio en los puntos de atención del SIM (que) indica como mecanismo de validación para ciudadanos extranjeros la captura de huella.
-
-Eso dice el señor Bonilla, pero la realidad vivida por ellos es muy diferente. Un extranjero ha ido al SIM de la calle 106 y allí informan que el sistema no está habilitado para recibir huellas de extranjeros. En el SIM de la 161 dicen que solo puede tomarse la huella después del examen médico. En el examen médico dicen que este no se puede hacer si la huella no está registrada en el RUNT. En el RUNT dicen que el registro solo se puede hacer con cédula de ciudadanía, o sea que los extranjeros no lo tienen disponible. El Ministerio de Transporte afirma que no hay discriminación contra los extranjeros para sus trámites, lo cual evidentemente no es cierto, ya que el mecanismo de autenticación de huella en el RUNT solo está disponible para personas con cédula de ciudadanía.
-
-Si lo anterior suena a una novela de Kafka, donde el protagonista va de un lado a otro sin que le resuelvan nada, no es casualidad.
-
-Eso es discriminar contra extranjeros y todo se resolvería si la disponibilidad de trámites en el SIM y en el RUNT permitiera a todos los ciudadanos, colombianos y extranjeros, tener acceso a ellos. Mientras tanto, lo kafkiano sigue en pie y podría citar casos concretos de ciudadanos extranjeros que llevan más de tres meses tratando, sin éxito, de renovar su pase.

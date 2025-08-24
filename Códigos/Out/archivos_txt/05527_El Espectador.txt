@@ -1,0 +1,18 @@
+5527
+El Espectador
+Economía del deporte
+1 de septiembre de 2019
+Jorge Tovar
+La Conferencia Europea de Economía del Deporte, en su décima primera versión, tuvo lugar este año en Gijón, al norte de España. La economía del deporte es un área con un crecimiento significativo tanto en los Estados Unidos como en Europa. Consiste en estudiar problemas económicos desde una perspectiva sectorial. Además del interés en el deporte, suele tener como ventaja comparativa que los datos deportivos miden de manera más precisa situaciones que en otros sectores no se pueden medir fácilmente.
+
+Este año, la globalización y sus efectos tuvieron un papel preponderante. Si antes se estudiaban los determinantes de la asistencia a los estadios, o cómo el fútbol influía en los índices de audiencia televisiva, hoy preocupa que algunas ligas locales se están viendo afectadas por la transmisión de ligas extranjeras.
+
+Uno de los trabajos que me llamó la atención mostraba cómo la transmisión de la Premier League impacta negativamente sobre la audiencia de partidos de la MLS. El fútbol hoy no depende únicamente de variables nacionales.
+
+Estos resultados sugieren preguntas relevantes en nuestro medio. Pensemos en el futuro canal de pago por ver que está cada vez más cerca de estrenarse. Los estudios que se llevaron a cabo, o los que se están llevando a cabo y no conocemos, deben tener en cuenta que seguramente todo aquel que esté pagando por ver el fútbol colombiano también tiene fútbol internacional a su disposición. ¿Qué tan fuerte es la sustitución entre el fútbol inglés o español y la Liga Águila? ¿El precio fijado sí refleja esta disposición a pagar?
+
+Otro trabajo interesante analizó el efecto del fair play financiero, ese esfuerzo de los dirigentes de FIFA para reducir la creciente desigualdad en ingresos y desempeño deportivo en el mundo. El trabajo en cuestión encontraba que, si bien la medida ha logrado que la relación de salarios e ingresos tiende a converger, en la práctica tal convergencia no ha llegado acompañada de una mejora en el equilibrio competitivo. Es decir, los más ricos ingresan mucho más, pero igual pagan más. Quizás se está regulando el indicador equivocado.
+
+Un tercer trabajo muestra que estadísticamente el capital extranjero no mejora el desempeño de los equipos. Implica que los casos del Chelsea, Manchester City o PSG son aislados. Vender el equipo de nuestros amores a algún generoso extranjero con los bolsillos llenos no garantiza el éxito deportivo. Quizás se requiera además un plan deportivo detallado.
+
+En este sentido vale anotar que, aún siendo una conferencia de ámbito académico, el Manchester City mandó un analista. Sorprendido por el hecho le pregunté sobre el manejo de datos. No, era un analista de la división de negocios; no trabaja directamente con Guardiola. El Manchester City tiene analistas de datos y de negocios. El analista que fue a la conferencia ni siquiera trabaja en Manchester. Su trabajo lo desarrolla desde la oficina de Londres. Ellos, aparentemente, sí desarrollaron un modelo de expansión completo.

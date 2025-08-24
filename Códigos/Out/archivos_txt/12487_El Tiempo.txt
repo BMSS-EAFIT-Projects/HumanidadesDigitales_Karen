@@ -1,0 +1,26 @@
+12487
+El Tiempo
+La internet que conocemos está desapareciendo
+06 de diciembre de 2020
+Moisés Naím
+La internet global, descentralizada, no gubernamental, abierta y gratuita que existió en sus inicios ha venido desapareciendo.
+
+No es ni global, ni abierta. Más del 40 % de la población mundial vive en países donde el acceso a internet es controlado por las autoridades. El gobierno chino, por ejemplo, impide que desde su territorio se pueda acceder a Google, YouTube, Facebook, Instagram, Twitter, WhatsApp, CNN, Wikipedia, TikTok, Netflix o al New York Times, entre otros. Hay, por supuesto, versiones chinas de esos productos digitales. En India, Irán, Rusia, Arabia Saudita y muchos otros países el gobierno bloquea sitios de la red y censura sus contenidos.
+
+Internet tampoco es descentralizada. Es cierto que la red empoderó a individuos y grupos que ahora tienen más posibilidades de ser oídos y de influir sobre los demás y sobre sus gobiernos. Pero también es cierto que tanto los gobiernos como las grandes empresas tecnológicas, Google, Microsoft, Amazon o Facebook, concentran un inmenso poder sobre internet. Una tecnología de liberación política se ha convertido en una tecnología para la represión.
+
+La red no es gratuita. Las búsquedas por Google, los encuentros por Facebook, los mensajes por Twitter o las tertulias vía WhatsApp no son gratis, aunque lo parezcan. Las pagamos permitiendo que quienes nos regalan esos servicios sepan casi todo sobre nosotros. Esa información les permite dominar el negocio global de la publicidad.
+
+Pero quizás la tendencia más importante que está transformando internet es su ruptura en tres bloques. El mundo va en camino de tener una internet china, otra americana y otra europea.
+
+La internet china es cerrada, censurada, proteccionista y tiene altas barreras a la entrada para empresas de los países que están fuera de sus fronteras digitales. Estas ciberfronteras trascienden las fronteras geográficas del país e incluyen aliados como Corea del Norte y otros. Su principal ventaja competitiva son los casi mil millones de usuarios de internet que hay en China. Su protagonista más influyente es el gobierno central y sus servicios de seguridad nacional, inteligencia y control ciudadano. Su gran vulnerabilidad es tratar de usar barreras del pasado (proteccionismo y censura) para impedir la llegada de innovaciones que llegan a gran velocidad.
+
+La internet americana, en cambio, es anárquica, innovadora, comercial y con altas tendencias monopolistas. Los protagonistas centrales son las grandes empresas tecnológicas. Su acceso a enormes volúmenes de capital, talento tecnológico y capacidad de innovar le confieren un dinamismo que no tienen sus rivales.
+
+La vulnerabilidad de la internet americana es que el modelo de negocio basado en el trueque de servicios digitales gratuitos a cambio de los datos personales de los usuarios no es sostenible. Tampoco es sostenible el grado de monopolización que tienen las empresas tecnológicas. O su indiferencia ante el uso que actores malignos hacen de sus plataformas digitales para agudizar las divisiones sociales e influir en elecciones. Esto ya está comenzando a cambiar.
+
+El epicentro del ataque contra los defectos de la internet americana o los abusos de la china está en Europa. La internet europea es más regulada, trata de proteger a los usuarios, enfrenta los monopolios y defiende valores democráticos. La Comisión Europea ha impuesto billonarias multas a Google, Apple, Microsoft y otras empresas tecnológicas. En 2018, la Unión Europea adoptó el Reglamento General de Protección de Datos (RGPD), que define las pautas para la recolección, almacenamiento y gestión de datos personales. Este reglamento es la manifestación concreta de un enfoque legal que trata a la protección de los datos personales como un derecho humano fundamental. Mientras que China basa su influencia en su tamaño y su régimen autocrático y Estados Unidos en su dinamismo empresarial e innovación tecnológica, Europa tratará de influir exportando reglas basadas en valores democráticos y humanísticos.
+
+Estos tres bloques ya están batallando ferozmente por mantener el control sobre su área de soberanía digital y las fricciones entre ellos son obvias. Además de aplicar sus leyes antimonopolio a las empresas estadounidenses, la amenaza de los europeos es la de restringir el acceso a su mercado a las empresas tecnológicas que no adopten sus reglas. Por su parte, Estados Unidos impone sanciones y bloquea empresas como Huawei y, naturalmente, China contraataca.
+
+Tendremos tres internet, pero la batalla definitoria es entre Estados Unidos y China. Y las confrontaciones de estas superpotencias digitales no se restringirá al ciberespacio y a la protección y ampliación de su soberanía digital. Ya las vemos en los esfuerzos de Washington y Pekín para garantizar que sus empresas dominen las tecnologías de 5G, la nueva generación de telefonía móvil que revolucionará las comunicaciones y cambiará internet. Estas, sin embargo, son tan solo escaramuzas, ya que el gran choque es sobre quién tendrá el liderazgo en el ámbito de la Inteligencia Artificial, la tecnología que cambiará el mundo. Esta revolución apenas comienza.

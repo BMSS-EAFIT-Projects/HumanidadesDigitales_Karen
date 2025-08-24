@@ -1,0 +1,22 @@
+205
+El Espectador
+Lección 1 del e-censo: no matar a la mensajera
+18 de enero de 2018
+Carolina Botero Cabrera
+Para enfrentar problemas de seguridad digital, el CONPES de 2016 sugiere promover la responsabilidad compartida y construir confianza. Usando estas pautas, el DANE podía haber enfrentado mejor las denuncias que recibió por problemas de seguridad en el censo digital.
+
+La ingeniera de software Juliana Peña enfrenta el escarnio público por identificar una serie de problemas en la forma como el DANE diseñó la plataforma para el censo digital. Pero no ha sido la única, otros como Julian Alarcón o Mauricio Duque también han mostrado problemas. Las denuncias han mejorado el sistema, aunque, lastimosamente, también se han usado para alimentar cadenas de desinformación que debemos rechazar. Lo que no se justifica es que la respuesta del gobierno sea desacreditar y acusar a quien denuncia. Hay otras formas de manejar la crisis.
+
+El DANE reaccionó a esas denuncias haciendo lo que tenían que hacer: mejoró la seguridad digital de su plataforma. Adicionalmente, creó un puesto de mando unificado para dar respuesta oportuna a eventos e incidentes de seguridad cibernética. Hasta ahí todo bien.
+
+Desafortunadamente, el DANE también decidió "matar a la mensajera" (especialmente a Peña), acuñando una expresión equivocada como "pánico informático", desacreditando a Peña por no ser experta en seguridad digital (algo que ella siempre reconoció), y señalando que se trata de afirmaciones (que) son falsas, irresponsables, apresuradas y han atentado contra la confianza que los colombianos han depositado en la operación estadística más grande e innovadora que ha realizado el país. El DANE decidió solamente proteger su reputación. Por eso, en mi opinión, con esta actitud quien atenta contra la confianza es el DANE.
+
+El DANE podría haber manifestado su desacuerdo porque la ingeniera publicó antes de contarles. Si bien es un reclamo válido, hay que decir que el gobierno no ha creado canales ni mecanismos para denunciar problemas de seguridad digital identificados por la ciudadanía. Creo que lo más correcto hubiese sido reconocer que el examen público es legítimo, que sí había problemas y mostrar la forma como los corrigieron, haciendo gala de transparencia.
+
+Esta es la forma como se enfrentan los problemas de seguridad digital y se educa a las personas. Recordando una y otra vez que no hay seguridad digital al 100%, que es un problema compartido por todos los sectores y personas, y mostrando disposición a mejorar y a apoyar a quienes identifican los problemas, los denuncian y no se aprovechan de la situación. La forma como mitigan los riesgos es decisión y responsabilidad de la organización, pero en la medida en que manejan nuestros datos sí deben justificarla.
+
+Otro problema que identifico es la reacción de Microsoft Colombia, que salió a desmentir la vinculación de la ingeniera con la empresa para respaldar la posición del gobierno. Peña siempre dijo que trabajaba para Microsoft, pero no en Colombia, e insistió en que no hablaba en nombre de la empresa. Sin embargo, Microsoft responde a un no-problema y, de paso, ataca su reputación. Al final se trataba de que ella, como ciudadana interesada, advirtió la existencia de un problema real.
+
+Es una lástima, porque con nuestra creciente dependencia de sistemas digitales de información, es importante resaltar que su seguridad dependerá de promover mecanismos de responsabilidad compartida ya previstos en el CONPES de seguridad digital, donde cada actor tiene roles diferentes. Esto supone que las organizaciones del sector público y privado se enfrentarán con mayor frecuencia a una ciudadanía conocedora y exigente que analiza y revisa los sistemas de información con los que interactúa.
+
+Debemos apoyar a Juliana Peña, quien nos hizo un gran favor, reconocer la pronta reacción del DANE y la importancia que le dio al proceso, aunque su reacción con la denunciante sea equivocada. También debemos pedir que se aproveche lo sucedido para que otros sistemas no cometan el mismo error, que aprendamos algo de todo esto y que el compromiso del país con un ecosistema digital más seguro y participativo sea real. La seguridad de un sistema público no puede depender solo de sus expertos, debe admitir la mirada crítica de cualquiera.

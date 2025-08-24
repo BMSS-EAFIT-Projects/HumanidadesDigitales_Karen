@@ -1,0 +1,32 @@
+2153
+El Espectador
+Presidente Duque: cuídese del solucionismo tecnológico
+11 de agosto de 2018
+Carolina Botero Cabrera
+A lo largo y ancho de su discurso de posesión, temas como la factura electrónica, la economía naranja, internet de las cosas o la robótica aparecían como soluciones tecnológicas en las que el nuevo Gobierno se enfocará. No vi la tecnología definida como una parte importante de las soluciones a grandes problemas de política pública, sino como la solución.
+
+Al decir solucionismo tecnológico me refiero a la idea de que todo se arregla, desde el crimen y la corrupción hasta el cambio climático o la diabetes, por medio de estrategias digitales. En ese proceso, no solo la solución toma el protagonismo del problema, sino que como lo denuncian autores como Evgeny Morozov  deja de lado las trampas y peligros de lo que es, sobre todo, una fantasía sin fisuras.
+
+Sin duda, en sus diferentes campos, las tecnologías pueden ayudar para hacer más eficiente al Estado, evitar graves problemas como la corrupción o facilitar procesos de innovación y educación. Pero no son soluciones mágicas: ¿qué pasa si entendemos esta era de tanta concentración tecnológica como una de las caras de la desigualdad? ( Natalia Zuazo ).
+
+Llevo años analizando, apreciando y hablando sobre el poder emancipador de internet, sobre su capacidad generativa e innovadora, empoderadora. Pero en ese proceso también he identificado y denunciado cómo esas mismas capacidades pueden tener efectos negativos.
+
+Para ilustrar mi punto le contaré cómo una solución tecnológica está afectando el acceso a la salud de muchos campesinos.
+
+En las últimas semanas, operadores POS como Famisanar están implementando una sencilla y fabulosa solución tecnológica para facilitar la vida de las personas: entregar las autorizaciones para exámenes y terapias a través del correo electrónico.
+
+Uno de los lugares en donde está sucediendo esto es Villeta, en Cundinamarca. A pesar de su cercanía con Bogotá (menos de 100 km), en esta zona la señal de celular es mala y no hay fibra óptica aunque los ciudadanos la ven pasar por la puerta de su casa rumbo a Bogotá.
+
+La solución de Famisanar a la autorización de exámenes está generando desespero en la población, ya no por la lentitud e ineficiencia de la fila tradicional, o por lo costoso que resulta para la economía campesina, en tiempo y en dinero, desplazarse desde las veredas hasta Villeta para hacer trámites o recibir atención médica. Ahora, la ansiedad es producto de la espera de un correo electrónico que desmaterializó su trámite, su derecho a la salud.
+
+Cuando el desespero llega al límite, los usuarios deben desplazarse a Villeta para averiguar y pedir que les hagan la autorización como siempre se las han hecho. La respuesta que reciben es que sigan esperando el correo.
+
+Como en buena parte del país, el acceso a internet allí es difícil. De acuerdo con el Banco Mundial, Colombia aumenta la penetración de 36,5% en 2010 a 58,1% en 2016 (últimos datos registrados), y crece en conexiones a internet celular que en su mayoría corresponden a planes de datos muy limitados. La mayoría de las personas tienen planes prepago en los que el uso de internet depende esencialmente de aplicaciones que se ofrecen gratis (porque no afectan el consumo de datos, como Facebook, WhatsApp, o Twitter) y entre las que no está el correo electrónico.
+
+Algunos pensarían que no hay problema, ya que existe Vive Digital. Le cuento que en uno de esos pueblos, en marzo de este año, aún no se contrataba a la persona de la biblioteca donde está el punto Vive Digital y, en todo caso, ese punto no abre el domingo el día de mercado en que todos bajan al pueblo.
+
+Entonces, la solución que facilita la vida a usted o a mí en Bogotá a ellos les impone una barrera que, muy pronto, intermediarios emprendedores van a explotar para encarecer aún más su ya costoso periplo por la salud. Pero a eso súmele que esa intermediación incluso si suponemos que alguien con conexión a internet les ayuda gratis les quita a ellos el control sobre sus trámites, sobre su derecho a la salud, sobre sus datos de salud.
+
+¿Acaso alguien dentro de Famisanar o en la Superintendencia de Salud está pensando en cuánto afectan estas soluciones tecnológicas el ejercicio efectivo del derecho a la salud de los campesinos?
+
+Presidente Duque, uso el ejemplo de salud que me indigna esta semana-- para darle un consejo al comienzo de su gobierno: en materia de tecnología es importante que piense cómo nuestro país se desarrolla a velocidades diferentes y cómo las soluciones únicas solo agrandan las brechas que ya existen. Le aconsejo que en los cuatro años de su mandato no pierda de vista que lo importante es el problema que intenta resolver, y que la tecnología es tan solo una herramienta más a su alcance.

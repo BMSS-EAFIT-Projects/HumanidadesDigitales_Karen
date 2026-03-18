@@ -616,7 +616,14 @@ The ten most frequent entities by class (Person, Organization, and Location) are
 \subsection{Topic modeling}
 Initially, this topic modeling exercise was performed on the entire corpus, with the aim of characterizing the general thematic structure of the opinion columns before focusing the analysis on the science subcorpus. To do this, the model was run by varying the parameter \textit{num\_topics}, which defines the maximum number of topics that can be estimated. Each parameter setting produces a different model, understood here as a specific semantic grouping structure in which the fragments of the corpus are distributed across a given set of latent topics.
 
-For each estimated model, the coherence metric \textit{c\_v} was calculated, which evaluates the degree of internal semantic consistency of the most representative terms for each topic. In general terms, higher coherence values indicate that the words defining a topic tend to co-occur in the corpus, which is usually associated with greater interpretability from a human perspective. Reporting the results for different configurations allows us to compare the thematic quality of the models and justify the selection of the most appropriate number of topics. The results obtained are presented in Table~\ref{tab:coherence_topics}.
+ For each estimated model, the coherence metric 
+ $c_v$ was calculated, which evaluates the
+ degree of internal semantic consistency of the most representative terms for each topic. In
+ general terms, higher coherence values indicate that the words defining a topic tend to co-occur
+ in the corpus, which is usually associated with greater interpretability from a human perspective.
+ Reporting the results for different configurations allows us to compare the thematic quality
+ of the models and justify the selection of the most appropriate number of topics. The results
+ obtained are presented in Table~\ref{tab:coherence_topics}.
 
 \begin{table}[H]
 	\centering

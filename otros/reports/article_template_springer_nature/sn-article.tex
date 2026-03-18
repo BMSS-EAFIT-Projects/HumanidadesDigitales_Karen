@@ -96,7 +96,7 @@
 	
 	\subsection{Data Collection}\label{subsec:data}
 	
-	A total of 13,000 opinion columns were collected from three widely circulated Colombian print media outlets. These columns were published between January 2018 and December 2020. At this stage, the only selection criterion was that the column consist entirely of written text and not require video or audio to understand its content. The columns were not selected based on any specific topic. For each opinion column, the following metadata were collected: the name of the newspaper, the author, the date, the title, the full text (body) of the column, and the URL. Each text was verified to ensure uniqueness (i.e., no duplicated columns), and author names were standardized. After this process, a unique identification number was assigned to each opinion column.
+	Around 13,000 opinion columns were collected from three widely circulated Colombian print media outlets. These columns were published between January 2018 and December 2020. At this stage, the only selection criterion was that the column consist entirely of written text and not require video or audio to understand its content. The columns were not selected based on any specific topic. For each opinion column, the following metadata were collected: the name of the newspaper, the author, the date, the title, the full text (body) of the column, and the URL. Each text was verified to ensure uniqueness (i.e., no duplicated columns), and author names were standardized. After this process, a unique identification number was assigned to each opinion column. Table \ref{tab:col_autores_periodico} summarizes the distribution of columns and authors by newspaper.
 	
 	\begin{table}[t]
 		\caption{Distribution of columns and authors by newspaper.}
@@ -231,6 +231,7 @@
 	
 	Once the full corpus of opinion columns had been segmented, a total of $m = 62{,}651$ fragments were obtained. Each fragment was represented by an embedding and compared with the $n = 17$ vectors corresponding to the UNESCO Thesaurus categories for Science. For each pair $(i,j)$, cosine similarity was computed between the embedding of text fragment $i$ and the embedding of category $j$. This procedure yielded a similarity matrix $\mathbf{S} \in \mathbb{R}^{m \times n}$, defined as:
 	
+	
 	\begin{equation}
 		\mathbf{S} =
 		\begin{bmatrix}
@@ -249,31 +250,49 @@
 	j^*(i) = \arg\max_{j \in \{1,\dots,17\}} s_{i,j}.
 	\]
 	
-	However, this assignment criterion implies that every fragment is classified into some category, even when its similarity levels are low in absolute terms. For this reason, a selection threshold $\tau \in [0,1]$ was introduced. A fragment $i$ is considered an effective mention of science only if
+	However, this assignment criterion implies that every fragment is classified into some category, even when its similarity levels are low in absolute terms. In other words, the relative maximum procedure does not distinguish between fragments that exhibit a substantively meaningful semantic affinity with the scientific field and those whose proximity is weak or merely incidental. For this reason, a selection threshold $\tau \in [0,1]$ was introduced. A fragment $i$ is considered an effective mention of science only if
 	\[
 	\max_{j} s_{i,j} \geq \tau.
 	\]
 	
-	To determine an appropriate value for $\tau$, a manual validation was conducted based on close reading of a sample of fragments. Values below $0.4$ tended to correspond to weak semantic associations. From fragments whose maximum similarity score exceeded $0.4$, ten fragments were randomly selected for each of the 17 Thesaurus categories, yielding a validation sample of 170 fragments. Each fragment was manually classified as either an ``effective mention of science'' or a ``non-mention.''
+	Otherwise, the fragment is not classified as a scientific mention, even if it has been assigned a category under the relative maximum criterion. The appropriate definition of this threshold is crucial, as it allows maximizing the distinction between fragments that contain substantive references to the scientific field and those that do not.
 	
-	Figure~\ref{fig:accuracy-umbral} shows the evolution of accuracy as a function of the threshold $\tau$. Each point on the curve corresponds to the accuracy obtained by applying a specific value of $\tau$ to the validation sample.
+	To determine an appropriate value for the threshold $\tau$, a manual validation was conducted based on close reading of a sample of fragments. The purpose of this reading was to construct a reference classification that would make it possible to assess whether the fragments automatically identified through cosine similarity as scientific mentions were indeed so from an interpretative standpoint.
 	
-	\begin{figure}[t]
+	As a preliminary step, the empirical distribution of the maximum similarity scores $j^*(i)$ was examined, and it was observed that values below 0.4 tended to correspond to weak semantic associations. Based on this exploratory inspection, 0.4 was set as an initial cutoff point for constructing the validation sample.
+	
+	Fragments whose maximum similarity score exceeded 0.4 were then filtered. From this subset, 10 fragments were randomly selected for each of the 17 Thesaurus categories, yielding a total of 170 fragments. Each fragment was read and manually classified as either an “effective mention of science” or a “non-mention,” depending on whether its content substantively corresponded to the assigned scientific field.
+	
+	This manual classification made it possible to compare the automatic assignment with human evaluation. In the automated procedure, each fragment is associated with the category exhibiting the highest similarity $j^*(i)$, but it is considered an effective mention of science only if the maximum similarity value $\max_j s_{i,j}$ exceeds the threshold $\tau$. Accuracy was calculated as the proportion of matches between the manual reference classification and the automatic decision (assignment combined with threshold validation). By evaluating different values of $\tau$, it was possible to identify the point that maximizes agreement between the computational procedure and the interpretative reading.
+	
+	\begin{figure}[H]
 		\centering
-		\includegraphics[width=\columnwidth]{figures/accuracy_umbral.png}
-		\caption{Accuracy by threshold value $\tau$.}
+		\includegraphics[width = 0.47\textwidth]{figures/accuracy_umbral.png}
+		\caption{Accuracy by threshold.}
 		\label{fig:accuracy-umbral}
 	\end{figure}
 	
-	The appropriate definition of this threshold is crucial: if the threshold were lower, weak semantic associations would be included; if it were higher, fragments containing substantive references to science would be excluded. Applying $\tau = 0.47$ to the 170 manually evaluated fragments yields an accuracy close to $0.74$, meaning that approximately 74\% of the automatic decisions coincide with the classification obtained through close reading. With the selected threshold, the procedure was applied to the full set of $62{,}651$ corpus fragments, resulting in the identification of a subcorpus composed of $7{,}267$ chunks that meet the criterion of an effective mention of science.
+	
+	Figure~\ref{fig:accuracy-umbral} shows the evolution of accuracy as a function of the threshold $\tau$ used to determine whether a corpus fragment constitutes an effective mention of science. The horizontal axis represents the different possible threshold values, while the vertical axis displays the level of agreement between the automatic classification and the manual reference classification. Each point on the curve corresponds to the accuracy obtained by applying a specific value of $\tau$ to the validation sample. The graph illustrates how model performance varies as the decision criterion becomes more or less stringent.
+	
+	For example, if the threshold is set at $\tau = 0.47$, a fragment is classified as a scientific mention only when its maximum similarity with one of the 17 Thesaurus categories satisfies
+	\[
+	\max_j s_{i,j} \ge 0.47.
+	\]
+	
+	Applying this criterion to the 170 manually evaluated fragments yields an accuracy close to 0.74. This means that approximately 74\% of the automatic decisions coincide with the classification obtained through close reading. In practical terms, the model reproduces human judgment in nearly three out of four cases. This value represents a point of balance: if the threshold were lower, weak semantic associations would be included; if it were higher, fragments containing substantive references to science would be excluded.
+	
+	With the selected threshold, the procedure was applied to the full set of $62{,}651$ corpus fragments, resulting in the identification of a subcorpus composed of $7{,}267$ chunks that meet the criterion of an effective mention of science. This subcorpus constitutes the basis for the subsequent thematic analyses.
+	
+	
 	
 	\subsection{Descriptive and Exploratory Analyses of the Text}\label{subsec:descriptive}
 	
-	To characterize the corpus and establish an appropriate foundation for subsequent analyses, a general descriptive procedure was conducted through the calculation of various statistics. These included the total number of words, the number of unique words, as well as the maximum and minimum document length per column.
+	To characterize the corpus and establish an appropriate foundation for subsequent analyses, a general descriptive procedure was conducted through the calculation of various statistics. These included the total number of words, the number of unique words, as well as the maximum and minimum document length per column. Such indicators make it possible to assess the structure and scope of the text collection prior to advancing toward more specific analyses.
 	
 	Additionally, in order to obtain an exploratory approximation of the discursive content, two word clouds were generated: one corresponding to the full corpus and another to the science subcorpus. Their construction involved preprocessing steps including text cleaning, normalization, and tokenization. The word clouds were built from term frequencies, facilitating a preliminary comparison of the predominant vocabularies in each dataset.
 	
-	Finally, a temporal analysis was conducted based on the calculation of the monthly volume of documents and the identification of those containing science-related mentions, enabling the construction of a chronological series.
+	Finally, a temporal analysis was conducted based on the calculation of the monthly volume of documents and the identification of those containing science-related mentions. This procedure enabled the construction of a chronological series intended to examine the temporal dynamics of thematic presence in subsequent stages of the analysis.
 	
 	\subsection{Entity Analysis -- NER}\label{subsec:ner}
 	
@@ -285,7 +304,7 @@
 	
 	\subsection{Analysis of Topics}\label{subsec:topics}
 	
-	Once the science-related mentions had been identified and the corresponding subcorpus constructed, topic modeling was conducted in order to infer the latent thematic structures present in both the general corpus and the science subcorpus. Topic modeling comprises a set of unsupervised methods aimed at discovering recurrent semantic patterns within a collection of documents~\cite{Abdelrazek2023}. Conceptually, these methods seek to model three fundamental entities: the document collection, the latent topics, and the constructs that compose them.
+	Once the science-related mentions had been identified and the corresponding subcorpus constructed, topic modeling was conducted in order to infer the latent thematic structures present in both the general corpus and the science subcorpus. Topic modeling comprises a set of unsupervised methods aimed at discovering recurrent semantic patterns within a collection of documents~\cite{Abdelrazek2023}. Conceptually, these methods seek to model three fundamental entities: the document collection, the latent topics, and the constructs that compose them. In this context, the constructs correspond to the lexical units (words or terms) that make up the analyzed fragments.
 	
 	From a mathematical standpoint, a topic can be understood as a probability distribution over the vocabulary of the corpus. That is, given a set of words $w_1, w_2, \dots, w_V$ that constitute the vocabulary, a topic $k$ is represented as a probability vector:
 	\[
@@ -293,15 +312,20 @@
 	\]
 	where $P(w_v \mid k) \ge 0$ and $\sum_{v=1}^{V} P(w_v \mid k) = 1$.
 	
+	For example, a topic associated with the field of health might assign higher probabilities to terms such as \textit{vaccine}, \textit{epidemic}, \textit{hospital}, or \textit{public health}, while other words in the vocabulary would receive probabilities close to zero. In this way, a topic is not defined by a single word, but rather by a probabilistic structure that describes the relative relevance of terms within that latent theme.
+	
 	The literature identifies four major families of methods for topic modeling: algebraic, fuzzy, probabilistic, and neural. Among neural approaches, BERTopic~\cite{Grootendorst2022} stands out, as it combines pre-trained embeddings, dimensionality reduction, and clustering algorithms to identify groups of documents with high semantic proximity.
 	
-	Since embeddings had already been used in earlier stages of the analysis to represent corpus fragments, methodological coherence was maintained by employing the same vector representation model (\texttt{embeddinggemma-300m}) for topic modeling. The model was applied to both the full corpus and the science subcorpus, enabling subsequent comparisons between general thematic configurations and those specifically associated with scientific discourse.
+	
+	
+	Since embeddings had already been used in earlier stages of the analysis to represent corpus fragments, methodological coherence was maintained by employing the same vector representation model (\texttt{embeddinggemma-300m}) for topic modeling. The model was applied to both the full corpus and the science subcorpus, enabling subsequent comparisons between general thematic configurations and those specifically associated with scientific discourse. The implementation in Python allowed control over various components of the process, including the embeddings model, the maximum number of topics to estimate, and the minimum number of documents required to form a topic. In addition, an outlier reduction procedure was applied to decrease the number of unassigned fragments and enforce a more exhaustive classification.
 	
 	To evaluate the quality of the estimated topics, the topic coherence metric was used. This measure, based on probabilistic principles of term co-occurrence, has been shown to correlate positively with human interpretability of topics~\cite{Rder2015}. In order to select the optimal number of topics, the model was run with different parameter values, and the corresponding coherence was calculated in each case. The value that maximized this metric was adopted as the final configuration of the model.
+
 	
 	\subsection{Vocabulary Analysis with POS-Tagging}\label{subsec:pos}
 	
-	In order to identify the most relevant vocabulary associated with scientific discourse in opinion columns, a frequency analysis of verbs, adjectives, and nouns was conducted for both the general corpus and the science subcorpus. To obtain these grammatical categories, a Part-of-Speech Tagging (POS-tagging) model was employed. This task consists of assigning each word its corresponding syntactic category~\cite{he2020surveyrecentadvancessequence}. POS-tagging constitutes a fundamental component in various natural language processing applications, such as machine translation, information retrieval and extraction, syntactic parsing, semantic disambiguation, and sentiment analysis~\cite{Chiche2022}.
+	In order to identify the most relevant vocabulary associated with scientific discourse in opinion columns, a frequency analysis of verbs, adjectives, and nouns was conducted for both the general corpus and the science subcorpus. To obtain these grammatical categories, a Part-of-Speech Tagging (POS-tagging) model was employed. This task consists of assigning each word its corresponding syntactic category (noun, verb, adjective, preposition, among others) ~\cite{he2020surveyrecentadvancessequence}. POS-tagging constitutes a fundamental component in various natural language processing applications, such as machine translation, information retrieval and extraction, syntactic parsing, semantic disambiguation, and sentiment analysis~\cite{Chiche2022}.
 	
 	For this study, the Stanza POS-tagger was used. Stanza is a Python-based linguistic analysis package that includes models trained for multiple languages, including Spanish~\cite{qi2020stanza}. This model was selected due to its reported performance metrics and its suitability for journalistic texts. In the analyzed corpus, it exhibited consistent behavior, enabling the reliable extraction of the grammatical classes required for the comparative frequency analysis.
 	
@@ -310,7 +334,7 @@
 	%%---------------------------------------------------------
 	\section{Results}\label{sec:results}
 	
-	In this section, the results derived from the methodological procedure described above are presented, following the same analytical sequence. First, the identification of effective mentions of science and the delimitation of the corresponding subcorpus are reported. Subsequently, descriptive and exploratory analyses are presented to quantitatively characterize its presence within the corpus. Next, the results of the named entity recognition task are introduced in order to identify actors and institutions associated with scientific discourse. This is followed by the findings of the topic modeling, which allow the inference of latent thematic structures in both the general corpus and the science subcorpus. Finally, lexical and grammatical patterns are analyzed through POS-tagging techniques.
+	In this section, the results derived from the methodological procedure described above are presented, following the same analytical sequence. First, the identification of effective mentions of science and the delimitation of the corresponding subcorpus are reported. Subsequently, descriptive and exploratory analyses are presented to quantitatively characterize its presence within the corpus. Next, the results of the named entity recognition task are introduced in order to identify actors and institutions associated with scientific discourse. This is followed by the findings of the topic modeling, which allow the inference of latent thematic structures in both the general corpus and the science subcorpus. Finally, lexical and grammatical patterns are analyzed through POS-tagging techniques, contributing to a more detailed understanding of the linguistic form adopted by the representation of science in the public sphere.
 	
 	\subsection{Identification of Mentions of Science}\label{subsec:mentions}
 	
@@ -352,6 +376,10 @@
 	
 	\subsection{Descriptive and Exploratory Analyses}\label{subsec:descriptive_results}
 	
+	Table \ref{tab:estadisticos_generales} presents some descriptive statistics of the corpus, such as the number of documents, number of words, number of words per document, among others. 
+	
+	Furthermore, Figure \ref{fig:nube_comparativa} shows two word clouds: the first corresponds to the entire corpus and the second to the science corpus. These allow us to visualize the relevant vocabulary and appreciate how it varies in both cases.
+	
 	\begin{table}[t]
 		\caption{General descriptive statistics of the corpus.}
 		\label{tab:estadisticos_generales}
@@ -392,7 +420,7 @@
 	
 	Figure~\ref{fig:dist_mensual_ciencia} shows, for each month in the analyzed period, the percentage of columns containing at least one effective mention of science relative to the total number of columns published in that month. A notable increase can be observed in March and April 2020, the months with the highest proportion of mentions, suggesting a direct association between the intensification of scientific discourse and the onset of the COVID-19 pandemic.
 	
-	\begin{figure}[t]
+	\begin{figure}[h!]
 		\centering
 		\includegraphics[width=\columnwidth]{figures/porcentaje_mensual_ciencia_linea.png}
 		\caption{Monthly distribution of columns mentioning science, by percentage.}
@@ -401,7 +429,7 @@
 	
 	\subsection{Named Entity Recognition}\label{subsec:ner_results}
 	
-	The ten most frequent entities by class (Person, Organization, and Location) are presented below, considering only those whose occurrence exceeds 30\% of the subcorpus of fragments with effective mentions of science. This criterion makes it possible to focus the analysis on the actors, institutions, and geographic spaces with the greatest centrality in the scientific discourse of opinion columns.
+	The ten most frequent entities by class (Person, Organization, and Location) are presented below, considering only those whose occurrence exceeds 30\% of the subcorpus of fragments with effective mentions of science. This criterion makes it possible to focus the analysis on the actors, institutions, and geographic spaces with the greatest centrality in the scientific discourse of opinion columns. The results of the most relevant entities are presented in Tables \ref{tab:ents_per}, \ref{tab:ents_org}, and \ref{tab:ents_loc}, respectively.
 	
 	\begin{table*}[t]
 		\caption{Comparative frequency of persons in the general corpus vs.\ the scientific corpus.}
@@ -457,43 +485,64 @@
 				\toprule
 				\textbf{Entity (LOC)} & \textbf{Corpus Freq.} & \textbf{Science Freq.} & \textbf{\% Sci./Corp.} & \textbf{Description} \\
 				\midrule
-				Colombia        & 16017 & 2066 & 39 & South American country, official language Spanish. \\
-				Bogot{\'a}      & 2745  & 778  & 28 & Capital of Colombia. \\
-				Latin America   & 1690  & 571  & 34 & Region comprising Spanish- and Portuguese-speaking countries south of the US. \\
-				Amazon          & 710   & 373  & 53 & Biogeographical region covering the Amazon River basin. \\
-				Medell{\'i}n    & 1127  & 308  & 27 & Second largest city of Colombia; capital of the department of Antioquia. \\
-				Pacific         & 598   & 290  & 49 & Region corresponding to the Colombian Pacific coast. \\
-				Orinoquia       & 308   & 193  & 63 & Biogeographical region in eastern Colombia. \\
-				Cali            & 715   & 213  & 30 & Third largest city of Colombia. \\
-				Paris           & 619   & 207  & 33 & Capital of France. \\
-				Andes           & 396   & 195  & 49 & Mountain range crossing South America from north to south. \\
+				Amazonia & 306 & 112 & 37.21 & Biogeographic region encompassing the tropical rainforest of the Amazon basin in South America. \\
+				Hidroituango & 127 & 46 & 36.22 & Hydroelectric project in Antioquia, Colombia, on the Cauca River. \\
+				Cauca River & 93 & 33 & 32.58 & Second most important river in Colombia, traversing the Andean region. \\
+				Orinoquia & 40 & 14 & 35.00 & Natural region of Colombia and Venezuela, also known as the Eastern Plains. \\
+				Bogotá River & 31 & 16 & 51.61 & River crossing the Bogotá savanna, facing significant pollution issues. \\
+				Sabana & 28 & 13 & 46.43 & Reference to the Bogotá Savanna, a high plateau in the Eastern Cordillera. \\
+				Parques Nacionales Naturales (PNN) & 35 & 15 & 33.33 & Colombia's system of protected areas, under the jurisdiction of the Ministry of Environment. \\
+				Caribbean Sea & 20 & 7 & 35.00 & Tropical open sea of the Atlantic Ocean, bordering the northern coast of Colombia. \\
+				Mocoa & 18 & 9 & 50.00 & Capital city of the department of Putumayo, Colombia, in the Amazon region. \\
 				\botrule
 			\end{tabular}
 		}
 	\end{table*}
 	
 	\subsection{Analysis of Topics}\label{subsec:topic_results}
+	 
 	
-	Topic modeling was first applied to the full corpus. Table~\ref{tab:bertopic_nr_topics_all} presents the results of BERTopic for different values of \texttt{num\_topics}, and Table~\ref{tab:bertopic_coherence_top} shows the top topics of the selected model.
+	Initially, this topic modeling exercise was performed on the entire corpus, with the aim of
+	characterizing the general thematic structure of the opinion columns before focusing the analysis
+	on the science subcorpus. To do this, the model was run by varying the parameter \textit{num\_topics},
+	which defines the maximum number of topics that can be estimated. Each parameter setting
+	produces a different model, understood here as a specific semantic grouping structure in which
+	the fragments of the corpus are distributed across a given set of latent topics.
 	
+	 For each estimated model, the coherence metric $c_v$ was calculated, which evaluates the
+	 degree of internal semantic consistency of the most representative terms for each topic. In
+	 general terms, higher coherence values indicate that the words defining a topic tend to co-occur
+	 in the corpus, which is usually associated with greater interpretability from a human perspective.
+	 Reporting the results for different configurations allows us to compare the thematic quality
+	 of the models and justify the selection of the most appropriate number of topics. The results
+	 obtained are presented in Table 8.
+	 
 	\begin{table}[t]
 		\caption{BERTopic results for different values of \texttt{num\_topics}, full corpus.}
-		\label{tab:bertopic_nr_topics_all}
+		\label{tab:coherence_topics}
+		\centering
+		\footnotesize
 		\begin{tabular}{@{}cccc@{}}
 			\toprule
-			\textbf{num\_topics} & \textbf{Final topics} & \textbf{Coherence $c_v$} & \textbf{\% Outliers} \\
+			\textbf{num\_topics} & \textbf{Final topics} & \textbf{Coherence $c_v$} & \textbf{\% outliers} \\
 			\midrule
-			auto & 38 & 0.722461 & 0.0 \\
-			20   & 19 & 0.715830 & 0.0 \\
-			30   & 25 & 0.711820 & 0.0 \\
-			40   & 35 & 0.707073 & 0.0 \\
-			60   & 47 & 0.698219 & 0.0 \\
-			10   & 9  & 0.674196 & 0.0 \\
-			\botrule
+			auto & 63 & 0.681 & 0.0 \\
+			60   & 59 & 0.671 & 0.0 \\
+			30   & 29 & 0.652 & 0.0 \\
+			40   & 39 & 0.635 & 0.0 \\
+			20   & 19 & 0.545 & 0.0 \\
+			10   & 9  & 0.480 & 0.0 \\
+			\bottomrule
 		\end{tabular}
 	\end{table}
 	
+	The number of final topics is one less than the value initially defined by the parameter, since applying the reduction of outliers eliminates the topic that groups together documents considered atypical. It can be seen that, in general, as the maximum number of topics increases, the coherence value tends to increase, suggesting greater semantic homogeneity within each grouping. In particular, when the model automatically determines the number of topics, 63 final topics are obtained and the highest coherence value among the configurations evaluated.
+	
+	Maintaining the 63-topic model, Table \ref{tab:bertopic_coherence_top} presents the 10 topics with the highest percentage of grouped documents, along with the coherence value calculated for each one and their respective representative words. Together, these 10 topics account for 70\% of the fragments analyzed.
+	
 	\begin{table*}[t]
+		\centering
+		\small
 		\caption{Top BERTopic topics with per-topic coherence ($c_v$), percentage of documents, and representative keywords (full corpus).}
 		\label{tab:bertopic_coherence_top}
 		\begin{tabularx}{\textwidth}{@{}cccX@{}}
@@ -504,7 +553,7 @@
 			2  & 0.8437 & 5.58  & economy, taxes, growth, income, fiscal, companies, rate, employment, gdp, deficit \\
 			1  & 0.7322 & 5.27  & pandemic, virus, health, coronavirus, covid19, world, quarantine, measures, crisis, people \\
 			3  & 0.8185 & 4.25  & education, students, university, universities, quality, training, higher, national, teachers, schools \\
-			4  & 0.8427 & 3.34  & women, woman, men, sexual, violence, gender, sex, feminism, harassment \\
+			4  & 0.8427 & 3.34  & women, woman, men, sexual, violence, gender, sex, feminism, harassment, sexual \\
 			7  & 0.6890 & 2.53  & networks, information, data, facebook, media, social, communication, people, internet, twitter \\
 			8  & 0.7879 & 2.23  & hectares, rural, deforestation, land, agriculture, producers, agricultural, crops, development \\
 			5  & 0.8642 & 2.13  & football, players, team, game, teams, cup, national team, sport, goal, world cup \\
@@ -514,24 +563,29 @@
 		\end{tabularx}
 	\end{table*}
 	
-	The same procedure was applied to fragments classified as references to science. Table~\ref{tab:bertopic_nr_topics_ciencia} presents the results for different parameter values; the best model among those evaluated was the one with 20 topics. For this model, the results are presented in Table~\ref{tab:topics_ciencia}. Ninety percent of the documents were concentrated in the first 10 topics, indicating high thematic concentration.
+	The same procedure was applied to fragments classified as references to science. 
+	Table~\ref{tab:bertopic_nr_topics_ciencia} presents the results for different parameter values; the best model among those evaluated was the one with 20 topics. For this model, the results are presented in Table~\ref{tab:topics_ciencia}. Ninety percent of the documents were concentrated in the first 10 topics, indicating high thematic concentration.
+	
 	
 	\begin{table}[t]
 		\caption{BERTopic results for different values of \texttt{num\_topics}, science subcorpus.}
 		\label{tab:bertopic_nr_topics_ciencia}
+		\centering
+		\footnotesize
 		\begin{tabular}{@{}cccc@{}}
 			\toprule
 			\textbf{num\_topics} & \textbf{Final topics} & \textbf{Coherence $c_v$} & \textbf{\% Outliers} \\
 			\midrule
-			20   & 19 & 0.695491 & 0.0 \\
-			40   & 28 & 0.695162 & 0.0 \\
-			auto & 26 & 0.694176 & 0.0 \\
-			30   & 28 & 0.681233 & 0.0 \\
-			60   & 27 & 0.678842 & 0.0 \\
-			10   & 9  & 0.622583 & 0.0 \\
+			20   & 19 & 0.695 & 0.0 \\
+			40   & 28 & 0.695 & 0.0 \\
+			auto & 26 & 0.694 & 0.0 \\
+			30   & 28 & 0.681 & 0.0 \\
+			60   & 27 & 0.678 & 0.0 \\
+			10   & 9  & 0.622 & 0.0 \\
 			\botrule
 		\end{tabular}
 	\end{table}
+	
 	
 	\begin{table*}[t]
 		\caption{Top BERTopic topics with per-topic coherence ($c_v$), percentage of documents, and representative keywords (science subcorpus).}
@@ -547,7 +601,7 @@
 			4  & 0.784604 & 6.56  & environmental, conservation, environment, biodiversity, sustainable, development, deforestation, forests, ecosystems \\
 			5  & 0.799532 & 4.79  & climate, change, planet, global, warming, wildfires, world, climatic, weather, temperature \\
 			8  & 0.504077 & 2.79  & data, information, surveys, access, transparency, results, people, media, example, public \\
-			7  & 0.686045 & 2.75  & water, river, waters, rain, rivers, cauca, neighborhoods, works, bogot{\'a}, country \\
+			7  & 0.686045 & 2.75  & water, river, waters, rain, rivers, cauca, neighborhoods, works, bogotá, country \\
 			9  & 0.919135 & 2.02  & energy, fuels, fossil, energies, coal, renewables, solar, energetic, oil, gas \\
 			10 & 0.724657 & 1.83  & women, men, woman, gender, feminine, violence, people, life, female, sex \\
 			\botrule
@@ -560,12 +614,15 @@
 	
 	Given that 11.6\% of the fragments in the corpus were classified as scientific mentions, those words whose proportion of occurrence in the science subcorpus exceeds that percentage were selected. This criterion allows us to identify terms with a relatively greater presence in scientific discourse compared to the general corpus.
 	
+	Tables \ref{tab:verbos_ciencia}, \ref{tab:adjetivos_ciencia}, and \ref{tab:sustantivos_ciencia} compile the most relevant verbs, adjectives, and nouns.
+	
 	\begin{table}[t]
 		\caption{Frequency and proportion of verbs in the science subcorpus.}
 		\label{tab:verbos_ciencia}
+		\footnotesize
 		\begin{tabular}{@{}lrrr@{}}
 			\toprule
-			\textbf{Verb} & \textbf{Total} & \textbf{Science} & \textbf{Proportion} \\
+			\textbf{Verb} & \textbf{Total} & \textbf{Science} & \textbf{Sci/Total} \\
 			\midrule
 			\textit{articular} (`articulate')   & 175 & 79 & 0.45 \\
 			\textit{mitigar} (`mitigate')       & 208 & 68 & 0.33 \\
@@ -591,9 +648,10 @@
 	\begin{table}[t]
 		\caption{Frequency and proportion of adjectives in the science subcorpus.}
 		\label{tab:adjetivos_ciencia}
+		\footnotesize
 		\begin{tabular}{@{}lrrr@{}}
 			\toprule
-			\textbf{Adjective} & \textbf{Total} & \textbf{Science} & \textbf{Proportion} \\
+			\textbf{Adjective} & \textbf{Total} & \textbf{Science} & \textbf{Sci/Total} \\
 			\midrule
 			\textit{ecosist{\'e}mico} (`ecosystemic')   & 65   & 53  & 0.82 \\
 			\textit{invernadero} (`greenhouse')          & 100  & 68  & 0.68 \\
@@ -617,9 +675,10 @@
 	\begin{table}[t]
 		\caption{Frequency and proportion of nouns in the science subcorpus.}
 		\label{tab:sustantivos_ciencia}
+		\footnotesize
 		\begin{tabular}{@{}lrrr@{}}
 			\toprule
-			\textbf{Noun} & \textbf{Total} & \textbf{Science} & \textbf{Proportion} \\
+			\textbf{Noun} & \textbf{Total} & \textbf{Science} & \textbf{Sci/Total} \\
 			\midrule
 			\textit{agua} (`water')             & 2586 & 971 & 0.38 \\
 			\textit{ciencia} (`science')        & 1575 & 858 & 0.54 \\
@@ -647,23 +706,32 @@
 	
 	The applied methods made it possible to identify and characterize elements of discourse related to science in Colombian opinion columns. Based on a natural language processing strategy and the use of the UNESCO Thesaurus as a conceptual framework, it was possible to detect textual fragments with varying degrees of association with science and to construct a specific subcorpus for further analysis.
 	
+	
 	However, this approach presents inherent limitations linked to the way the concept of science is operationalized through term lists and semantic similarity measures. In particular, the method may generate classification errors, both false positives and false negatives. In this regard, the maximum accuracy achieved (74\%) indicates acceptable performance for large-scale exploratory analysis, although it also underscores the need to interpret the results cautiously and to consider methodological improvements in future research, for example through larger validation sets or hybrid schemes combining automatic and manual annotation.
 	
-	The distribution presented in Table~\ref{tab:res_fragmentos_subcategoria} reveals a marked thematic concentration: nearly half of the fragments containing mentions of science fall within the category Administration of science and research (43.97\%), followed by Pollution, disasters and safety (21.55\%). This pattern suggests that, in the analyzed opinion discourse, science appears primarily linked to its institutional and political dimension (funding, management, public policy) and to contexts of socio-environmental crisis and risk. In contrast, specific scientific disciplines (such as physical, chemical, or earth sciences) occupy a much less visible position.
+	
+	The distribution presented in Table~\ref{tab:res_fragmentos_subcategoria} reveals a marked thematic concentration: nearly half of the fragments containing mentions of science fall within the category Science and research management (43.97\%), followed by Pollution, disasters and safety (21.55\%). This pattern suggests that, in the analyzed opinion discourse, science appears primarily linked to its institutional and political dimension (funding, management, public policy) and to contexts of socio-environmental crisis and risk. In contrast, specific scientific disciplines (such as physical, chemical, or earth sciences) occupy a much less visible position.
+	
 	
 	This asymmetry indicates that science does not circulate in the public sphere as a balanced set of disciplinary knowledges, but rather as a field associated with conjunctural and institutional debates. Nevertheless, it should be considered that the Thesaurus categories differ in conceptual breadth, which may influence their relative frequency. Even so, the observed concentration consistently points to a public representation of science centered more on governance and critical situations than on specialized technical discussion.
 	
-	This thematic pattern is reinforced when considering its temporal dimension. As shown in Fig.~\ref{fig:dist_mensual_ciencia}, the highest peaks in the proportion of columns containing mentions of science occur in March and April 2020, coinciding with the onset of the COVID-19 pandemic. In April 2020, the maximum value of the analyzed period is reached, evidencing a substantial increase in the public visibility of science. During these months, science and scientists assumed a central place in public debate, particularly in relation to governmental decisions, health measures, and risk management.
+	This thematic pattern is reinforced when considering its temporal dimension. As shown in Figure~\ref{fig:dist_mensual_ciencia}, the highest peaks in the proportion of columns containing mentions of science occur in March and April 2020, coinciding with the onset of the COVID-19 pandemic. In April 2020, the maximum value of the analyzed period is reached, evidencing a substantial increase in the public visibility of science. During these months, science and scientists assumed a central place in public debate, particularly in relation to governmental decisions, health measures, and risk management.
+	
 	
 	Regarding the actors and organizations mentioned in fragments associated with science (see Tables~\ref{tab:ents_per}, \ref{tab:ents_org}, \ref{tab:ents_loc}), the named entity recognition results show a predominance of widely recognized scientists, environmental activists, and Colombian scientists who have held political positions or ministerial offices. At the organizational level, prominent entities include international cooperation agencies linked to development, ministries responsible for science, environment, and sustainable development in Colombia, as well as national and international universities. This set of entities suggests that science, in opinion columns, appears closely tied both to state institutional structures and to academic and international networks, reinforcing its political and institutional character in the public sphere.
 	
+	
 	Based on the topic modeling applied to the subcorpus of fragments containing mentions of science (see Table~\ref{tab:topics_ciencia}), several clearly differentiated thematic axes were identified. The topic with the largest proportion (25.62\%) revolves around political and institutional categories (politics, government, peace, security), suggesting that science frequently appears embedded in broader public and governmental debates. The second largest topic (21.69\%) is associated with health and the pandemic (health, virus, crisis, science), confirming that the COVID-19 context played a central role in the visibility of scientific discourse. Relevant topics also emerge in connection with economic development (11.42\%) and education and research (9.61\%), indicating a link between science, innovation, and higher education. In the environmental domain, distinct topics are identified related to conservation and biodiversity (6.56\%), climate change (4.79\%), water resources (2.75\%), and energy (2.02\%), reinforcing the idea that environmental issues constitute a structural axis in the articulation between science and public opinion. Taken together, these results show that science does not appear exclusively as specialized technical content, but rather as a discursive resource that intersects with political, economic, educational, and environmental debates.
 	
-	The vocabulary analysis reinforces and complements the findings of the topic modeling. In the case of adjectives, those associated with environmental and climate-related issues predominate, such as \textit{environmental}, \textit{climatic}, \textit{ecosystemic}, or \textit{renewable}, indicating that science is primarily characterized through ecological and sustainability-related concerns. The most representative nouns are linked to concepts such as technology, knowledge, nature, education, and management, suggesting a conception of science oriented both toward the production of knowledge and its practical application and institutional administration.
 	
-	Regarding verbs, the high frequency of \textit{articulate} is particularly noteworthy, pointing to a representation of science as an element that must be connected with other domains, such as public policy, economic development, education, or environmental management. Similarly, verbs such as \textit{mitigate} play a central role in contexts related to reducing the effects of global warming, environmental degradation, or disease spread, evidencing a narrative in which science appears as a tool for addressing risks and crises. Finally, the recurrence of verbs such as \textit{manage}, \textit{plan}, and \textit{optimize} reinforces the idea of science conceived not merely as the production of abstract knowledge, but as a strategic resource oriented toward decision-making, efficiency, and intervention in social and environmental problems.
+	The vocabulary analysis reinforces and complements the findings of the topic modeling. In the case of adjectives, those associated with environmental and climate-related issues predominate, such as environmental, climatic, ecosystemic, or renewable, indicating that science is primarily characterized through ecological and sustainability-related concerns. The most representative nouns are linked to concepts such as technology, knowledge, nature, education, and management, suggesting a conception of science oriented both toward the production of knowledge and its practical application and institutional administration.
+	
+	
+	Regarding verbs, the high frequency of articulate is particularly noteworthy, pointing to a representation of science as an element that must be connected with other domains, such as public policy, economic development, education, or environmental management. Similarly, verbs such as mitigate play a central role in contexts related to reducing the effects of global warming, environmental degradation, or disease spread, evidencing a narrative in which science appears as a tool for addressing risks and crises. Finally, the recurrence of verbs such as manage, plan, and optimize reinforces the idea of science conceived not merely as the production of abstract knowledge, but as a strategic resource oriented toward decision-making, efficiency, and intervention in social and environmental problems.
+	
 	
 	Overall, these results suggest that, in Colombian opinion columns, science is predominantly represented from an instrumental and contextualized perspective, closely linked to critical junctures, environmental challenges, and governance processes, rather than as a set of abstract disciplines or decontextualized bodies of knowledge.
+	
 	
 	%%---------------------------------------------------------
 	%%  BACKMATTER
@@ -674,12 +742,14 @@
 	
 	The authors gratefully acknowledge Universidad EAFIT for awarding a full scholarship to Karen for the Master's degree in Data Science and Analytics, which supported her participation in this research. We also sincerely thank all members of the research project ``Arte, ciencia y tecnolog{\'i}a en la esfera p{\'u}blica: el aporte de las Humanidades Digitales al an{\'a}lisis de los discursos en la esfera p{\'u}blica en Colombia'' for their continuous support and collaborative engagement throughout the development of this study. In particular, we wish to thank the interns and students who assisted in the collection and organization of the opinion columns analyzed in this article. Their dedicated work was essential to the construction of the corpus. We are grateful to the project team for their feedback, recommendations, and complementary ideas, which helped refine different stages of this research.
 	
+	
 	%%---------------------------------------------------------
 	%%  DECLARATIONS
 	%%---------------------------------------------------------
 	\section*{Declarations}
 	
 	\textbf{Funding.} This research was supported by the internal research project ``Arte, ciencia y tecnolog{\'i}a en la esfera p{\'u}blica: el aporte de las Humanidades Digitales al an{\'a}lisis de los discursos en la esfera p{\'u}blica en Colombia'' (Project No.\ 12740112024), funded through the 2024 Internal Research Projects Call (\textit{Convocatoria proyectos internos 2024 a iniciar en 2025}) of Universidad EAFIT, Medell{\'i}n, Colombia.
+	
 	
 	\textbf{Competing interests.} The authors declare no competing interests.
 	
@@ -688,8 +758,6 @@
 	\textbf{Consent for publication.} Not applicable.
 	
 	\textbf{Data availability.} The data and code supporting the findings of this study are openly available at \url{https://github.com/BMSS-EAFIT-Projects/HumanidadesDigitales}.
-	
-	\textbf{Materials availability.} Not applicable.
 	
 	\textbf{Code availability.} See Data availability statement above.
 	

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.4.30)  25 FEB 2026 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.4.30)  18 MAR 2026 00:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1052,12 +1052,12 @@ Package pdftex.def Info: figures/diagrama_paper_ciencia.png  used on input line
 [2 <./figures/diagrama_paper_ciencia.png>]
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []|\T1/lmr/m/n/9 (+20) Science and re-search
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 200--200
+Underfull \hbox (badness 1389) in paragraph at lines 201--201
 []|\T1/lmr/m/n/9 (+20) Environmental sci-ences
  []
 
@@ -1076,7 +1076,7 @@ c}]
 <figures/accuracy_umbral.png, id=213, 578.16pt x 361.35pt>
 File: figures/accuracy_umbral.png Graphic file (type png)
 <use figures/accuracy_umbral.png>
-Package pdftex.def Info: figures/accuracy_umbral.png  used on input line 316.
+Package pdftex.def Info: figures/accuracy_umbral.png  used on input line 317.
 (pdftex.def)             Requested size: 339.72592pt x 212.329pt.
 
 
@@ -1085,27 +1085,27 @@ Package pdftex.def Info: figures/accuracy_umbral.png  used on input line 316.
 [9 <./figures/accuracy_umbral.png>]
 
 [10]
-Overfull \hbox (9.82343pt too wide) in alignment at lines 400--405
+Overfull \hbox (9.82343pt too wide) in alignment at lines 401--406
  [] [] [] 
  []
 
 
-Overfull \hbox (9.82343pt too wide) in alignment at lines 405--411
+Overfull \hbox (9.82343pt too wide) in alignment at lines 406--412
  [] [] [] 
  []
 
 
-Overfull \hbox (9.82343pt too wide) in alignment at lines 411--414
+Overfull \hbox (9.82343pt too wide) in alignment at lines 412--415
  [] [] [] 
  []
 
 
-Overfull \hbox (9.82343pt too wide) in alignment at lines 414--417
+Overfull \hbox (9.82343pt too wide) in alignment at lines 415--418
  [] [] [] 
  []
 
 
-Overfull \hbox (9.82343pt too wide) in alignment at lines 417--438
+Overfull \hbox (9.82343pt too wide) in alignment at lines 418--439
  [] [] [] 
  []
 
@@ -1113,12 +1113,12 @@ Overfull \hbox (9.82343pt too wide) in alignment at lines 417--438
 <figures/nube_general.png, id=262, 722.7pt x 578.16pt>
 File: figures/nube_general.png Graphic file (type png)
 <use figures/nube_general.png>
-Package pdftex.def Info: figures/nube_general.png  used on input line 492.
+Package pdftex.def Info: figures/nube_general.png  used on input line 493.
 (pdftex.def)             Requested size: 217.42265pt x 173.93454pt.
 <figures/nube_ciencia.png, id=263, 722.7pt x 578.16pt>
 File: figures/nube_ciencia.png Graphic file (type png)
 <use figures/nube_ciencia.png>
-Package pdftex.def Info: figures/nube_ciencia.png  used on input line 499.
+Package pdftex.def Info: figures/nube_ciencia.png  used on input line 500.
 (pdftex.def)             Requested size: 217.42265pt x 173.93454pt.
 
 
@@ -1128,47 +1128,47 @@ Package pdftex.def Info: figures/nube_ciencia.png  used on input line 499.
 File: figures/porcentaje_mensual_ciencia_linea.png Graphic file (type png)
 <use figures/porcentaje_mensual_ciencia_linea.png>
 Package pdftex.def Info: figures/porcentaje_mensual_ciencia_linea.png  used on 
-input line 515.
+input line 516.
 (pdftex.def)             Requested size: 430.31812pt x 182.91972pt.
 
-Overfull \hbox (22.44203pt too wide) in paragraph at lines 536--557
+Overfull \hbox (22.44203pt too wide) in paragraph at lines 537--558
  [][] 
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 573--574
+Underfull \hbox (badness 3838) in paragraph at lines 574--575
 []|\T1/lmr/m/n/9 (+20) Organisation for Eco-nomic Co-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 575--575
+Underfull \hbox (badness 10000) in paragraph at lines 576--576
 []|\T1/lmr/m/n/9 (+20) Pontificia Uni-ver-si-
  []
 
 
-Underfull \hbox (badness 4084) in paragraph at lines 579--579
+Underfull \hbox (badness 4084) in paragraph at lines 580--580
 []|\T1/lmr/m/n/9 (+20) University of Mas-
  []
 
 
-Overfull \hbox (22.44203pt too wide) in paragraph at lines 565--586
+Overfull \hbox (22.44203pt too wide) in paragraph at lines 566--587
  [][] 
  []
 
 
 
 [13 <./figures/porcentaje_mensual_ciencia_linea.png>]
-Underfull \hbox (badness 2096) in paragraph at lines 606--607
+Underfull \hbox (badness 2096) in paragraph at lines 607--608
 \T1/lmr/m/n/9 (+20) a high plateau in the East-ern
  []
 
 
-Underfull \hbox (badness 5161) in paragraph at lines 607--607
+Underfull \hbox (badness 5161) in paragraph at lines 608--608
 []|\T1/lmr/m/n/9 (+20) Parques Na-cionales
  []
 
 
-Overfull \hbox (22.44203pt too wide) in paragraph at lines 593--612
+Overfull \hbox (22.44203pt too wide) in paragraph at lines 594--613
  [][] 
  []
 
@@ -1177,26 +1177,26 @@ Overfull \hbox (22.44203pt too wide) in paragraph at lines 593--612
 [14]
 
 [15]
-Underfull \hbox (badness 2744) in paragraph at lines 662--662
+Underfull \hbox (badness 2744) in paragraph at lines 670--670
 []|\T1/lmr/m/n/10 (+20) corruption, cor-rupt, pub-lic, ref-er-en-dum, anti-
  []
 
 
 
 [16]
-Overfull \hbox (14.71768pt too wide) in paragraph at lines 726--749
+Overfull \hbox (14.71768pt too wide) in paragraph at lines 734--757
  [][] 
  []
 
 
 
 [17]
-Overfull \hbox (16.42865pt too wide) in paragraph at lines 757--778
+Overfull \hbox (16.42865pt too wide) in paragraph at lines 765--786
  [][] 
  []
 
 
-Overfull \hbox (12.78394pt too wide) in paragraph at lines 785--806
+Overfull \hbox (12.78394pt too wide) in paragraph at lines 793--814
  [][] 
  []
 
@@ -1252,7 +1252,7 @@ rs/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users
 karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/
 karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.
 pfb>
-Output written on articulo_revista_ingles.pdf (23 pages, 6152018 bytes).
+Output written on articulo_revista_ingles.pdf (23 pages, 6151999 bytes).
 PDF statistics:
  496 PDF objects out of 1000 (max. 8388607)
  127 named destinations out of 1000 (max. 500000)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.4.30)  17 MAR 2026 15:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.4.30)  18 MAR 2026 00:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -921,35 +921,36 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 []\OT1/cmr/m/n/10 (+20) where each ele-ment $\OML/cmm/m/it/10.03749 s[] \OT1/cm
 r/m/n/10 (+20) =
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 245--246
+Underfull \hbox (badness 4899) in paragraph at lines 246--247
 [][]\OT1/cmr/m/n/10 (+20) ([][]\OML/cmm/m/it/10.03749 ; [][]\OT1/cmr/m/n/10 (+2
 0) )$ rep-re-sents the degree
  []
 
 
 
-<figures/accuracy_umbral.png, id=178, 578.16pt x 361.35pt>
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]| []
+ []
+
+[6]
+<figures/accuracy_umbral.png, id=187, 578.16pt x 361.35pt>
 File: figures/accuracy_umbral.png Graphic file (type png)
 <use figures/accuracy_umbral.png>
-Package pdftex.def Info: figures/accuracy_umbral.png  used on input line 263.
-(pdftex.def)             Requested size: 216.24094pt x 135.14752pt.
+Package pdftex.def Info: figures/accuracy_umbral.png  used on input line 270.
+(pdftex.def)             Requested size: 213.96527pt x 133.72498pt.
 
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]| []
- []
-
-[6 <./figures/accuracy_umbral.png>]
 
 
 
@@ -961,23 +962,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []| []
  []
 
-[7]
+[7 <./figures/accuracy_umbral.png>]
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 331--331
-[]|\OT1/cmr/m/n/7 (+20) Environmental sci-
- []
-
-<figures/nube_general.png, id=211, 722.7pt x 578.16pt>
-File: figures/nube_general.png Graphic file (type png)
-<use figures/nube_general.png>
-Package pdftex.def Info: figures/nube_general.png  used on input line 379.
-(pdftex.def)             Requested size: 216.24094pt x 172.99059pt.
-<figures/nube_ciencia.png, id=212, 722.7pt x 578.16pt>
-File: figures/nube_ciencia.png Graphic file (type png)
-<use figures/nube_ciencia.png>
-Package pdftex.def Info: figures/nube_ciencia.png  used on input line 385.
-(pdftex.def)             Requested size: 216.24094pt x 172.99059pt.
 
 
 
@@ -989,29 +975,50 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [8]
-<figures/porcentaje_mensual_ciencia_linea.png, id=224, 1004.7939pt x 427.1157pt
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+[]|\OT1/cmr/m/n/7 (+20) Environmental sci-
+ []
+
+<figures/nube_general.png, id=219, 722.7pt x 578.16pt>
+File: figures/nube_general.png Graphic file (type png)
+<use figures/nube_general.png>
+Package pdftex.def Info: figures/nube_general.png  used on input line 407.
+(pdftex.def)             Requested size: 216.24094pt x 172.99059pt.
+<figures/nube_ciencia.png, id=220, 722.7pt x 578.16pt>
+File: figures/nube_ciencia.png Graphic file (type png)
+<use figures/nube_ciencia.png>
+Package pdftex.def Info: figures/nube_ciencia.png  used on input line 413.
+(pdftex.def)             Requested size: 216.24094pt x 172.99059pt.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]| []
+ []
+
+[9]
+<figures/porcentaje_mensual_ciencia_linea.png, id=232, 1004.7939pt x 427.1157pt
 >
 File: figures/porcentaje_mensual_ciencia_linea.png Graphic file (type png)
 <use figures/porcentaje_mensual_ciencia_linea.png>
 Package pdftex.def Info: figures/porcentaje_mensual_ciencia_linea.png  used on 
-input line 397.
+input line 425.
 (pdftex.def)             Requested size: 216.24094pt x 91.91933pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
 []|\OT1/cmr/m/n/7 (+20) Universidad Pedag^^Sogica
  []
 
 
-Overfull \hbox (20.41791pt too wide) in paragraph at lines 479--494
- [] 
- []
-
-
-Overfull \hbox (20.41791pt too wide) in paragraph at lines 519--534
- [] 
- []
-
-
 
 
 
@@ -1023,34 +1030,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []| []
  []
 
-[9 <./figures/nube_general.png> <./figures/nube_ciencia.png>]
-
-
-Overfull \hbox (24.25923pt too wide) in paragraph at lines 563--589
- [] 
- []
-
-
-Overfull \hbox (25.72453pt too wide) in paragraph at lines 591--615
- [] 
- []
-
-
-Overfull \hbox (23.03792pt too wide) in paragraph at lines 617--641
+[10 <./figures/nube_general.png> <./figures/nube_ciencia.png> <./figures/porcen
+taje_mensual_ciencia_linea.png>]
+Overfull \hbox (2.49863pt too wide) in paragraph at lines 520--537
  [] 
  []
 
 
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]| []
+Underfull \hbox (badness 1742) in paragraph at lines 541--542
+[]\OT1/cmr/m/n/10 (+20) Maintaining the 63-topic model, Table [][]9[][]
  []
-
-[10 <./figures/porcentaje_mensual_ciencia_linea.png>]
 
 
 
@@ -1063,6 +1054,26 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [11]
+Overfull \hbox (4.74585pt too wide) in paragraph at lines 570--587
+ [] 
+ []
+
+
+
+
+Overfull \hbox (3.83102pt too wide) in paragraph at lines 619--646
+ [] 
+ []
+
+
+Overfull \hbox (5.35077pt too wide) in paragraph at lines 648--673
+ [] 
+ []
+
+
+Overfull \hbox (2.88274pt too wide) in paragraph at lines 675--700
+ [] 
+ []
 
 
 
@@ -1088,18 +1099,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [13]
 
-Package hyperref Warning: Difference (4) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 675.
 
-
-
-
-Underfull \hbox (badness 2285) in paragraph at lines 690--691
-\OT1/cmr/m/n/10 (+20) at [][]$https : / / github . com / BMSS-[]EAFIT-[]Project
-s /
- []
-
-(sn-article.bbl
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1110,6 +1110,30 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [14]
+
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 743.
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]| []
+ []
+
+[15]
+Underfull \hbox (badness 2285) in paragraph at lines 760--761
+\OT1/cmr/m/n/10 (+20) at [][]$https : / / github . com / BMSS-[]EAFIT-[]Project
+s /
+ []
+
+(sn-article.bbl
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 107--130
 []\OT1/cmr/m/n/10 (+20) Daza-Caicedo, S., Lozano-Borda, M.,
  []
@@ -1135,13 +1159,21 @@ Underfull \hbox (badness 3547) in paragraph at lines 107--130
  []
 
 
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 181--188
 []\OT1/cmr/m/n/10 (+20) Python Soft-ware Foun-da-tion: Python
  []
 
 
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]| []
+ []
+
+[16]
 Underfull \hbox (badness 5008) in paragraph at lines 238--253
 []\OT1/cmr/m/n/10 (+20) Orellana, G., Arias, B., Orel-lana, M.,
  []
@@ -1161,16 +1193,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--270
  []
 
 
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]| []
- []
-
-[15]
 Underfull \hbox (badness 10000) in paragraph at lines 293--301
 []\OT1/cmr/m/n/10 (+20) UNESCO: UNESCO The-saurus.
  []
@@ -1184,6 +1206,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 293--301
 Underfull \hbox (badness 10000) in paragraph at lines 293--301
 \OT1/cmr/m/n/10 (+20) thesaurus / es$[][]. United Nations Edu-ca-
  []
+
+
 
 
 Underfull \hbox (badness 1205) in paragraph at lines 336--344
@@ -1212,7 +1236,17 @@ Underfull \hbox (badness 1558) in paragraph at lines 380--395
 
 
 
-)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]| []
+ []
+
+[17])
+
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1222,7 +1256,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []| []
  []
 
-[16] (sn-article.aux)
+[18
+
+] (sn-article.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
@@ -1236,13 +1272,13 @@ Package rerunfilecheck Info: File `sn-article.out' has not changed.
 (rerunfilecheck)             Checksum: 2F2B2AD2E0B221EB271A515D0F58ED69;3780.
  ) 
 Here is how much of TeX's memory you used:
- 20707 strings out of 469959
- 394160 string characters out of 5469834
- 815281 words of memory out of 5000000
- 46843 multiletter control sequences out of 15000+600000
- 664414 words of font info for 296 fonts, out of 8000000 for 9000
+ 20741 strings out of 469959
+ 394534 string characters out of 5469834
+ 806280 words of memory out of 5000000
+ 46858 multiletter control sequences out of 15000+600000
+ 666464 words of font info for 310 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 90i,12n,93p,1418b,1239s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,12n,93p,1418b,1261s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\karen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\tcss
 1000.pk><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1255,7 +1291,7 @@ ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/k
 aren/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:
 /Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7
 .pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+cm/cmmi9.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmmib10.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmr10.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/karen/AppData/Local/Programs/M
@@ -1269,12 +1305,12 @@ Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10
 cm/cmsy10.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmsy7.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmti10.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/karen/AppData/Local/Programs/M
+nts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/karen/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/karen/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on sn-article.pdf (16 pages, 6120391 bytes).
+Output written on sn-article.pdf (18 pages, 6133549 bytes).
 PDF statistics:
- 470 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 72386 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 486 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 74434 words of extra memory for PDF output out of 89155 (max. 10000000)
 

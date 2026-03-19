@@ -87,12 +87,12 @@
 	
 	To address the proposed research question, text mining and natural language processing (NLP) methods were employed. The methodology was structured into three main stages. First, references to science were identified within the opinion columns in order to construct a subcorpus. Second, algorithms were applied to analyze authorship, actors, topics, and vocabulary in both the subcorpus and the full corpus, enabling comparative analysis. Finally, the extracted elements were interpreted in light of national events occurring during the publication periods of the opinion columns, and the affiliations of both authors and referenced actors were identified to enrich the analysis. The overall procedure is summarized in the flowchart presented in Figure \ref{fig:diagramaflujo} and is described in detail in the following section. All analyses were conducted using Python 3.12.7 \cite{python2023}.\footnote{Available at \url{https://www.python.org/downloads}}. 
 	
-	\begin{figure}[t]
+	\begin{figure*}[t]
 		\centering
-		\includegraphics[width=\columnwidth]{figures/diagrama_paper_ciencia.png}
+		\includegraphics[width=0.9\textwidth]{figures/diagrama_paper_ciencia.png}
 		\caption{Flowchart of the applied methodology.}
 		\label{fig:diagramaflujo}
-	\end{figure}
+	\end{figure*}
 	
 	\subsection{Data Collection}\label{subsec:data}
 	
@@ -420,18 +420,18 @@
 	
 	Figure~\ref{fig:dist_mensual_ciencia} shows, for each month in the analyzed period, the percentage of columns containing at least one effective mention of science relative to the total number of columns published in that month. A notable increase can be observed in March and April 2020, the months with the highest proportion of mentions, suggesting a direct association between the intensification of scientific discourse and the onset of the COVID-19 pandemic.
 	
-	\begin{figure}[h!]
+	\begin{figure*}[h!]
 		\centering
-		\includegraphics[width=\columnwidth]{figures/porcentaje_mensual_ciencia_linea.png}
+		\includegraphics[width=0.9\textwidth]{figures/porcentaje_mensual_ciencia_linea.png}
 		\caption{Monthly distribution of columns mentioning science, by percentage.}
 		\label{fig:dist_mensual_ciencia}
-	\end{figure}
+	\end{figure*}
 	
 	\subsection{Named Entity Recognition}\label{subsec:ner_results}
 	
 	The ten most frequent entities by class (Person, Organization, and Location) are presented below, considering only those whose occurrence exceeds 30\% of the subcorpus of fragments with effective mentions of science. This criterion makes it possible to focus the analysis on the actors, institutions, and geographic spaces with the greatest centrality in the scientific discourse of opinion columns. The results of the most relevant entities are presented in Tables \ref{tab:ents_per}, \ref{tab:ents_org}, and \ref{tab:ents_loc}, respectively.
 	
-	\begin{table*}[t]
+	\begin{table*}[h!]
 		\caption{Comparative frequency of persons in the general corpus vs.\ the scientific corpus.}
 		\label{tab:ents_per}
 		{\footnotesize
@@ -454,7 +454,7 @@
 		}
 	\end{table*}
 	
-	\begin{table*}[t]
+	\begin{table*}[h!]
 		\caption{Comparative frequency of organizations in the general corpus vs.\ the scientific corpus.}
 		\label{tab:ents_org}
 		{\footnotesize
@@ -477,7 +477,7 @@
 		}
 	\end{table*}
 	
-	\begin{table*}[t]
+	\begin{table*}[h!]
 		\caption{Comparative frequency of locations in the general corpus vs.\ the scientific corpus.}
 		\label{tab:ents_loc}
 		{\footnotesize
@@ -517,7 +517,7 @@
 	 of the models and justify the selection of the most appropriate number of topics. The results
 	 obtained are presented in Table 8.
 	 
-	\begin{table}[t]
+	\begin{table}[h!]
 		\caption{BERTopic results for different values of \texttt{num\_topics}, full corpus.}
 		\label{tab:coherence_topics}
 		\centering
@@ -540,7 +540,7 @@
 	
 	Maintaining the 63-topic model, Table \ref{tab:bertopic_coherence_top} presents the 10 topics with the highest percentage of grouped documents, along with the coherence value calculated for each one and their respective representative words. Together, these 10 topics account for 70\% of the fragments analyzed.
 	
-	\begin{table*}[t]
+	\begin{table*}[h!]
 		\centering
 		\small
 		\caption{Top BERTopic topics with per-topic coherence ($c_v$), percentage of documents, and representative keywords (full corpus).}
@@ -567,7 +567,7 @@
 	Table~\ref{tab:bertopic_nr_topics_ciencia} presents the results for different parameter values; the best model among those evaluated was the one with 20 topics. For this model, the results are presented in Table~\ref{tab:topics_ciencia}. Ninety percent of the documents were concentrated in the first 10 topics, indicating high thematic concentration.
 	
 	
-	\begin{table}[t]
+	\begin{table}[h!]
 		\caption{BERTopic results for different values of \texttt{num\_topics}, science subcorpus.}
 		\label{tab:bertopic_nr_topics_ciencia}
 		\centering
@@ -587,7 +587,7 @@
 	\end{table}
 	
 	
-	\begin{table*}[t]
+	\begin{table*}[h!]
 		\caption{Top BERTopic topics with per-topic coherence ($c_v$), percentage of documents, and representative keywords (science subcorpus).}
 		\label{tab:topics_ciencia}
 		\begin{tabularx}{\textwidth}{@{}cccX@{}}
@@ -616,7 +616,7 @@
 	
 	Tables \ref{tab:verbos_ciencia}, \ref{tab:adjetivos_ciencia}, and \ref{tab:sustantivos_ciencia} compile the most relevant verbs, adjectives, and nouns.
 	
-	\begin{table}[t]
+	\begin{table}[h!]
 		\caption{Frequency and proportion of verbs in the science subcorpus.}
 		\label{tab:verbos_ciencia}
 		\footnotesize
@@ -645,7 +645,7 @@
 		\end{tabular}
 	\end{table}
 	
-	\begin{table}[t]
+	\begin{table}[h!]
 		\caption{Frequency and proportion of adjectives in the science subcorpus.}
 		\label{tab:adjetivos_ciencia}
 		\footnotesize
@@ -672,7 +672,7 @@
 		\end{tabular}
 	\end{table}
 	
-	\begin{table}[t]
+	\begin{table}[h!]
 		\caption{Frequency and proportion of nouns in the science subcorpus.}
 		\label{tab:sustantivos_ciencia}
 		\footnotesize
@@ -702,6 +702,9 @@
 	%%---------------------------------------------------------
 	%%  SECTION 4 ? DISCUSSION
 	%%---------------------------------------------------------
+
+	%\clearpage
+	
 	\section{Discussion}\label{sec:discussion}
 	
 	The applied methods made it possible to identify and characterize elements of discourse related to science in Colombian opinion columns. Based on a natural language processing strategy and the use of the UNESCO Thesaurus as a conceptual framework, it was possible to detect textual fragments with varying degrees of association with science and to construct a specific subcorpus for further analysis.

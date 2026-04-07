@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.3.19)  19 MAR 2026 16:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.3.19)  26 MAR 2026 11:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -481,44 +481,89 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
 (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<monthly_percentage.png, id=1, 832.5504pt x 420.6114pt>
+[1{C:/Users/karen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+Overfull \hbox (20.40053pt too wide) in paragraph at lines 216--217
+[]$\OT1/cmtt/m/n/10.95 https : / / scholar . google . com / citations ? view _ 
+op = search _ authors & hl = en & mauthors = label : public _
+ []
+
+[3] [4]
+
+Package natbib Warning: Citation `BehmBahtat2026' on page 5 undefined on input 
+line 239.
+
+
+Package natbib Warning: Citation `Bauer2007' on page 5 undefined on input line 
+245.
+
+[5]
+
+Package natbib Warning: Citation `Villanueva2025' on page 6 undefined on input 
+line 257.
+
+
+Package natbib Warning: Citation `Bao2025' on page 6 undefined on input line 26
+4.
+
+[6]
+
+Package natbib Warning: Citation `Beets2025' on page 7 undefined on input line 
+265.
+
+<monthly_percentage.png, id=31, 832.5504pt x 420.6114pt>
 File: monthly_percentage.png Graphic file (type png)
 <use monthly_percentage.png>
-Package pdftex.def Info: monthly_percentage.png  used on input line 112.
+Package pdftex.def Info: monthly_percentage.png  used on input line 285.
 (pdftex.def)             Requested size: 400.38872pt x 202.28268pt.
-
-[1{C:/Users/karen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<authors.png, id=16, 753.0534pt x 393.8715pt>
+[7]
+<authors.png, id=37, 753.0534pt x 393.8715pt>
 File: authors.png Graphic file (type png)
 <use authors.png>
-Package pdftex.def Info: authors.png  used on input line 119.
+Package pdftex.def Info: authors.png  used on input line 292.
 (pdftex.def)             Requested size: 400.38872pt x 209.418pt.
-<nube_ciencia_admin.png, id=17, 722.7pt x 578.16pt>
+<nube_ciencia_admin.png, id=38, 722.7pt x 578.16pt>
 File: nube_ciencia_admin.png Graphic file (type png)
 <use nube_ciencia_admin.png>
-Package pdftex.def Info: nube_ciencia_admin.png  used on input line 126.
+Package pdftex.def Info: nube_ciencia_admin.png  used on input line 299.
 (pdftex.def)             Requested size: 500.484pt x 400.38646pt.
- [2 <./monthly_percentage.png> <./authors.png>] [3 <./nube_ciencia_admin.png>]
-Overfull \hbox (23.86896pt too wide) in paragraph at lines 161--184
+ [8 <./monthly_percentage.png> <./authors.png>] [9 <./nube_ciencia_admin.png>]
+Overfull \hbox (23.86896pt too wide) in paragraph at lines 334--357
  []$[]$ 
  []
 
-[4] [5] [6]
-Overfull \hbox (12.27269pt too wide) in paragraph at lines 249--268
+[10] [11] [12]
+Overfull \hbox (12.27269pt too wide) in paragraph at lines 422--441
  []$[]$ 
  []
 
-[7]
-Overfull \hbox (39.57828pt too wide) in paragraph at lines 273--296
+[13]
+Overfull \hbox (39.57828pt too wide) in paragraph at lines 446--469
  []$[]$ 
  []
 
-[8]
-Overfull \hbox (52.82831pt too wide) in paragraph at lines 301--331
+[14]
+Overfull \hbox (52.82831pt too wide) in paragraph at lines 474--504
  []$[]$ 
  []
 
-[9] [10] [11] [12] (main.bbl) [13] (main.aux
+[15] [16] (main.bbl
+! Misplaced alignment tab character &.
+<argument> Research &
+                     amp; Politics
+l.141 ...o  {journal} {Research &amp; Politics}\ }
+                                                  \textbf {\bibinfo
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[17] (main.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -528,29 +573,31 @@ L3 programming layer <2025-03-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8836 strings out of 469959
- 137987 string characters out of 5469834
- 662127 words of memory out of 5000000
- 35522 multiletter control sequences out of 15000+600000
- 636592 words of font info for 78 fonts, out of 8000000 for 9000
+ 8889 strings out of 469959
+ 138935 string characters out of 5469834
+ 662868 words of memory out of 5000000
+ 35573 multiletter control sequences out of 15000+600000
+ 637101 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,12n,79p,371b,424s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx10.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbx9.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/karen/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/karen/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/karen/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/karen/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ka
-ren/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
-sers/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pf
-b><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmti10.pfb>
-Output written on main.pdf (13 pages, 2752573 bytes).
+ 73i,12n,79p,1204b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\karen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1095.pk><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx9.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/karen/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/karen/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/karen/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/kar
+en/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Us
+ers/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb
+><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr9.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (17 pages, 2781472 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 129 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,175 @@
+%apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+%Control: key (0)
+%Control: author (72) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (-1) disabled
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{9}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{https://doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Bucchi}\ and\ \citenamefont
+  {Trench}(2021)}]{Bucchi2021}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Bucchi}}\ and\ \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Trench}},\ }\href {https://doi.org/10.4324/9781003039242} {\emph {\bibinfo
+  {title} {Routledge handbook of public communication of science and
+  technology}}}\ (\bibinfo  {publisher} {Taylor and Francis},\ \bibinfo {year}
+  {2021})\ pp.\ \bibinfo {pages} {1--326}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Massarani}\ \emph {et~al.}(2021)\citenamefont
+  {Massarani}, \citenamefont {Neves}, \citenamefont {Entradas}, \citenamefont
+  {Lougheed},\ and\ \citenamefont {Bauer}}]{Massarani2021}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Massarani}}, \bibinfo {author} {\bibfnamefont {L.~F.~F.}\ \bibnamefont
+  {Neves}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Entradas}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Lougheed}},\ and\
+  \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Bauer}},\ }\href
+  {https://doi.org/10.22323/2.20070206} {\bibfield  {journal} {\bibinfo
+  {journal} {Journal of Science Communication}\ }\textbf {\bibinfo {volume}
+  {20}},\ \bibinfo {pages} {A06} (\bibinfo {year} {2021})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Joubert}\ \emph {et~al.}(2023)\citenamefont
+  {Joubert}, \citenamefont {Guenther}, \citenamefont {Metcalfe}, \citenamefont
+  {Riedlinger}, \citenamefont {Chakraborty}, \citenamefont {Gascoigne},
+  \citenamefont {Schiele}, \citenamefont {Baram-Tsabari}, \citenamefont
+  {Malkov}, \citenamefont {Fattorini}, \citenamefont {Revuelta}, \citenamefont
+  {Barata}, \citenamefont {Riise}, \citenamefont {Schr\"{o}der}, \citenamefont
+  {Horst}, \citenamefont {Kaseje}, \citenamefont {Kirsten}, \citenamefont
+  {Bauer}, \citenamefont {Bucchi}, \citenamefont {Flores}, \citenamefont
+  {Wolfson},\ and\ \citenamefont {Chen}}]{Joubert2023}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Joubert}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Guenther}},
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Metcalfe}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Riedlinger}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Chakraborty}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Gascoigne}}, \bibinfo {author}
+  {\bibfnamefont {B.}~\bibnamefont {Schiele}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Baram-Tsabari}}, \bibinfo {author} {\bibfnamefont
+  {D.}~\bibnamefont {Malkov}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Fattorini}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Revuelta}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Barata}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Riise}}, \bibinfo {author} {\bibfnamefont {J.~T.}\
+  \bibnamefont {Schr\"{o}der}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Horst}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Kaseje}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Kirsten}}, \bibinfo {author} {\bibfnamefont {M.~W.}\
+  \bibnamefont {Bauer}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Bucchi}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Flores}},
+  \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont {Wolfson}},\ and\ \bibinfo
+  {author} {\bibfnamefont {T.}~\bibnamefont {Chen}},\ }\href
+  {https://doi.org/10.22323/2.22010204} {\bibfield  {journal} {\bibinfo
+  {journal} {Journal of Science Communication}\ }\textbf {\bibinfo {volume}
+  {22}},\ \bibinfo {pages} {A04} (\bibinfo {year} {2023})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Entradas}\ \emph {et~al.}(2023)\citenamefont
+  {Entradas}, \citenamefont {Marcinkowski}, \citenamefont {Bauer},\ and\
+  \citenamefont {Pellegrini}}]{Entradas2023}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Entradas}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Marcinkowski}}, \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont
+  {Bauer}},\ and\ \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Pellegrini}},\ }\href {https://doi.org/10.1371/journal.pone.0290504}
+  {\bibfield  {journal} {\bibinfo  {journal} {PLOS ONE}\ }\textbf {\bibinfo
+  {volume} {18}},\ \bibinfo {pages} {e0290504} (\bibinfo {year}
+  {2023})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ansell}\ \emph {et~al.}(2024)\citenamefont {Ansell},
+  \citenamefont {Bauer}, \citenamefont {Gingrich},\ and\ \citenamefont
+  {Stilgoe}}]{Ansell2024}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Ansell}}, \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Bauer}},
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Gingrich}},\ and\
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Stilgoe}},\ }\href
+  {https://doi.org/10.1177/08404704241271159} {\bibfield  {journal} {\bibinfo
+  {journal} {Healthcare Management Forum}\ }\textbf {\bibinfo {volume} {37}},\
+  \bibinfo {pages} {423–428} (\bibinfo {year} {2024})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sammut}\ \emph {et~al.}(2024)\citenamefont {Sammut},
+  \citenamefont {Sartawi}, \citenamefont {Bauer},\ and\ \citenamefont
+  {Mifsud}}]{Sammut2024}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Sammut}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Sartawi}},
+  \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Bauer}},\ and\
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Mifsud}},\ }\bibfield
+  {journal} {\bibinfo  {journal} {Research &amp; Politics}\ }\textbf {\bibinfo
+  {volume} {11}},\ \href {https://doi.org/10.1177/20531680241297669}
+  {10.1177/20531680241297669} (\bibinfo {year} {2024})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Oliveira}\ \emph {et~al.}(2024)\citenamefont
+  {Oliveira}, \citenamefont {Barata}, \citenamefont {Fleerackers},
+  \citenamefont {Alperin}, \citenamefont {Falade},\ and\ \citenamefont
+  {Bauer}}]{Oliveira2024}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Oliveira}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Barata}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Fleerackers}}, \bibinfo
+  {author} {\bibfnamefont {J.~P.}\ \bibnamefont {Alperin}}, \bibinfo {author}
+  {\bibfnamefont {B.}~\bibnamefont {Falade}},\ and\ \bibinfo {author}
+  {\bibfnamefont {M.~W.}\ \bibnamefont {Bauer}},\ }\bibfield  {journal}
+  {\bibinfo  {journal} {Frontiers in Communication}\ }\textbf {\bibinfo
+  {volume} {9}},\ \href {https://doi.org/10.3389/fcomm.2024.1473268}
+  {10.3389/fcomm.2024.1473268} (\bibinfo {year} {2024})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hall}\ \emph {et~al.}(2025)\citenamefont {Hall},
+  \citenamefont {Franks},\ and\ \citenamefont {Bauer}}]{Hall2025}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~S.}\ \bibnamefont
+  {Hall}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Franks}},\ and\
+  \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Bauer}},\ }\href
+  {https://doi.org/10.1002/ejsp.3120} {\bibfield  {journal} {\bibinfo
+  {journal} {European Journal of Social Psychology}\ }\textbf {\bibinfo
+  {volume} {55}},\ \bibinfo {pages} {311–326} (\bibinfo {year}
+  {2025})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bauer}(2025)}]{Bauer2025}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont
+  {Bauer}},\ }\href {https://doi.org/10.1177/20966083251333890} {\bibfield
+  {journal} {\bibinfo  {journal} {Cultures of Science}\ }\textbf {\bibinfo
+  {volume} {8}},\ \bibinfo {pages} {87–94} (\bibinfo {year}
+  {2025})}\BibitemShut {NoStop}%
+\end{thebibliography}%

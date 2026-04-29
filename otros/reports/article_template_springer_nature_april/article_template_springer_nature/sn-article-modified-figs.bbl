@@ -1,0 +1,468 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{27}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\bibcommenthead
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem[\protect\citeauthoryear{Chakravartty}{2022}]{Chakravartty2022}
+\begin{barticle}
+\bauthor{\bsnm{Chakravartty}, \binits{A.}}:
+\batitle{Scientific knowledge vs. {K}nowledge of science: {P}ublic
+  understanding and science in society}.
+\bjtitle{Science {\&} Education}
+\bvolume{32}(\bissue{6}),
+\bfpage{1795}--\blpage{1812}
+(\byear{2022})
+\doiurl{10.1007/s11191-022-00376-6}
+\end{barticle}
+\endbibitem
+
+%%% 2
+\bibitem[\protect\citeauthoryear{Mede}{2022}]{Mede2022}
+\begin{botherref}
+\oauthor{\bsnm{Mede}, \binits{N.G.}}:
+Legacy media as inhibitors and drivers of public reservations against science:
+  global survey evidence on the link between media use and anti-science
+  attitudes.
+Humanities and Social Sciences Communications
+\textbf{9}(1)
+(2022)
+\doiurl{10.1057/s41599-022-01058-y}
+\end{botherref}
+\endbibitem
+
+%%% 3
+\bibitem[\protect\citeauthoryear{Cologna et~al.}{2025}]{Cologna2025}
+\begin{barticle}
+\bauthor{\bsnm{Cologna}, \binits{V.}},
+\bauthor{\bsnm{Mede}, \binits{N.G.}},
+\bauthor{\bsnm{Berger}, \binits{S.}}, \betal:
+\batitle{Trust in scientists and their role in society across 68 countries}.
+\bjtitle{Nature Human Behaviour}
+\bvolume{9}(\bissue{4}),
+\bfpage{713}--\blpage{730}
+(\byear{2025})
+\doiurl{10.1038/s41562-024-02090-5}
+\end{barticle}
+\endbibitem
+
+%%% 4
+\bibitem[\protect\citeauthoryear{Sturgis et~al.}{2021}]{Sturgis2021}
+\begin{barticle}
+\bauthor{\bsnm{Sturgis}, \binits{P.}},
+\bauthor{\bsnm{Brunton-Smith}, \binits{I.}},
+\bauthor{\bsnm{Jackson}, \binits{J.}}:
+\batitle{Trust in science, social consensus and vaccine confidence}.
+\bjtitle{Nature Human Behaviour}
+\bvolume{5}(\bissue{11}),
+\bfpage{1528}--\blpage{1534}
+(\byear{2021})
+\doiurl{10.1038/s41562-021-01115-7}
+\end{barticle}
+\endbibitem
+
+%%% 5
+\bibitem[\protect\citeauthoryear{Daza-Caicedo et~al.}{2014}]{Daza_Caicedo2014}
+\begin{botherref}
+\oauthor{\bsnm{Daza-Caicedo}, \binits{S.}},
+\oauthor{\bsnm{Lozano-Borda}, \binits{M.}},
+\oauthor{\bsnm{Bueno~Castellanos}, \binits{E.M.}},
+\oauthor{\bsnm{G{\'o}mez-Morales}, \binits{Y.J.}},
+\oauthor{\bsnm{Salazar~Acosta}, \binits{M.}},
+\oauthor{\bsnm{Jaime}, \binits{A.}},
+\oauthor{\bsnm{Aguirre~Guzm{\'a}n}, \binits{J.P.}},
+\oauthor{\bsnm{Rueda~Ortiz}, \binits{R.}},
+\oauthor{\bsnm{Franco-Avellaneda}, \binits{M.}},
+\oauthor{\bsnm{Rinc{\'o}n}, \binits{O.}},
+\oauthor{\bsnm{P{\'e}rez-Bustos}, \binits{T.}},
+\oauthor{\bsnm{Far{\'i}as}, \binits{D.}},
+\oauthor{\bsnm{Su{\'a}rez~M.}, \binits{R.}},
+\oauthor{\bsnm{Osorio~Marulanda}, \binits{C.}}:
+Percepciones de las ciencias y las tecnolog{\'i}as en colombia. {R}esultados de
+  la {III} {E}ncuesta {N}acional de {P}ercepci{\'o}n {P}{\'u}blica de la
+  {C}iencia y la {T}ecnolog{\'i}a.
+Technical report,
+Observatorio Colombiano de Ciencia y Tecnolog{\'i}a,
+Bogot{\'a}
+(2014)
+\end{botherref}
+\endbibitem
+
+%%% 6
+\bibitem[\protect\citeauthoryear{Coppock et~al.}{2018}]{Coppock2018}
+\begin{barticle}
+\bauthor{\bsnm{Coppock}, \binits{A.}},
+\bauthor{\bsnm{Ekins}, \binits{E.}},
+\bauthor{\bsnm{Kirby}, \binits{D.}}:
+\batitle{The long-lasting effects of newspaper op-{E}ds on public opinion}.
+\bjtitle{Quarterly Journal of Political Science}
+\bvolume{13}(\bissue{1}),
+\bfpage{59}--\blpage{87}
+(\byear{2018})
+\doiurl{10.1561/100.00016112}
+\end{barticle}
+\endbibitem
+
+%%% 7
+\bibitem[\protect\citeauthoryear{Syfert and Ceccarelli}{2025}]{Syfert2025}
+\begin{barticle}
+\bauthor{\bsnm{Syfert}, \binits{C.}},
+\bauthor{\bsnm{Ceccarelli}, \binits{L.}}:
+\batitle{{COVID} scientists as rhetorical citizens: {P}ersuasive op-eds and
+  public debate over science policy}.
+\bjtitle{Public Understanding of Science}
+\bvolume{34}(\bissue{5}),
+\bfpage{556}--\blpage{570}
+(\byear{2025})
+\doiurl{10.1177/09636625241304064}
+\end{barticle}
+\endbibitem
+
+%%% 8
+\bibitem[\protect\citeauthoryear{Caro~Lopera and
+  Garc{\'i}a~Zambrano}{2020}]{CaroLopera2020}
+\begin{botherref}
+\oauthor{\bsnm{Caro~Lopera}, \binits{M.A.}},
+\oauthor{\bsnm{Garc{\'i}a~Zambrano}, \binits{L.P.}}:
+Tendencias argumentativas en columnas de opini{\'o}n en dos peri{\'o}dicos de
+  alta circulaci{\'o}n en {C}olombia.
+Cuadernos de Ling{\"u}{\'i}stica Hisp{\'a}nica
+(35),
+97--110
+(2020)
+\doiurl{10.19053/0121053x.n35.2020.9742}
+\end{botherref}
+\endbibitem
+
+%%% 9
+\bibitem[\protect\citeauthoryear{{Python Software
+  Foundation}}{2023}]{python2023}
+\begin{botherref}
+\oauthor{\bsnm{{Python Software Foundation}}}:
+Python 3.12.7.
+\url{https://www.python.org/downloads/}.
+Accessed: 2025-07-01
+(2023)
+\end{botherref}
+\endbibitem
+
+%%% 10
+\bibitem[\protect\citeauthoryear{Chai}{2022}]{Chai2022}
+\begin{barticle}
+\bauthor{\bsnm{Chai}, \binits{C.P.}}:
+\batitle{Comparison of text preprocessing methods}.
+\bjtitle{Natural Language Engineering}
+\bvolume{29}(\bissue{3}),
+\bfpage{509}--\blpage{553}
+(\byear{2022})
+\doiurl{10.1017/S1351324922000213}
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem[\protect\citeauthoryear{Tyagi et~al.}{2024}]{Tyagi_text}
+\begin{bchapter}
+\bauthor{\bsnm{Tyagi}, \binits{A.}},
+\bauthor{\bsnm{Jain}, \binits{V.K.}},
+\bauthor{\bsnm{Kumar}, \binits{V.}}:
+\bctitle{Benchmark text preprocessing techniques in natural language
+  processing}.
+In: \bbtitle{2024 4th International Conference on Innovative Sustainable
+  Computational Technologies (CISCT)},
+pp. \bfpage{1}--\blpage{6}
+(\byear{2024}).
+\doiurl{10.1109/CISCT62494.2024.11134188}
+\end{bchapter}
+\endbibitem
+
+%%% 12
+\bibitem[\protect\citeauthoryear{Siino et~al.}{2024}]{Siino2024}
+\begin{barticle}
+\bauthor{\bsnm{Siino}, \binits{M.}},
+\bauthor{\bsnm{Tinnirello}, \binits{I.}},
+\bauthor{\bsnm{La~Cascia}, \binits{M.}}:
+\batitle{Is text preprocessing still worth the time? {A} comparative survey on
+  the influence of popular preprocessing methods on {T}ransformers and
+  traditional classifiers}.
+\bjtitle{Information Systems}
+\bvolume{121},
+\bfpage{102342}
+(\byear{2024})
+\doiurl{10.1016/j.is.2023.102342}
+\end{barticle}
+\endbibitem
+
+%%% 13
+\bibitem[\protect\citeauthoryear{Orellana et~al.}{2018}]{Orellana2018}
+\begin{bchapter}
+\bauthor{\bsnm{Orellana}, \binits{G.}},
+\bauthor{\bsnm{Arias}, \binits{B.}},
+\bauthor{\bsnm{Orellana}, \binits{M.}},
+\bauthor{\bsnm{Saquicela}, \binits{V.}},
+\bauthor{\bsnm{Baculima}, \binits{F.}},
+\bauthor{\bsnm{Piedra}, \binits{N.}}:
+\bctitle{A study on the impact of pre-processing techniques in spanish and
+  {E}nglish text classification over short and large text documents}.
+In: \bbtitle{2018 International Conference on Information Systems and Computer
+  Science (INCISCOS)},
+pp. \bfpage{277}--\blpage{283}
+(\byear{2018}).
+\doiurl{10.1109/inciscos.2018.00047}
+\end{bchapter}
+\endbibitem
+
+%%% 14
+\bibitem[\protect\citeauthoryear{Qi et~al.}{2020}]{qi2020stanza}
+\begin{bchapter}
+\bauthor{\bsnm{Qi}, \binits{P.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Bolton}, \binits{J.}},
+\bauthor{\bsnm{Manning}, \binits{C.D.}}:
+\bctitle{Stanza: {A} {P}ython natural language processing toolkit for many
+  human languages}.
+In: \bbtitle{Proceedings of the 58th Annual Meeting of the Association for
+  Computational Linguistics: System Demonstrations}
+(\byear{2020}).
+\burl{https://nlp.stanford.edu/pubs/qi2020stanza.pdf}
+\end{bchapter}
+\endbibitem
+
+%%% 15
+\bibitem[\protect\citeauthoryear{Wei et~al.}{2022}]{Wei2022}
+\begin{bchapter}
+\bauthor{\bsnm{Wei}, \binits{Z.}},
+\bauthor{\bsnm{Xu}, \binits{X.}},
+\bauthor{\bsnm{Wang}, \binits{C.}},
+\bauthor{\bsnm{Liu}, \binits{Z.}},
+\bauthor{\bsnm{Xin}, \binits{P.}},
+\bauthor{\bsnm{Zhang}, \binits{W.}}:
+\bctitle{An index construction and similarity retrieval method based on
+  sentence-{B}ert}.
+In: \bbtitle{2022 7th International Conference on Image, Vision and Computing
+  (ICIVC 2022)},
+pp. \bfpage{934}--\blpage{938}
+(\byear{2022}).
+\doiurl{10.1109/ICIVC55077.2022.9886134}
+\end{bchapter}
+\endbibitem
+
+%%% 16
+\bibitem[\protect\citeauthoryear{{UNESCO}}{1977}]{unesco_thesaurus_1977}
+\begin{botherref}
+\oauthor{\bsnm{{UNESCO}}}:
+{UNESCO} Thesaurus.
+\url{https://vocabularies.unesco.org/browser/thesaurus/es}.
+United Nations Educational, Scientific and Cultural Organization. Accessed:
+  2025-07-01
+(1977)
+\end{botherref}
+\endbibitem
+
+%%% 17
+\bibitem[\protect\citeauthoryear{Hosna et~al.}{2022}]{Hosna2022}
+\begin{botherref}
+\oauthor{\bsnm{Hosna}, \binits{A.}},
+\oauthor{\bsnm{Merry}, \binits{E.}},
+\oauthor{\bsnm{Gyalmo}, \binits{J.}},
+\oauthor{\bsnm{Alom}, \binits{Z.}},
+\oauthor{\bsnm{Aung}, \binits{Z.}},
+\oauthor{\bsnm{Azim}, \binits{M.A.}}:
+Transfer learning: a friendly introduction.
+Journal of Big Data
+\textbf{9}(1)
+(2022)
+\doiurl{10.1186/s40537-022-00652-w}
+\end{botherref}
+\endbibitem
+
+%%% 18
+\bibitem[\protect\citeauthoryear{Enevoldsen
+  et~al.}{2025}]{enevoldsen2025mmtebmassivemultilingualtext}
+\begin{botherref}
+\oauthor{\bsnm{Enevoldsen}, \binits{K.}},
+\oauthor{\bsnm{Chung}, \binits{I.}},
+\oauthor{\bsnm{Kerboua}, \binits{I.}}, et al.:
+{MMTEB}: {M}assive Multilingual Text Embedding Benchmark
+(2025).
+\url{https://arxiv.org/abs/2502.13595}
+\end{botherref}
+\endbibitem
+
+%%% 19
+\bibitem[\protect\citeauthoryear{Vera
+  et~al.}{2025}]{vera2025embeddinggemmapowerfullightweighttext}
+\begin{botherref}
+\oauthor{\bsnm{Vera}, \binits{H.S.}},
+\oauthor{\bsnm{Dua}, \binits{S.}},
+\oauthor{\bsnm{Zhang}, \binits{B.}}, et al.:
+{EmbeddingGemma}: {P}owerful and Lightweight Text Representations
+(2025).
+\url{https://arxiv.org/abs/2509.20354}
+\end{botherref}
+\endbibitem
+
+%%% 20
+\bibitem[\protect\citeauthoryear{Jurafsky and Martin}{2025}]{jurafsky2025}
+\begin{bbook}
+\bauthor{\bsnm{Jurafsky}, \binits{D.}},
+\bauthor{\bsnm{Martin}, \binits{J.H.}}:
+\bbtitle{Speech and Language Processing: An Introduction to Natural Language
+  Processing, Computational Linguistics, and Speech Recognition, with Language
+  Models},
+\bedition{3rd} edn.
+(\byear{2025}).
+\bcomment{Accessed: 2025-07-01}.
+\burl{https://web.stanford.edu/\texttildelow jurafsky/slp3/}
+\end{bbook}
+\endbibitem
+
+%%% 21
+\bibitem[\protect\citeauthoryear{Jehangir et~al.}{2023}]{Jehangir2023}
+\begin{barticle}
+\bauthor{\bsnm{Jehangir}, \binits{B.}},
+\bauthor{\bsnm{Radhakrishnan}, \binits{S.}},
+\bauthor{\bsnm{Agarwal}, \binits{R.}}:
+\batitle{A survey on {N}amed {E}ntity {R}ecognition --- datasets, tools, and
+  methodologies}.
+\bjtitle{Natural Language Processing Journal}
+\bvolume{3},
+\bfpage{100017}
+(\byear{2023})
+\doiurl{10.1016/j.nlp.2023.100017}
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem[\protect\citeauthoryear{Tedeschi
+  et~al.}{2021}]{tedeschi-etal-2021-wikineural-combined}
+\begin{bchapter}
+\bauthor{\bsnm{Tedeschi}, \binits{S.}},
+\bauthor{\bsnm{Maiorca}, \binits{V.}},
+\bauthor{\bsnm{Campolungo}, \binits{N.}},
+\bauthor{\bsnm{Cecconi}, \binits{F.}},
+\bauthor{\bsnm{Navigli}, \binits{R.}}:
+\bctitle{{W}iki{NE}u{R}al: {C}ombined neural and knowledge-based silver data
+  creation for multilingual {NER}}.
+In: \bbtitle{Findings of the Association for Computational Linguistics: EMNLP
+  2021},
+\bconflocation{Punta Cana, Dominican Republic},
+pp. \bfpage{2521}--\blpage{2533}
+(\byear{2021}).
+\burl{https://aclanthology.org/2021.findings-emnlp.215}
+\end{bchapter}
+\endbibitem
+
+%%% 23
+\bibitem[\protect\citeauthoryear{Abdelrazek et~al.}{2023}]{Abdelrazek2023}
+\begin{barticle}
+\bauthor{\bsnm{Abdelrazek}, \binits{A.}},
+\bauthor{\bsnm{Eid}, \binits{Y.}},
+\bauthor{\bsnm{Gawish}, \binits{E.}},
+\bauthor{\bsnm{Medhat}, \binits{W.}},
+\bauthor{\bsnm{Hassan}, \binits{A.}}:
+\batitle{Topic modeling algorithms and applications: {A} survey}.
+\bjtitle{Information Systems}
+\bvolume{112},
+\bfpage{102131}
+(\byear{2023})
+\doiurl{10.1016/j.is.2022.102131}
+\end{barticle}
+\endbibitem
+
+%%% 24
+\bibitem[\protect\citeauthoryear{Grootendorst}{2022}]{Grootendorst2022}
+\begin{botherref}
+\oauthor{\bsnm{Grootendorst}, \binits{M.}}:
+{BERT}opic: {N}eural topic modeling with a class-based {TF-IDF} procedure
+(2022).
+\url{https://arxiv.org/abs/2203.05794}
+\end{botherref}
+\endbibitem
+
+%%% 25
+\bibitem[\protect\citeauthoryear{R{\"o}der et~al.}{2015}]{Rder2015}
+\begin{bchapter}
+\bauthor{\bsnm{R{\"o}der}, \binits{M.}},
+\bauthor{\bsnm{Both}, \binits{A.}},
+\bauthor{\bsnm{Hinneburg}, \binits{A.}}:
+\bctitle{Exploring the space of topic coherence measures}.
+In: \bbtitle{Proceedings of the Eighth ACM International Conference on Web
+  Search and Data Mining (WSDM 2015)},
+pp. \bfpage{399}--\blpage{408}
+(\byear{2015}).
+\doiurl{10.1145/2684822.2685324}
+\end{bchapter}
+\endbibitem
+
+%%% 26
+\bibitem[\protect\citeauthoryear{He
+  et~al.}{2020}]{he2020surveyrecentadvancessequence}
+\begin{botherref}
+\oauthor{\bsnm{He}, \binits{Z.}},
+\oauthor{\bsnm{Wang}, \binits{Z.}},
+\oauthor{\bsnm{Wei}, \binits{W.}},
+\oauthor{\bsnm{Feng}, \binits{S.}},
+\oauthor{\bsnm{Mao}, \binits{X.}},
+\oauthor{\bsnm{Jiang}, \binits{S.}}:
+A Survey on Recent Advances in Sequence Labeling from Deep Learning Models
+(2020).
+\url{https://arxiv.org/abs/2011.06727}
+\end{botherref}
+\endbibitem
+
+%%% 27
+\bibitem[\protect\citeauthoryear{Chiche and Yitagesu}{2022}]{Chiche2022}
+\begin{botherref}
+\oauthor{\bsnm{Chiche}, \binits{A.}},
+\oauthor{\bsnm{Yitagesu}, \binits{B.}}:
+Part of speech tagging: a systematic review of deep learning and machine
+  learning approaches.
+Journal of Big Data
+\textbf{9}(1)
+(2022)
+\doiurl{10.1186/s40537-022-00561-y}
+\end{botherref}
+\endbibitem
+
+\end{thebibliography}

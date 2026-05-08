@@ -1,12 +1,10 @@
 # requirements.txt — busqueda_ciencia
 # Instalar con:  pip install -r requirements.txt
 
-pandas
-numpy
-torch
 sentence-transformers>=5.1.0
-transformers
-tqdm
+torch
+numpy
+pandas
+huggingface-hub
 openpyxl
-matplotlib
-huggingface_hub
+pyarrow

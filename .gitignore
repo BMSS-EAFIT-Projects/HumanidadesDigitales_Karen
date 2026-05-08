@@ -5,5 +5,6 @@ data/processed/chunk_embeddings.npy
 data/processed/chunk_embeddings.npy
 data/processed/chunk_embeddings_lit.npy
 data/processed/obras_embeddings.npy
-/otros/
-otros/
+/otros/reports/
+otros/reports/
+/otros/SIN_conference/

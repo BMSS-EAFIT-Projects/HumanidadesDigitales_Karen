@@ -20,7 +20,7 @@ DIR_RESULTS           = r"/home/mst-kmgomezm/hhdd/data/results"                 
 
 MODEL_ID   = "google/embeddinggemma-300M"
 BATCH_SIZE = 8
-RELOAD     = True   # True = recalcular embeddings aunque ya existan
+RELOAD     = False   # True = recalcular embeddings aunque ya existan
 
 # Credenciales Hugging Face
 
@@ -28,10 +28,8 @@ RELOAD     = True   # True = recalcular embeddings aunque ya existan
 #   Linux/Mac:  export HF_TOKEN="hf_xxxx"
 #   Windows:    set HF_TOKEN=hf_xxxx
 # Opción C: pegar el token directamente (no subir a git)
-#   HF_TOKEN = "hf_xxxx"
-
+# HF_TOKEN = "hf_xxxx"  # <<< pegar token aquí (opcional, no subir a git)
 HF_TOKEN = os.environ.get("HF_TOKEN", None)
-print(f"Token encontrado: {HF_TOKEN is not None}")  # para confirmar en los logs
 
 # =============================================================================
 # 2. AUTENTICACIÓN HUGGING FACE
